@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="50.2px" width="312.5px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="50.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="312.5" xlink:href="#shape0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M273.0 28.1 L273.55 28.1 253.2 20.6 253.0 17.0 276.6 26.75 276.45 27.35 276.4 27.55 275.9 29.15 273.0 28.1" fill="#c9c7b6" fill-rule="evenodd" stroke="none"/>
+      <path d="M253.2 20.6 L273.55 28.1 273.0 28.1 253.2 20.75 61.35 20.75 60.7 19.8 60.6 19.7 60.65 19.7 250.85 19.7 253.2 20.6" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M276.4 27.55 L276.45 27.35 276.5 27.35 Q277.9 27.25 277.9 26.75 L277.6 26.25 252.25 16.2 233.65 16.4 58.85 16.55 59.4 17.55 54.85 15.6 54.25 15.35 54.1 15.25 54.25 15.25 252.45 15.25 281.85 27.55 279.3 27.55 276.4 27.55" fill="#9e988b" fill-rule="evenodd" stroke="none"/>
+      <path d="M276.45 27.35 L276.6 26.75 253.0 17.0 246.85 16.55 233.65 16.4 252.25 16.2 277.6 26.25 277.9 26.75 Q277.9 27.25 276.5 27.35 L276.45 27.35" fill="#706c63" fill-rule="evenodd" stroke="none"/>
+      <path d="M54.25 15.25 L53.8 14.25 252.1 14.25 281.55 26.55 282.1 27.7 279.3 27.55 281.85 27.55 252.45 15.25 54.25 15.25 M54.25 15.35 L54.85 15.6 54.35 15.55 54.25 15.35" fill="#6b675e" fill-rule="evenodd" stroke="none"/>
+      <path d="M273.0 28.1 L275.9 29.15 86.55 29.15 61.2 20.75 61.35 20.75 253.2 20.75 273.0 28.1" fill="#ebe7d4" fill-rule="evenodd" stroke="none"/>
+      <path d="M253.0 17.0 L253.2 20.6 250.85 19.7 60.65 19.7 59.4 17.55 58.85 16.55 233.65 16.4 246.85 16.55 253.0 17.0 M60.7 19.8 L61.35 20.75 61.2 20.75 60.7 19.8" fill="#c2bfaf" fill-rule="evenodd" stroke="none"/>
+      <path d="M260.9 7.35 Q308.9 14.7 312.25 25.1 315.6 35.5 272.25 42.85 228.9 50.2 164.3 50.2 99.7 50.2 51.65 42.85 3.6 35.5 0.25 25.1 -3.1 14.7 40.25 7.35 83.6 0.0 148.25 0.0 212.85 0.0 260.9 7.35" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.1904, 0.0, -0.0098, -0.0306, 156.25, 25.1)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#ffffff" stop-opacity="0.3137255"/>
+      <stop offset="1.0" stop-color="#ffffff" stop-opacity="0.0"/>
+    </radialGradient>
+  </defs>
+</svg>

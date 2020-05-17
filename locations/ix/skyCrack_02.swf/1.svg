@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="337.35px" width="120.65px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="337.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="120.65" xlink:href="#shape0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M72.65 46.7 L68.65 17.35 49.3 0.0 73.3 15.35 78.0 48.7 94.65 54.0 74.0 52.0 51.3 62.0 56.65 94.7 94.0 105.35 78.0 127.35 92.0 154.0 68.65 165.35 70.65 201.35 48.0 212.0 44.0 226.0 54.65 236.7 72.0 232.7 92.0 243.35 120.65 246.0 90.65 247.35 68.65 238.0 58.0 242.0 57.3 257.35 68.0 262.7 74.65 278.7 88.65 286.7 82.65 308.0 84.65 288.7 69.3 282.7 64.0 267.35 52.0 262.7 52.65 244.7 42.0 238.0 30.65 255.35 34.65 294.0 14.65 316.7 8.0 337.35 10.65 314.0 29.3 290.7 21.3 254.7 34.0 232.7 33.3 214.7 11.3 201.35 16.0 162.7 0.0 145.35 5.3 114.7 45.3 92.0 45.3 58.7 72.65 46.7" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+      <path d="M26.35 192.25 L37.8 197.3 40.05 184.5 42.8 196.85 55.65 192.7 45.1 199.15 53.35 206.45 41.9 201.9 34.55 220.65 38.7 203.25 20.6 206.95 20.25 206.75 34.1 201.9 26.35 192.25" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M70.35 268.35 L73.8 276.65 67.65 277.9 67.1 276.3 71.1 274.9 63.35 265.25 70.35 268.35" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M75.05 278.9 L76.9 279.95 75.0 284.9 73.75 284.4 75.05 278.9" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M58.65 147.45 L46.75 146.75 59.4 145.05 60.1 135.75 60.8 144.35 67.0 139.8 63.2 145.3 68.2 149.6 61.55 147.45 59.15 159.1 58.65 147.45" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M19.2 133.4 L12.15 145.15 12.15 133.95 2.4 131.5 2.5 130.8 12.75 129.85 13.9 116.35 17.45 128.65 29.8 131.6 19.2 133.4" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M50.75 84.1 L50.75 72.95 45.3 71.55 45.3 69.4 51.35 68.8 51.7 64.5 54.05 78.65 50.75 84.1" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M54.1 60.8 L51.95 61.7 52.5 55.5 52.6 55.5 54.1 60.8" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M67.5 97.8 L70.95 98.75 73.35 102.3 77.6 100.65 80.2 101.4 75.05 106.0 78.9 119.35 70.3 106.85 54.3 110.85 68.9 103.65 67.5 97.8" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.1526, 0.1526, 0.0, 60.3, 173.35)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#223a3b"/>
+      <stop offset="1.0" stop-color="#2f5d60"/>
+    </linearGradient>
+  </defs>
+</svg>

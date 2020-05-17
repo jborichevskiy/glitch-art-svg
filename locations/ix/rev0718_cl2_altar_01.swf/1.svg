@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="54.55px" width="334.65px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="37.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 17.3)" width="333.75" xlink:href="#sprite0"/>
+    <use height="52.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 5.3, 0.0)" width="329.35" xlink:href="#shape1"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="37.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="333.75" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M331.6 12.25 L333.75 15.6 243.25 13.85 216.35 26.35 211.0 26.6 212.0 34.75 175.0 37.25 128.75 34.75 129.6 29.75 123.0 30.35 109.75 22.25 0.0 18.0 13.6 12.85 22.1 2.6 87.5 0.0 242.1 4.75 331.6 12.25" fill="#000000" fill-opacity="0.40784314" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, -5.3, 0.0)">
+      <path d="M334.65 16.0 L330.0 23.35 332.65 31.35 242.65 30.0 216.65 42.65 123.3 46.0 110.0 38.0 5.3 34.65 12.0 27.35 6.0 15.35 210.65 12.65 334.65 16.0" fill="#e66879" fill-rule="evenodd" stroke="none"/>
+      <path d="M236.0 18.65 L213.3 27.35 125.3 26.0 Q114.0 20.0 112.0 20.0 L6.0 15.35 83.3 2.65 128.65 4.65 194.65 6.65 292.65 0.0 334.65 16.0 236.0 18.65" fill="#ec9699" fill-rule="evenodd" stroke="none"/>
+      <path d="M196.1 7.3 Q212.5 7.4 219.25 6.9 L246.25 5.15 231.4 6.95 195.5 9.15 Q178.0 9.45 130.0 7.95 L85.5 6.4 16.5 14.9 84.25 3.9 116.95 5.3 165.25 6.9 196.1 7.3" fill="#e66879" fill-rule="evenodd" stroke="none"/>
+      <path d="M242.65 30.0 L216.65 42.65 213.3 27.35 237.0 18.35 242.65 30.0" fill="#ea868d" fill-rule="evenodd" stroke="none"/>
+      <path d="M330.0 23.35 L331.3 27.35 291.3 26.35 330.0 23.35" fill="#ea868d" fill-rule="evenodd" stroke="none"/>
+      <path d="M334.65 16.0 L331.65 20.35 320.0 18.65 278.65 19.65 254.0 21.65 237.0 18.35 334.65 16.0" fill="#d04062" fill-rule="evenodd" stroke="none"/>
+      <path d="M113.3 20.65 L98.65 21.65 47.0 20.35 19.0 21.35 10.25 23.9 6.0 15.35 113.3 20.65" fill="#d04062" fill-rule="evenodd" stroke="none"/>
+      <path d="M12.0 27.35 L33.65 29.65 51.3 29.35 31.3 31.65 9.0 30.65 12.0 27.35" fill="#ea868d" fill-rule="evenodd" stroke="none"/>
+      <path d="M204.65 35.35 L212.0 42.65 130.65 41.35 137.3 36.0 204.65 35.35" fill="#ec9699" fill-rule="evenodd" stroke="none"/>
+      <path d="M212.0 42.65 L212.0 50.65 Q182.0 53.35 170.0 52.65 L130.65 50.65 130.65 41.35 212.0 42.65" fill="#e66879" fill-rule="evenodd" stroke="none"/>
+      <path d="M125.3 26.0 L123.3 46.0 110.0 38.0 113.3 20.65 125.3 26.0" fill="#d4586c" fill-rule="evenodd" stroke="none"/>
+      <path d="M314.3 11.65 L291.0 1.0 325.3 14.0 273.3 15.35 314.3 11.65" fill="#f4c6c3" fill-rule="evenodd" stroke="none"/>
+      <path d="M182.75 24.15 L211.75 26.15 126.0 24.4 116.75 19.9 127.5 22.65 182.75 24.15" fill="#f4c6c3" fill-rule="evenodd" stroke="none"/>
+      <path d="M213.75 25.55 L236.25 17.15 213.6 26.55 213.75 25.55" fill="#f4c6c3" fill-rule="evenodd" stroke="none"/>
+      <path d="M137.5 36.4 L136.5 39.15 210.6 42.15 132.5 40.65 137.5 36.4" fill="#f4c6c3" fill-rule="evenodd" stroke="none"/>
+      <path d="M183.4 43.65 L174.4 43.7 Q138.35 43.7 136.0 44.65 133.65 45.6 132.85 47.7 132.5 48.7 132.5 49.5 L132.25 42.9 183.4 43.65" fill="#d04062" fill-rule="evenodd" stroke="none"/>
+      <path d="M124.5 44.4 L126.5 27.65 212.25 28.65 154.75 30.65 138.9 30.2 Q129.8 30.2 128.25 32.4 126.7 34.6 125.45 39.7 124.8 42.3 124.5 44.4" fill="#d04062" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

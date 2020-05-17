@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="96.6px" width="72.45px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="96.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="72.45" xlink:href="#shape0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M33.4 0.1 Q63.4 -2.1 70.4 47.05 73.9 71.6 71.4 96.6 L3.4 91.6 Q-1.1 69.6 0.4 47.15 3.4 2.3 33.4 0.1" fill="#7f4c53" fill-rule="evenodd" stroke="none"/>
+      <path d="M29.9 9.6 Q53.05 5.25 61.3 45.25 65.4 65.25 64.9 86.1 L11.4 84.6 Q9.45 67.1 10.75 48.95 13.45 12.7 29.9 9.6" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+      <path d="M12.55 82.1 L62.9 83.1 64.9 86.1 11.4 84.6 12.55 82.1" fill="#9a6d71" fill-rule="evenodd" stroke="none"/>
+      <path d="M10.65 47.85 Q11.7 36.15 14.4 27.45 15.75 23.1 16.9 21.1 16.05 24.15 14.95 28.9 12.85 38.4 11.9 46.85 10.95 55.3 11.65 69.55 12.0 76.65 12.55 82.1 L11.4 84.6 Q10.85 79.65 10.45 72.6 9.7 58.5 10.65 47.85" fill="#b89798" fill-rule="evenodd" stroke="none"/>
+      <path d="M60.65 41.85 Q63.35 53.5 64.5 69.35 64.95 75.05 64.9 86.1 L62.9 83.1 Q63.4 70.95 62.4 59.45 61.2 46.15 57.25 33.0 L53.5 22.45 55.95 27.3 Q58.8 33.8 60.65 41.85" fill="#57363a" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0064, 0.097, 0.097, -0.0064, 34.0, 19.3)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#e2c47c"/>
+      <stop offset="1.0" stop-color="#e0ede0"/>
+    </linearGradient>
+  </defs>
+</svg>

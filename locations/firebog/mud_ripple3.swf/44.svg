@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="20.45px" width="66.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="20.45" transform="matrix(0.3747, 0.0, 0.0, 0.3747, 20.55, 6.4)" width="65.8" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="20.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="65.8" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M56.15 2.9 Q65.8 5.85 65.8 10.1 65.85 14.35 56.2 17.4 46.55 20.4 32.95 20.45 19.35 20.55 9.7 17.6 0.05 14.65 0.0 10.4 0.0 6.15 9.6 3.1 19.25 0.1 32.85 0.0 46.5 -0.05 56.15 2.9 M47.55 13.3 Q54.2 11.45 54.2 8.8 54.2 6.15 47.55 4.3 40.9 2.45 31.5 2.5 22.15 2.55 15.5 4.45 8.85 6.3 8.85 8.95 8.9 11.6 15.55 13.45 22.2 15.3 31.55 15.25 40.9 15.2 47.55 13.3" fill="#524741" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="620.0px" width="1732.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="255.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 43.1, 195.75)" width="1682.85" xlink:href="#shape0"/>
+    <use height="785.3" transform="matrix(1.0, 0.0, 0.0, 1.0, -720.55, -266.4)" width="3369.55" xlink:href="#sprite0"/>
+    <use height="254.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 43.1, 195.75)" width="1682.85" xlink:href="#sprite38"/>
+    <use height="254.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 43.1, 195.75)" width="1682.85" xlink:href="#sprite39"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, -43.1, -195.75)">
+      <path d="M1277.35 200.5 Q1449.35 204.8 1511.6 211.2 1617.85 222.25 1682.55 253.1 1702.75 262.75 1716.35 273.2 1723.2 278.45 1725.95 281.75 L1725.95 450.3 43.1 450.3 43.1 281.75 44.5 279.7 Q46.6 277.0 50.05 274.05 61.05 264.5 81.3 255.3 146.2 225.9 279.55 211.2 355.4 202.85 538.15 198.85 702.15 195.25 911.85 195.85 1112.15 196.4 1277.35 200.5" fill="#605142" fill-rule="evenodd" stroke="none"/>
+      <pattern height="72" id="PatternID_2_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 848.5, 288.15)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72" width="72">
+        <image height="72" width="72" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAEXElEQVR42u1cWY7iMBCNQOxbBEJI/JAfhMQPvgG5ARwhR+EIHHlcmtCK0rZTVV7ipCmpP2Z6krj2V4snSSq02WyyhE4p87lkMpkUqr9fLBavpAVaLpfPpgPnmBeNRqNWGHBJw+HwF69S0YKq4Vz+cK0jkx9MXTAzn8+F/Cmw/14qUGDOZ30wGyZdCkhHu90u5wooGA0Gg8L2HRDDdMya6HK5ZNj3O1OWlH5BCahdIHBRnUu1ypdO2IfDIaNkvvV6/Y5eC/f7HUw0i+Es0h3furhXz8TBLAQ+7jP4QQzi4qlOkwR9OSNmtBrvxuPxU2sMs9ns1WeFSYD48uJeKuRpGcAF5xwusRXw5AQwYmi1Wr18CeiDtbACcoHNglEM+EmV3aIhTAF4Op1+mfl+vxcxMfFu812qMkO6bFDLA1Bbd3tA4KiHpTYLDWPPmApDsESpIGeutN1ucUo6n8/OhcANpKbnpIBQzbu+Qxk0lTUfCRaQQKqu2CT6KPqQ5I4eAsUHwzkaoPWsMZgqhCGwh5Sm/4wO17jEKVjE7Rruq5rt0rq12XQ6neIzLRZvgG9GhU046diiTCh8/vs/R5TAB+Zv0jDgFsg2FIvXKYjT1wbPqGM5bdiBAMuN+pjGuO+6TFWyuCZ2UQdaaBIuJ437cGdp1fggrUutX/KYAXw02AIVrALarazKFv5cBWxlj4Xt802BGRRncskmlO+7kO0UQDW0UZ7VQpaSLb1CgFi6dz66EHU3IBd7t9stVc3MAb/4Gudw32tdyAKjvjc0KGSqoTiJIUilXwLEzmUsHUEi0gqOM/oFC+MGP93UNdqOH1ZAXqaTHaWC25QH68AuOCEVh3bjMpO6SQi+WhfgdoA9PFt8Tg0H5MAs07KVlnW7OsSDC/SIxaJ6t+lWVM0zd4k1OkJZiFaJKpjrhC0QsS1kwZuWG3R2gdJn71exuaF1B5Vbt77RUfdfEBhne8xkbW3OsOS337pf9BLT6ATe5XVmSqZMXWEsFvmYf9nc+1BhLOoEw5onAHUfBjjgEcbQpsyEmXqUz7MYgWdN3682zz6ZVJ4Hz6cTEEVTiGBYdpzxw0e7kqS92AksS5XSoXHufS7+1wgEahqtaPGIGliKMv69679LkPdKjsdjPxVc7iJZu32wRQzQZp8K2tIKU1axyQR75BG3qvXKuRFdtxJMBi27GtmPtFwKQ2W21+tVROSeBdmfORiI0+SqtjNUHUHS5kXPKbVtUrma4Ma6WkgVRqEqXxxBj4J6GOOHG7ZE0RjEE+q3/nbj5kgXd3uarKFTEASLlr/kw/xxCnp9JcnDRxn1gaIhIKJuEz4eD9RIpe3OAOxDOX1h/Y6E6jILMI3tJemqfEKjPW31dg8GHmAyoOv1lopg2xNQzM0xX+f6KYypGMFFJgmJwIPfq6X0p2VMMl5maXuiaoqpqozDLiAx/yuCy+4deiueUOg23iXhDOSS/123DHOZhdP/tS0RVNedKJjnH6UDkpP7uQS8AAAAAElFTkSuQmCC"/>
+      </pattern>
+      <path d="M1716.35 274.35 Q1723.2 279.6 1725.95 282.9 L1725.95 451.45 43.1 451.45 43.1 282.9 44.5 280.85 Q46.6 278.15 50.05 275.2 61.05 265.65 81.3 256.45 146.2 227.05 279.55 212.35 355.4 204.0 538.15 200.0 702.15 196.4 911.85 197.0 1112.15 197.55 1277.35 201.65 1449.35 205.95 1511.6 212.35 1617.85 223.4 1682.55 254.25 1702.75 263.9 1716.35 274.35" style="fill:url(#PatternID_2_1)"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, -33.7, 0.0)">
+      <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, -33.7, 0.0)">
+        <use height="254.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 797.35, 464.45)" width="1682.85" xlink:href="#shape1"/>
+      </clipPath>
+      <g clip-path="url(#clipPath0)">
+        <use height="24.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 474.0, 285.2)" width="1478.1" xlink:href="#sprite1"/>
+        <use height="42.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 1525.45, 289.0)" width="1484.45" xlink:href="#sprite2"/>
+        <use height="43.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 1207.25, 226.95)" width="1492.4" xlink:href="#sprite3"/>
+        <use height="39.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 259.6, 196.3)" width="1486.5" xlink:href="#sprite4"/>
+        <use height="32.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 1987.35, 255.5)" width="805.55" xlink:href="#sprite5"/>
+        <use height="43.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 530.2, 104.2)" width="1216.0" xlink:href="#sprite6"/>
+        <use height="29.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 363.8, 249.85)" width="796.5" xlink:href="#sprite7"/>
+        <use height="37.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 1754.15, 96.75)" width="818.2" xlink:href="#sprite8"/>
+        <use height="26.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 1064.9, 83.7)" width="1397.6" xlink:href="#sprite9"/>
+        <use height="14.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 822.9, 47.65)" width="798.3" xlink:href="#sprite10"/>
+        <use height="37.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 1658.0, 30.6)" width="799.8" xlink:href="#sprite11"/>
+        <use height="24.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 1168.1, 0.0)" width="1037.75" xlink:href="#sprite12"/>
+        <use height="29.4" transform="matrix(1.0, 0.0, 0.0, 1.0, 323.75, 331.4)" width="1170.85" xlink:href="#sprite13"/>
+        <use height="20.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 769.35, 414.8)" width="1457.9" xlink:href="#sprite14"/>
+        <use height="45.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 1563.05, 408.85)" width="1462.85" xlink:href="#sprite15"/>
+        <use height="57.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 1896.65, 168.0)" width="1506.6" xlink:href="#sprite16"/>
+        <use height="26.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 1136.25, 157.0)" width="1506.25" xlink:href="#sprite17"/>
+        <use height="46.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 1247.05, 349.65)" width="1470.2" xlink:href="#sprite18"/>
+        <use height="27.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 170.45, 370.35)" width="786.2" xlink:href="#sprite19"/>
+        <use height="26.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 386.4, 430.85)" width="780.6" xlink:href="#sprite20"/>
+        <use height="51.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 1404.95, 489.25)" width="1444.45" xlink:href="#sprite21"/>
+        <use height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 394.45, 519.45)" width="1438.15" xlink:href="#sprite22"/>
+        <use height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 682.3, 485.35)" width="1445.85" xlink:href="#sprite23"/>
+        <use height="43.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 2013.6, 445.95)" width="781.7" xlink:href="#sprite24"/>
+        <use height="43.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 1858.7, 525.25)" width="777.35" xlink:href="#sprite25"/>
+        <use height="49.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 1208.35, 574.7)" width="1425.65" xlink:href="#sprite26"/>
+        <use height="21.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 240.25, 589.25)" width="1425.05" xlink:href="#sprite27"/>
+        <use height="21.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 417.95, 546.35)" width="1433.6" xlink:href="#sprite28"/>
+        <use height="29.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 151.45, 616.8)" width="1415.7" xlink:href="#sprite29"/>
+        <use height="42.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 1721.45, 564.8)" width="770.95" xlink:href="#sprite30"/>
+        <use height="42.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 2335.0, 612.6)" width="768.4" xlink:href="#sprite31"/>
+        <use height="36.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 1477.1, 701.35)" width="1411.7" xlink:href="#sprite32"/>
+        <use height="39.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 556.75, 612.4)" width="1406.05" xlink:href="#sprite33"/>
+        <use height="39.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 33.7, 684.8)" width="1399.3" xlink:href="#sprite34"/>
+        <use height="16.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 923.8, 744.15)" width="1401.8" xlink:href="#sprite35"/>
+        <use height="35.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 2075.8, 664.3)" width="765.15" xlink:href="#sprite36"/>
+        <use height="34.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 1855.25, 751.05)" width="755.55" xlink:href="#sprite37"/>
+      </g>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, -797.35, -464.45)">
+      <path d="M2031.6 469.2 Q2203.6 473.5 2265.85 479.9 2372.1 490.95 2436.8 521.8 2457.0 531.45 2470.6 541.9 2477.45 547.15 2480.2 550.45 L2480.2 719.0 797.35 719.0 797.35 550.45 798.75 548.4 Q800.85 545.7 804.3 542.75 815.3 533.2 835.55 524.0 900.45 494.6 1033.8 479.9 1109.65 471.55 1292.4 467.55 1456.4 463.95 1666.1 464.55 1866.4 465.1 2031.6 469.2" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="24.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="1478.1" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1478.1 8.5 L1356.9 14.4 Q1183.85 22.15 1107.25 23.5 1037.5 24.8 939.2 23.35 825.55 21.7 794.15 21.85 739.7 22.1 545.1 19.6 L283.0 16.3 Q139.95 15.0 55.7 7.4 13.55 3.55 0.0 0.0 95.55 2.35 221.6 4.75 473.75 9.55 626.5 9.75 703.1 9.9 797.4 8.7 L938.3 6.8 Q1007.55 5.95 1041.85 6.55 1084.85 7.35 1100.6 10.65 1128.8 16.55 1324.55 12.35 1403.15 10.65 1478.1 8.5" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.55)">
+      <use height="42.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 2.55)" width="1484.45" xlink:href="#shape3"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.55)">
+      <path d="M1484.45 2.55 L1363.65 11.85 Q1191.1 24.4 1114.4 27.95 1044.75 31.15 945.5 32.55 831.55 34.1 799.6 35.15 745.15 36.95 549.5 40.0 L286.3 44.1 Q143.1 46.85 57.25 41.65 14.3 39.05 0.0 35.9 96.0 35.55 222.55 34.35 475.7 32.0 628.75 27.95 L800.0 22.1 941.0 16.2 1044.9 13.0 Q1088.25 12.6 1104.85 15.4 1134.55 20.45 1330.65 10.75 L1484.45 2.55" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.6)">
+      <use height="43.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 2.6)" width="1492.4" xlink:href="#shape4"/>
+    </g>
+    <g id="shape4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.6)">
+      <path d="M1492.4 2.6 L1371.2 12.05 Q1198.1 24.8 1121.05 28.4 1050.85 31.7 951.25 33.05 835.85 34.65 804.5 35.7 749.8 37.55 553.05 40.65 L288.35 44.85 Q144.4 47.65 57.8 42.35 14.5 39.75 0.0 36.55 96.55 36.2 223.85 34.95 478.45 32.55 632.3 28.4 L804.4 22.45 946.05 16.45 Q1015.8 13.6 1050.5 13.25 1094.1 12.8 1110.9 15.65 1141.0 20.8 1338.0 10.9 L1492.4 2.6" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="39.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="1486.5" xlink:href="#shape5"/>
+    </g>
+    <g id="shape5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1486.5 28.85 L1363.95 33.2 Q1189.0 38.7 1111.85 39.05 1041.55 39.4 942.85 36.6 828.75 33.4 797.15 33.1 742.65 32.65 546.65 27.45 L283.05 20.55 Q139.0 17.25 55.1 8.3 13.15 3.85 0.0 0.0 L222.75 7.85 Q476.25 16.2 630.1 18.55 707.15 19.7 802.25 19.8 L944.3 19.75 Q1014.1 19.8 1048.45 20.9 1091.55 22.3 1106.95 25.85 1134.5 32.25 1331.7 30.65 1410.85 30.0 1486.5 28.85" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="32.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="805.55" xlink:href="#shape6"/>
+    </g>
+    <g id="shape6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M723.75 8.9 Q633.85 18.3 593.55 20.9 L504.2 24.15 Q444.05 25.2 426.75 26.0 397.95 27.3 294.0 29.35 L154.05 32.15 Q77.95 34.1 31.35 30.0 8.1 27.95 0.0 25.5 51.2 25.35 118.6 24.6 253.45 23.1 334.55 20.2 L424.95 15.95 499.25 11.6 Q570.95 7.55 586.45 11.2 603.1 15.15 706.0 7.95 L805.55 0.0 723.75 8.9" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="43.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="1216.0" xlink:href="#shape7"/>
+    </g>
+    <g id="shape7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1087.95 35.45 Q947.5 42.3 885.8 42.9 829.65 43.45 750.9 40.4 L634.75 36.7 Q590.95 36.3 434.95 30.7 L224.75 23.25 Q109.8 19.8 43.4 9.55 10.2 4.45 0.0 0.0 L177.5 8.65 Q379.6 17.75 502.45 20.1 564.0 21.3 640.05 21.2 L753.65 20.8 Q809.5 20.75 836.85 21.9 871.2 23.4 883.15 27.55 904.55 34.95 1062.4 32.6 1141.35 31.4 1216.0 28.75 L1087.95 35.45" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="29.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="796.5" xlink:href="#shape8"/>
+    </g>
+    <g id="shape8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M712.7 25.5 L580.4 29.85 Q543.5 30.1 492.0 27.95 L415.85 25.25 284.85 20.95 147.05 15.6 Q71.75 13.05 28.35 6.3 6.65 2.9 0.0 0.0 L116.25 6.0 Q248.6 12.4 329.1 14.2 369.45 15.1 419.2 15.2 L493.65 15.2 Q565.4 15.35 578.55 19.85 592.6 24.75 695.95 23.55 747.65 22.95 796.5 21.4 L712.7 25.5" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="37.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="818.2" xlink:href="#shape9"/>
+    </g>
+    <g id="shape9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M735.65 9.65 Q644.9 19.9 604.05 22.85 L513.3 26.75 Q451.65 28.15 434.6 29.05 L299.7 33.3 157.5 37.0 Q80.2 39.4 32.35 35.4 8.45 33.4 0.0 30.9 L120.7 29.35 Q257.85 27.05 340.15 23.6 L431.85 18.65 507.15 13.75 Q579.8 9.15 595.95 12.85 613.25 16.8 717.45 8.8 769.55 4.8 818.2 0.0 L735.65 9.65" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="26.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="1397.6" xlink:href="#shape10"/>
+    </g>
+    <g id="shape10" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1022.65 25.1 Q958.5 27.35 867.7 26.35 763.1 25.2 733.85 25.7 683.8 26.55 504.1 25.05 L262.25 23.1 Q130.4 22.65 52.0 13.5 12.85 8.9 0.0 4.4 88.25 6.6 204.65 8.6 437.45 12.6 578.3 11.55 649.0 11.05 735.85 8.7 L865.7 4.9 Q929.55 3.2 961.15 3.7 1000.85 4.3 1015.65 8.45 1042.1 15.9 1222.5 8.7 L1397.6 0.0 1252.45 11.05 Q1093.2 22.65 1022.65 25.1" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite10" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="14.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="798.3" xlink:href="#shape11"/>
+    </g>
+    <g id="shape11" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M715.75 6.4 Q625.1 12.7 584.85 14.0 548.15 15.15 496.25 14.4 436.05 13.55 419.75 13.75 390.95 14.15 288.3 12.9 L149.9 11.3 Q74.45 10.8 29.7 5.35 7.3 2.65 0.0 0.0 L117.0 2.85 Q250.1 5.6 330.65 5.3 371.0 5.15 420.65 4.0 L494.75 2.1 Q566.25 0.4 580.5 4.4 595.75 8.7 698.55 4.95 L798.3 0.3 715.75 6.4" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite11" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="37.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="799.8" xlink:href="#shape12"/>
+    </g>
+    <g id="shape12" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M719.05 9.25 Q630.25 19.05 590.3 21.9 L501.65 25.75 Q441.2 27.25 424.7 28.1 L292.8 32.35 153.8 36.15 Q78.25 38.6 31.55 34.95 8.25 33.1 0.0 30.8 50.95 30.3 117.95 29.05 252.0 26.65 332.45 23.2 L422.15 18.35 495.75 13.6 Q566.8 9.1 582.55 12.55 599.4 16.25 701.3 8.5 L799.8 0.0 719.05 9.25" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite12" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="24.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="1037.75" xlink:href="#shape13"/>
+    </g>
+    <g id="shape13" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M754.7 8.7 Q774.9 13.8 908.35 7.4 L1037.75 0.0 930.85 8.9 Q813.5 18.25 761.25 20.55 713.8 22.6 646.1 22.5 568.5 22.4 546.55 22.95 509.25 23.9 375.75 24.05 L195.85 24.3 Q97.9 24.95 39.15 18.9 9.8 15.9 0.0 12.75 65.65 13.75 152.25 14.35 325.4 15.6 429.95 13.9 482.4 13.05 546.75 10.75 L642.9 7.2 Q690.25 5.55 713.75 5.65 743.35 5.85 754.7 8.7" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite13" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="29.4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="1170.85" xlink:href="#shape14"/>
+    </g>
+    <g id="shape14" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1170.85 16.85 Q637.15 28.95 574.9 29.35 538.5 29.6 487.35 27.5 L411.9 24.85 282.15 20.55 145.7 15.3 Q71.1 12.85 28.1 6.15 6.6 2.85 0.0 0.0 L115.15 5.9 325.95 13.95 Q367.5 14.9 472.1 13.45 L671.0 10.15 Q924.9 5.75 937.0 9.95 950.8 14.75 1077.4 16.05 L1170.85 16.85" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite14" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="20.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="1457.9" xlink:href="#shape15"/>
+    </g>
+    <g id="shape15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1457.9 3.45 L1338.35 9.6 Q1167.7 17.65 1092.15 19.25 1023.4 20.7 926.35 19.6 814.3 18.35 783.3 18.6 729.25 19.05 537.6 17.3 L279.05 14.9 Q138.1 14.1 54.95 7.0 13.4 3.4 0.0 0.0 94.2 1.95 218.5 3.9 467.1 7.7 617.75 7.45 693.4 7.35 786.35 5.9 L925.3 3.55 Q993.7 2.5 1027.45 3.0 1069.85 3.6 1085.45 6.75 1113.35 12.4 1306.45 7.7 1383.95 5.8 1457.9 3.45" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.6)">
+      <use height="45.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 2.6)" width="1462.85" xlink:href="#shape16"/>
+    </g>
+    <g id="shape16" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.6)">
+      <path d="M1462.85 2.6 L1344.05 12.05 Q1174.35 24.8 1098.8 28.5 1030.2 31.85 932.35 33.5 820.05 35.35 788.5 36.5 734.95 38.4 542.0 42.0 L282.6 46.85 Q141.55 49.95 56.65 45.2 14.25 42.8 0.0 39.8 94.6 39.15 219.4 37.6 468.9 34.5 619.7 30.05 L788.4 23.8 927.25 17.6 1029.6 14.2 Q1072.35 13.6 1088.85 16.3 1118.35 21.1 1311.5 11.05 L1462.85 2.6" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite16" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -3.0)">
+      <use height="57.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 3.0)" width="1506.6" xlink:href="#shape17"/>
+    </g>
+    <g id="shape17" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -3.0)">
+      <path d="M1506.6 3.0 L1384.35 13.8 Q1209.7 28.5 1131.9 32.9 1061.1 36.95 960.45 39.35 843.95 42.15 812.2 43.55 757.0 46.0 558.4 51.15 L291.3 58.1 Q146.2 62.4 58.6 57.95 14.8 55.75 0.0 52.7 97.4 51.35 225.85 48.8 482.75 43.75 637.95 37.95 L811.6 30.15 954.55 22.65 1060.0 18.3 Q1104.05 17.4 1121.15 20.15 1151.8 25.05 1350.7 13.0 L1506.6 3.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite17" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.15)">
+      <use height="26.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 2.15)" width="1506.25" xlink:href="#shape18"/>
+    </g>
+    <g id="shape18" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.15)">
+      <path d="M1506.25 2.15 L1383.15 10.1 Q1207.3 20.7 1129.35 23.3 1058.3 25.7 958.0 25.75 841.75 25.75 810.1 26.4 754.55 27.55 556.3 27.95 L289.25 28.6 Q143.75 29.5 57.35 22.9 14.1 19.6 0.0 16.15 97.35 17.1 225.75 17.65 482.6 18.7 638.1 16.6 716.15 15.55 812.1 12.9 L955.45 8.75 Q1025.9 6.8 1060.9 6.9 1104.85 7.05 1121.25 10.2 1150.65 15.85 1349.95 8.5 L1506.25 2.15" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite18" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.65)">
+      <use height="46.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 2.65)" width="1470.2" xlink:href="#shape19"/>
+    </g>
+    <g id="shape19" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -2.65)">
+      <path d="M1470.2 2.65 L1351.05 12.2 Q1180.8 25.15 1104.9 28.9 1036.05 32.3 937.65 33.95 824.75 35.85 793.05 37.0 738.85 38.95 545.3 42.6 L284.5 47.55 Q142.7 50.75 57.2 45.9 14.4 43.5 0.0 40.45 95.15 39.8 220.6 38.2 471.5 35.05 622.95 30.5 L792.4 24.15 931.9 17.85 1034.75 14.4 Q1077.75 13.8 1094.45 16.55 1124.35 21.45 1318.25 11.2 L1470.2 2.65" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite19" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="27.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="786.2" xlink:href="#shape20"/>
+    </g>
+    <g id="shape20" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M703.9 22.45 L573.8 27.15 Q537.55 27.5 486.55 25.55 L411.3 23.2 Q382.85 22.95 281.95 19.4 L145.85 14.7 Q71.5 12.5 28.3 6.05 6.75 2.8 0.0 0.0 L114.9 5.5 325.1 12.75 Q364.9 13.5 414.0 13.4 L487.3 13.15 Q523.35 13.1 541.1 13.9 563.35 14.85 571.3 17.45 585.5 22.1 687.25 20.6 738.15 19.9 786.2 18.2 L703.9 22.45" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite20" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="26.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="780.6" xlink:href="#shape21"/>
+    </g>
+    <g id="shape21" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M698.7 22.2 L569.35 26.8 Q533.3 27.15 482.7 25.25 L408.05 22.9 Q379.95 22.65 279.6 19.15 L144.55 14.5 Q70.75 12.3 28.0 5.95 6.6 2.75 0.0 0.0 L114.0 5.4 322.65 12.55 Q362.3 13.3 410.95 13.25 L483.8 13.0 Q519.65 12.95 537.2 13.7 559.3 14.65 567.1 17.2 581.05 21.85 682.25 20.4 732.8 19.65 780.6 18.0 L698.7 22.2" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite21" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.55, 0.0)">
+      <use height="51.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 35.55, 0.0)" width="1444.45" xlink:href="#shape22"/>
+    </g>
+    <g id="shape22" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.55, 0.0)">
+      <path d="M1480.0 0.0 Q1466.8 3.75 1425.45 8.5 1342.75 18.0 1201.95 22.95 L944.95 32.85 701.05 41.35 559.65 46.5 Q463.8 50.4 395.9 51.0 321.4 51.65 153.25 48.8 90.2 47.7 35.55 46.3 108.3 46.45 184.6 46.0 374.65 44.95 401.85 38.65 417.1 35.1 458.95 33.25 492.3 31.8 559.95 30.85 L697.55 29.05 Q789.65 27.7 864.55 25.6 1014.35 21.4 1262.15 10.3 L1480.0 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite22" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.1, 0.0)">
+      <use height="21.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 35.1, 0.0)" width="1438.15" xlink:href="#shape23"/>
+    </g>
+    <g id="shape23" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.1, 0.0)">
+      <path d="M1473.25 0.0 Q1459.4 3.35 1417.6 6.95 1334.0 14.1 1194.25 15.15 L938.45 18.0 Q748.4 20.15 695.65 19.8 664.75 19.6 554.6 21.05 458.8 22.3 391.5 21.0 L151.35 12.15 35.1 6.45 Q107.25 8.55 183.1 10.25 371.85 14.4 400.3 8.85 416.2 5.75 458.05 5.05 491.4 4.5 558.45 5.4 L694.95 7.4 Q786.45 8.6 860.85 8.55 1009.65 8.5 1256.3 4.25 1379.65 2.1 1473.25 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite23" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.2, 0.0)">
+      <use height="21.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 35.2, 0.0)" width="1445.85" xlink:href="#shape24"/>
+    </g>
+    <g id="shape24" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.2, 0.0)">
+      <path d="M1481.05 0.0 Q1467.0 3.4 1424.85 7.0 1340.55 14.2 1200.0 15.3 L942.75 18.2 Q752.0 20.35 698.7 20.0 668.3 19.85 556.85 21.3 460.65 22.55 392.9 21.25 L151.9 12.35 35.2 6.6 Q107.65 8.7 183.8 10.4 373.35 14.6 402.1 9.0 418.2 5.9 460.35 5.2 493.85 4.65 561.3 5.55 L698.45 7.55 Q790.2 8.75 865.15 8.7 1014.7 8.65 1262.8 4.3 1386.9 2.15 1481.05 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite24" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="43.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="781.7" xlink:href="#shape25"/>
+    </g>
+    <g id="shape25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M781.7 0.0 Q775.3 2.95 754.1 6.75 711.65 14.4 637.5 18.75 L502.1 27.4 373.45 34.95 298.85 39.45 212.2 43.6 Q172.5 44.4 82.3 42.85 L0.0 41.2 Q47.95 41.4 98.6 40.6 199.9 39.0 213.4 34.05 226.0 29.45 296.45 27.45 317.8 26.8 369.55 25.5 L458.1 22.15 Q537.25 18.35 667.4 8.8 L781.7 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="43.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="777.35" xlink:href="#shape26"/>
+    </g>
+    <g id="shape26" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M777.35 0.0 Q770.95 2.9 749.75 6.65 707.45 14.15 633.65 18.45 L498.95 27.0 371.0 34.45 296.8 38.9 210.6 42.95 Q171.2 43.75 81.65 42.2 L0.0 40.55 Q47.6 40.75 97.9 40.0 198.5 38.45 212.1 33.55 224.75 29.0 294.75 27.0 L367.4 25.1 455.4 21.85 Q534.1 18.05 663.6 8.65 L777.35 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite26" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.1, 0.0)">
+      <use height="49.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 35.1, 0.0)" width="1425.65" xlink:href="#shape27"/>
+    </g>
+    <g id="shape27" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.1, 0.0)">
+      <path d="M1460.75 0.0 Q1447.75 3.65 1406.9 8.25 1325.25 17.5 1186.3 22.3 L932.65 31.9 691.95 40.15 552.35 45.1 Q457.65 48.9 390.75 49.45 317.25 50.1 151.3 47.25 89.05 46.2 35.1 44.8 106.95 44.95 182.25 44.55 369.8 43.6 396.7 37.45 411.7 34.0 453.05 32.25 485.9 30.8 552.7 29.85 L688.5 28.15 Q779.35 26.85 853.35 24.8 1001.15 20.75 1245.75 10.0 L1460.75 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite27" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.8, 0.0)">
+      <use height="21.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 34.8, 0.0)" width="1425.05" xlink:href="#shape28"/>
+    </g>
+    <g id="shape28" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.8, 0.0)">
+      <path d="M1459.85 0.0 Q1446.2 3.3 1404.85 6.8 1322.15 13.8 1183.65 14.85 L930.2 17.6 Q742.2 19.7 689.7 19.35 660.05 19.2 549.9 20.6 455.2 21.8 388.25 20.5 L150.15 11.8 34.8 6.15 Q106.35 8.25 181.5 9.9 368.65 14.05 396.75 8.6 412.45 5.55 453.9 4.9 486.9 4.35 553.5 5.25 L688.75 7.2 Q779.35 8.4 853.15 8.35 1000.6 8.3 1244.95 4.15 1367.15 2.1 1459.85 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite28" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.95, 0.0)">
+      <use height="21.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 34.95, 0.0)" width="1433.6" xlink:href="#shape29"/>
+    </g>
+    <g id="shape29" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.95, 0.0)">
+      <path d="M1468.55 0.0 Q1454.75 3.35 1413.05 6.9 1329.7 14.0 1190.4 15.05 L935.35 17.85 Q746.0 20.0 693.35 19.65 662.3 19.45 552.75 20.85 457.2 22.1 390.2 20.85 L150.85 12.0 34.95 6.35 Q106.9 8.45 182.5 10.1 370.6 14.3 399.0 8.75 414.85 5.7 456.55 5.0 489.8 4.5 556.7 5.35 L692.75 7.35 Q783.85 8.55 858.1 8.5 1006.4 8.45 1252.3 4.2 1375.25 2.1 1468.55 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite29" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.25, -2.1)">
+      <use height="29.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 34.25, 2.1)" width="1415.7" xlink:href="#shape30"/>
+    </g>
+    <g id="shape30" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.25, -2.1)">
+      <path d="M1449.95 22.05 Q1435.7 25.05 1393.95 27.8 1310.45 33.2 1173.15 31.75 L921.3 29.85 Q734.15 28.45 682.35 27.2 652.15 26.45 543.25 25.85 448.7 25.3 382.65 22.8 310.05 20.1 147.75 9.8 L34.25 2.1 179.4 8.5 Q364.65 16.05 393.8 11.15 410.1 8.4 451.45 8.5 484.3 8.6 550.25 10.7 L684.15 15.1 Q773.7 17.95 847.05 19.25 993.2 21.9 1236.2 22.25 1357.7 22.4 1449.95 22.05" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite30" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="42.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="770.95" xlink:href="#shape31"/>
+    </g>
+    <g id="shape31" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M770.95 0.0 Q764.65 2.85 743.75 6.6 701.9 14.0 628.75 18.25 L495.2 26.65 368.35 34.0 294.75 38.35 209.25 42.35 Q170.15 43.15 81.15 41.65 L0.0 40.0 Q47.3 40.2 97.2 39.45 197.1 37.95 210.45 33.1 222.95 28.6 292.4 26.65 L364.5 24.75 451.8 21.55 Q529.85 17.85 658.2 8.55 L770.95 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite31" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="42.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="768.4" xlink:href="#shape32"/>
+    </g>
+    <g id="shape32" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M768.4 0.0 Q762.05 2.85 741.1 6.5 699.2 13.8 626.25 18.0 L493.1 26.3 366.65 33.5 293.25 37.85 208.05 41.8 Q169.1 42.55 80.65 41.1 L0.0 39.45 Q47.05 39.65 96.75 38.9 196.15 37.4 209.6 32.65 222.2 28.15 291.35 26.25 L363.15 24.4 450.1 21.25 Q527.9 17.55 655.9 8.4 L768.4 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite32" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.5, 0.0)">
+      <use height="36.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 34.5, 0.0)" width="1411.7" xlink:href="#shape33"/>
+    </g>
+    <g id="shape33" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.5, 0.0)">
+      <path d="M1446.2 0.0 Q1432.85 3.45 1391.95 7.5 1310.25 15.6 1172.8 18.7 L921.6 25.2 Q734.9 30.1 683.2 30.6 652.6 30.9 544.85 33.9 450.85 36.5 384.85 36.3 312.2 36.1 148.85 31.45 L34.5 27.75 Q105.35 28.7 179.8 29.15 365.1 30.3 392.55 24.6 407.9 21.4 448.95 20.15 481.55 19.1 547.55 18.95 L681.65 18.8 Q771.35 18.55 844.6 17.4 990.8 15.1 1233.15 7.35 L1446.2 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite33" transform="matrix(1.0, 0.0, 0.0, 1.0, -33.85, -2.35)">
+      <use height="39.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 33.85, 2.35)" width="1406.05" xlink:href="#shape34"/>
+    </g>
+    <g id="shape34" transform="matrix(1.0, 0.0, 0.0, 1.0, -33.85, -2.35)">
+      <path d="M1439.9 34.05 Q1425.35 36.9 1383.5 39.25 1299.85 43.95 1163.55 41.3 L913.3 37.3 Q727.45 34.4 675.95 32.7 645.2 31.65 537.65 30.15 443.4 28.85 378.2 25.85 306.25 22.55 145.95 10.95 L33.85 2.35 177.65 9.95 Q361.2 18.95 390.85 14.35 407.4 11.8 448.55 12.25 481.35 12.6 546.6 15.2 L679.3 20.7 840.9 26.2 Q985.9 30.05 1227.4 32.45 1348.15 33.65 1439.9 34.05" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite34" transform="matrix(1.0, 0.0, 0.0, 1.0, -33.7, -2.35)">
+      <use height="39.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 33.7, 2.35)" width="1399.3" xlink:href="#shape35"/>
+    </g>
+    <g id="shape35" transform="matrix(1.0, 0.0, 0.0, 1.0, -33.7, -2.35)">
+      <path d="M1433.0 33.8 Q1418.6 36.65 1377.1 38.95 1294.1 43.6 1158.5 41.0 L909.5 37.0 Q724.6 34.1 673.3 32.4 643.35 31.4 535.75 29.9 442.15 28.6 377.0 25.6 305.35 22.35 145.5 10.85 L33.7 2.35 176.95 9.85 Q359.8 18.8 389.15 14.25 405.55 11.7 446.45 12.15 479.1 12.5 544.1 15.1 L676.2 20.55 837.1 26.0 Q981.45 29.8 1221.65 32.2 1341.75 33.4 1433.0 33.8" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite35" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.0, -1.3)">
+      <use height="16.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 34.0, 1.3)" width="1401.8" xlink:href="#shape36"/>
+    </g>
+    <g id="shape36" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.0, -1.3)">
+      <path d="M1435.8 1.3 Q1421.95 4.45 1380.85 7.65 1298.7 14.1 1162.5 14.55 L913.0 16.2 Q727.95 17.45 676.35 16.9 646.6 16.6 538.75 17.55 445.3 18.35 379.8 16.85 307.85 15.25 146.7 7.45 L34.0 1.55 Q104.1 3.85 177.85 5.75 361.35 10.5 389.7 5.35 405.5 2.5 446.4 2.0 478.95 1.6 544.25 2.7 L677.0 5.15 Q766.0 6.65 838.5 6.95 983.4 7.5 1224.1 4.45 1344.45 2.95 1435.8 1.3" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite36" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="35.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="765.15" xlink:href="#shape37"/>
+    </g>
+    <g id="shape37" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M765.15 0.0 Q758.55 2.7 737.4 6.1 695.1 12.85 622.45 16.15 L489.75 22.9 363.75 28.6 290.6 32.1 205.8 35.0 Q167.15 35.3 79.7 32.85 L0.0 30.35 Q46.55 31.1 95.9 30.9 194.55 30.55 208.4 25.95 221.4 21.7 290.1 20.55 L361.35 19.55 Q409.0 18.8 447.8 17.4 525.25 14.65 652.95 7.05 L765.15 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite37" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="34.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="755.55" xlink:href="#shape38"/>
+    </g>
+    <g id="shape38" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M755.55 0.0 Q749.1 2.65 728.25 6.0 686.65 12.6 614.95 15.85 L483.95 22.4 359.55 27.95 287.35 31.35 203.6 34.2 Q165.4 34.5 78.85 32.1 L0.0 29.6 Q46.05 30.35 94.8 30.15 192.35 29.8 205.95 25.35 218.65 21.15 286.55 20.05 L357.0 19.1 Q404.2 18.35 442.4 17.0 518.8 14.3 644.8 6.9 L755.55 0.0" fill="#48331e" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite38" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="254.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="1682.85" xlink:href="#shape39"/>
+    </g>
+    <g id="shape39" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1673.25 77.45 Q1680.1 82.7 1682.85 86.0 L1682.85 254.55 0.0 254.55 0.0 86.0 Q1.45 83.05 6.95 78.3 17.95 68.75 38.2 59.55 103.1 30.15 236.45 15.45 312.3 7.1 495.05 3.1 659.05 -0.5 868.75 0.1 1069.05 0.65 1234.25 4.75 1406.25 9.05 1468.5 15.45 1574.75 26.5 1639.45 57.35 1659.65 67.0 1673.25 77.45" fill="#768656" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite39" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="254.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="1682.85" xlink:href="#shape40"/>
+    </g>
+    <g id="shape40" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1673.25 77.45 Q1680.1 82.7 1682.85 86.0 L1682.85 254.55 0.0 254.55 0.0 86.0 Q1.45 83.05 6.95 78.3 17.95 68.75 38.2 59.55 103.1 30.15 236.45 15.45 312.3 7.1 495.05 3.1 659.05 -0.5 868.75 0.1 1069.05 0.65 1234.25 4.75 1406.25 9.05 1468.5 15.45 1574.75 26.5 1639.45 57.35 1659.65 67.0 1673.25 77.45" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, -0.1554, -0.1554, 0.0, 841.4, 127.25)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#726357"/>
+      <stop offset="0.00392156862745098" stop-color="#736559"/>
+      <stop offset="0.09411764705882353" stop-color="#a59b94"/>
+      <stop offset="0.1803921568627451" stop-color="#ccc6c2"/>
+      <stop offset="0.25882352941176473" stop-color="#e8e5e3"/>
+      <stop offset="0.3215686274509804" stop-color="#f9f8f8"/>
+      <stop offset="0.3607843137254902" stop-color="#ffffff"/>
+      <stop offset="0.5019607843137255" stop-color="#e2ded8"/>
+      <stop offset="0.8117647058823529" stop-color="#998c75"/>
+      <stop offset="1.0" stop-color="#6a5636"/>
+    </linearGradient>
+  </defs>
+</svg>
