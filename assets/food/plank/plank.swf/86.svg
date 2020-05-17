@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="37.8px" width="83.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="70.95" transform="matrix(5.0939, -0.7126, 0.9081, 3.5062, -229.3951, -72.0254)" width="93.85" xlink:href="#shape0"/>
+    </clipPath>
+    <use height="9.55" transform="matrix(-1.9565, -1.2397, 1.2397, -1.9565, 8.3549, 17.4321)" width="9.5" xlink:href="#shape1"/>
+    <use height="9.55" transform="matrix(2.0505, 0.7989, -0.7989, 2.0505, 15.3546, -18.5346)" width="9.5" xlink:href="#shape1"/>
+    <use height="9.55" transform="matrix(1.3457, -6.2934, 6.2934, 1.3457, 37.3645, 18.5518)" width="9.5" xlink:href="#shape1"/>
+    <use height="9.55" transform="matrix(-0.3909, -0.6413, 0.6413, -0.3909, 36.1603, 9.1029)" width="9.5" xlink:href="#shape1"/>
+    <use height="9.55" transform="matrix(-1.4154, -1.7555, 1.7555, -1.4154, -5.5155, 38.5114)" width="9.5" xlink:href="#shape1"/>
+    <use height="9.55" transform="matrix(-1.0394, -5.5851, 5.5851, -1.0394, -15.0923, 80.8161)" width="9.5" xlink:href="#shape1"/>
+    <use height="9.55" transform="matrix(0.2106, -1.3673, 1.3673, 0.2106, 24.855, 39.8944)" width="9.5" xlink:href="#shape1"/>
+    <use height="9.55" transform="matrix(1.2764, -3.6482, 3.6482, 1.2764, 30.9082, 57.3659)" width="9.5" xlink:href="#shape1"/>
+    <use height="9.55" transform="matrix(0.7427, 2.4599, -2.4599, 0.7427, 86.4568, 14.6376)" width="9.5" xlink:href="#shape1"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 46.9, 35.45)">
+      <path d="M46.95 -21.35 L37.4 35.5 -46.9 21.4 -37.35 -35.45 46.95 -21.35" fill="#cc0000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.75, 4.75)">
+      <path d="M4.75 -2.15 L2.3 0.5 3.95 3.75 0.65 2.25 -1.95 4.8 -1.55 1.2 -4.75 -0.45 -1.2 -1.2 -0.6 -4.75 1.15 -1.6 4.75 -2.15" fill="#f7f7f7" fill-opacity="0.46666667" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

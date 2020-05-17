@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="37.8px" width="83.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="70.95" transform="matrix(5.0939, -0.7126, 0.9081, 3.5062, -229.3951, -72.0254)" width="93.85" xlink:href="#shape0"/>
+    </clipPath>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 46.9, 35.45)">
+      <path d="M46.95 -21.35 L37.4 35.5 -46.9 21.4 -37.35 -35.45 46.95 -21.35" fill="#cc0000" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

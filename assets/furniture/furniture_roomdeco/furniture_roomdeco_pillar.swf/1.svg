@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="466.0px" width="150.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="467.25" transform="matrix(1.0, 0.0, 0.0, 1.0113, 1.3, 19.7012)" width="146.25" xlink:href="#sprite0"/>
+    <use height="0.0" id="price_tag_pt" transform="matrix(1.0, 0.0, 0.0, 1.0, 74.65, 483.85)" width="0.0" xlink:href="#sprite12"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.8, 8.75)">
+      <use height="23.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 16.9, 403.4)" width="100.65" xlink:href="#shape0"/>
+      <use height="69.95" transform="matrix(1.0, 0.0, 0.0, 1.0, -2.95, -8.75)" width="140.75" xlink:href="#sprite1"/>
+      <use height="403.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 16.6, 27.2)" width="101.05" xlink:href="#shape9"/>
+      <use height="66.75" transform="matrix(1.0, 0.0, 0.0, 0.9736, -6.8, 393.5347)" width="146.25" xlink:href="#sprite7"/>
+      <use height="400.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 16.6, 29.65)" width="101.05" xlink:href="#shape16"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, -16.9, -403.4)">
+      <path d="M117.55 413.4 Q117.45 418.9 105.65 422.85 91.75 427.55 67.75 427.3 43.45 427.1 29.35 422.75 16.9 418.95 16.9 413.7 16.9 409.1 31.15 406.25 44.9 403.5 66.4 403.4 91.35 403.3 104.35 405.75 117.65 408.3 117.55 413.4" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0619, 1.0E-4, 0.0, -0.0153, 67.4, 414.6)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#000000"/>
+      <stop offset="0.9333333333333333" stop-color="#000000" stop-opacity="0.14117648"/>
+      <stop offset="1.0" stop-color="#000000" stop-opacity="0.0"/>
+    </radialGradient>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, -2.15, 4.5)">
+      <use height="66.75" transform="matrix(0.9624, 0.0, 0.0, 1.0479, 2.1588, -4.4887)" width="146.25" xlink:href="#shape1"/>
+      <use height="33.0" transform="matrix(0.9998, 0.0, 0.0, 0.9286, 7.0494, 11.2358)" width="130.9" xlink:href="#sprite2"/>
+      <use height="30.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.8, 15.25)" width="128.65" xlink:href="#sprite3"/>
+      <use height="24.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.75, 12.8)" width="128.65" xlink:href="#shape4"/>
+      <use height="20.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 7.8, 12.8)" width="128.6" xlink:href="#sprite4"/>
+      <use height="33.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 14.15, 21.4)" width="120.0" xlink:href="#shape6"/>
+      <use height="21.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 15.25, 23.65)" width="114.9" xlink:href="#sprite5"/>
+      <use height="18.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 15.45, 23.3)" width="113.7" xlink:href="#sprite6"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 5.55, 16.45)">
+      <path d="M140.7 50.3 L-5.55 50.3 -5.55 -16.45 140.7 -16.45 140.7 50.3" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, -3.2, -7.2)">
+      <use height="33.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 3.2, 7.2)" width="130.9" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, -3.2, -7.2)">
+      <path d="M126.75 40.2 L9.5 37.25 Q6.4 34.8 4.55 31.4 3.55 29.45 3.3 27.6 2.65 22.8 7.5 18.9 15.15 12.7 28.8 10.25 44.05 7.4 76.25 7.2 103.45 7.15 119.15 13.45 128.4 17.25 132.7 23.15 134.1 25.25 134.1 27.8 L134.05 28.7 Q133.65 31.35 131.75 34.5 129.55 37.8 126.75 40.2" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, -12.55, -15.85)">
+      <use height="30.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 12.55, 15.85)" width="128.65" xlink:href="#shape3"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, -12.55, -15.85)">
+      <path d="M132.65 25.0 Q141.2 30.1 141.2 36.8 141.2 40.8 138.3 43.6 135.55 46.35 131.9 46.35 129.0 46.35 124.9 45.25 L121.35 44.15 Q119.75 41.35 113.85 38.5 102.0 32.85 80.35 32.85 53.5 32.85 41.05 38.35 34.8 41.1 33.95 43.85 26.45 46.35 22.5 46.35 18.7 46.35 15.75 43.7 12.55 40.75 12.55 36.35 12.55 29.3 21.25 24.55 37.15 15.85 78.75 15.85 117.3 15.85 132.65 25.0" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0856, 0.0, 0.0, 0.0213, 77.05, 37.3)" gradientUnits="userSpaceOnUse" id="gradient1" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#d8dadb"/>
+      <stop offset="0.1803921568627451" stop-color="#d4d6d7"/>
+      <stop offset="0.596078431372549" stop-color="#d2d4d5"/>
+      <stop offset="0.7098039215686275" stop-color="#c9cbcd"/>
+      <stop offset="0.9098039215686274" stop-color="#b2b4b6"/>
+      <stop offset="1.0" stop-color="#a6a8aa"/>
+    </radialGradient>
+    <g id="shape4" transform="matrix(1.0, 0.0, 0.0, 1.0, -7.75, -12.8)">
+      <path d="M127.85 21.95 Q136.4 27.05 136.4 33.75 136.4 35.4 135.85 36.95 137.25 27.0 120.15 21.4 103.25 15.85 72.9 15.9 40.8 16.0 23.65 21.65 6.6 27.25 8.4 36.9 7.75 35.1 7.75 33.3 7.75 26.25 16.45 21.5 32.35 12.8 73.95 12.8 112.5 12.8 127.85 21.95" fill="#969696" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite4" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <use height="20.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)" width="128.6" xlink:href="#shape5"/>
+    </g>
+    <g id="shape5" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <path d="M120.1 9.15 Q128.65 14.25 128.65 20.95 127.85 12.15 112.55 6.9 96.0 1.2 66.3 1.15 33.15 1.1 15.2 7.35 0.95 12.3 0.05 19.45 0.65 13.1 8.7 8.7 24.6 0.0 66.2 0.0 104.75 0.0 120.1 9.15" fill="#b6b8ba" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape6" transform="matrix(1.0, 0.0, 0.0, 1.0, -14.15, -21.4)">
+      <pattern height="32" id="PatternID_12_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 14.15, 21.4)" patternUnits="userSpaceOnUse" viewBox="0 0 120 32" width="120">
+        <image height="32" width="120" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAgCAYAAADZubxIAAAPSElEQVR42u2bB3yV5RXGMZOEvQlhCQkEwgiUICOAEoYkJoIBygqCElSIURkBUSgGCMoSq7IUQSwjCjgQLChWQOqiiogICCgqykwZAiqBr+e9/b/2+PXeJCCtxXp/v+eX5N5v3O8853nOeUeKFLnyXn7AXxAgCBQECYIFRQUhglBQDBT3AvtZKOeEcH4w1wvk+v7qnr+9fiZx/gQ2mMCXEJQWlBNUFIQJwgXVBTUFtQQRgjqCKEE9QX1BtKCBoKGgkQ80BA04vj7XqCuIFNQWXC2oIagmqCKoJCgvKCMoSYKEkBABvyXBP1+WxKIoyRBYAfKqQ1odyDIExAiaCZoLWgriBG0F1wniBR0FnQVdBAmCRMENgiRBsuBGH0gGSRyfyDWuF3QSdBC0F1wraCNoLWghiBU0FTQmMaJIMpNwVQWVSchSJGnwr5l8f7I7VBEZTjAiUU1jCGwBedcS3OsJvCEjRdBT0FvQV9BfMEBwqyBNcJvgdsEQwVBBuuBOQYbgrnyQwXHpnHcH1xksGCS4RXCzIFXQR/B7QXdBN5IjgWQwidZO0IpEbEpyRuEE1Ungcig/hCT3uxIJDcZay2FrNVFkAx78Gohsj/IMiV0FPSCwP4FNI+CGgLsFwwWjBPcK7hf8QfCAYIJgkmCy4EHBFMFUwTTBdMEMH5gOpnHOQ5yfLZgoyBKMF4wT3CcYLRgpGEZyDCUZBpFs/QS9SEZLfkcStjXKjyGpIyDdqL0sVh/0v0i4H5lYjC8aBqF1qXPNyOpryXRD5k0ooR9E3oaC7iaAhsCxkDeJwBsiZgoeFcwSzBE8IZgvWChYJHhGsFiwRLBMkCN4Fjzngn0/h2OXct6fuM7TggVcf55gtuBxwR9Jjqkkw0SS4H4SYDjkDyFBB+A4PUjiBNypLY7VlMSPpNZXpr6HYuu/KKnFaTiqYkMmM5vwxduRvZbQ3lhdGg9vyMxEGeMh0qjoYUicDYELCPhSCFkheEGwSrBG8GfBOsFrgtcFbwg2CDYK3gSbwV/BZgXz+SaON+f9heuY660VvCJYLXhJ8LxgOUmxmKR6igSYBfnTFfHGYcYIRkD6HZSUVBK8myK8Dc4WQ+9xNe5n1R3437LfEG5ahWaoHqS2RKWdsaceSqF38ICZZHoWQZgOmXNQyiKIfA4SX4bAVwn8Jgh6R/Ce4H3BVsFHgo8FOwQ7BbsEnwr2CPaCfS7Y9/dw7G7O+4TrbBds4/p/435vkxAbSIJ1JJkhfyUJuBhHeQLSH6EEZJPIlvAM7H0gtb07zV4n1G3JjoLsMJRdFB4u6yuALCrPcCGSBiKWzOuAUrtjR5bUu6mZ41DoVB54tiJ0GapcBZmvEcDNEGmC+yEE7oQMQ9B+wVeCrwUHBYcFRwXHrrrqqlw/P7/jAQEBJ4KCgk7I7yfBKQs55qQca3BCcFzwd0GuOV9wRHBI8I0cd0B+fin4nITYTRJsh/wtivg3SEZD+ouofSl2/ySEz6TkTKAMZZL8muwUOvp4epVm2HgEblkePgIuh2LdxDaiS2xLtiXT3fan87yTOno/DzFFkfoUNe5ZFLqGgGxAme8RtO2oaa8i8iCBz4WUU4LTgu8E3wvOCfIE58EFBScf6OPOcw1zrR+47lnuc5JEOEYyfQPxn+ECn+AkxlXeJUHfQOWrsfccyo2b7CxK1XB6kTRsvCfx7Ui8myOsSPiwRF+SooMZ1lShvkaTSW24YZKL2AyycSxqnYb9ziODl2FjqxWpb6GAbQRoD0o5gIJMME+Iir4VnCXoed5Ik899kmg+E9U6omgnMDDQA/O7ec+eZ35quM8X2AQ4B/FnSLLjOMdBEvEzXGYHyfoeyWvJfhnHWoqVz6V2T6Vuj0UgGRDdnzgnEfc2StG14cdat19hG6hQpdo6jFNbMLHQhaapLw3DUDLvPhQ71Quxz6PW9dRRY70fYLufKlIPo9CTBNBDqAmur+DnB3Osv7+/1/f1dezfhnBzvIU38r2oPw/CrcqPkZyW7N040vtY+UbKkFX1Moiep4ieoBQ9lDj3xboT4KElNbouw60KhVGzHwdV4KQoGqhW1IMbaJ5SlWpH0S1OpgO2VryETH0ZxW70Qux+augRlHCaYP1EpW51FZZkX4RpVZv33Uo2f+enbh/3v4C6Tcn4lpp+hOf73AfRrypFLyFus4njZOI6iho9GDX3gId4xtZNaXRrMpVbPD+SQ5icsMqNIVPaU/Q1uXdx8/F0xDPphhdiP1q1m7GqbTRK+8jwwwTiWwKTVxhVahIsLInGeq0VS4PlFC1a1ClWrJgHoaGhHoSEhHhgPjMwv5tjbRK4SdSEFzLJ8nieUzyfVfQ+nn8b8XiTbnyNS81ziOeDxHc0DettLsvWJEcxjrZK/je7DmTuNAxvb0hRb8eUobXlQTQCI+mOs5VyF5CJKxW5bypyd2FbB1yq/YH6VijbdROqiSxVqpRTtmxZp2LFik6VKlWcatWqOdWrV3dq1qzp1KpVy4mIiPD8rFGjhufzSpUqOVWrVvX8LF26tOca5lrmmrZOa1yEm5xX1n2c5z3A8+8iHltIfk3yUuI4x6XkTFWX+zFisXbdgjIaSZddlprsU711Ua+25p5MVJh2/h5mm7Lokh9l3PcMY9hVNBTWlrfSRO2l8zyklPt9Ycl1E2yVahRYvHhxp1y5ch7SDIH169d3mjRp4sTGxjqdOnVyEhISnK5duzopKSlOt27dnMTERCc+Pt5p06aN07hxYycqKsqTCCYxypQp45QsWfJHsgsiOZ/va0m2ln0YJe8lHlvpuLVdL2ekYTrtx2hWJ1KThzFJNJAp0RtV4/U7JppqsuL1E6u2jVUFZB6F7OMY4yYz8zKA8e0wbjiRL/A449rF1JPVNBKbXNas1XtCNVIXLqZpMqQGBwd7iDUkGDIMKWFhYU5kZKQTExPjxMXFOUlJSU7fvn2dzMxMZ9q0ac6iRYucnJwcZ/78+c7kyZOd9PR0p3fv3h7y27Zt6yHaKDw8PNyTLCVKlPBYuu263XW8ELB1+QzPe1TV5F0Mq6yK16Pilaoez2JaNFt11+k0XX2YCeuMy8bSWdfChUvq2S/dOevmqjUEJ3kheAzd3jQy7UkybzmZaAl+l4kKW3u92fOFwgbNqteSbBRmbNkQXLly5R/V26xZM6d9+/ZOcnKyk5aW5owcOdLJzs52pkyZ4mRlZTnDhw93Bg4c6FF0u3btPEqvV6+ex8pNoliCTQJ5G1b9TII/u0SCR1wkwQHucW8ZlvIiXUOjBDzfW4P1EBMZcxkW5TCLs5ax31t0jrZz/oIx4zGakEI1V/lZtCHBWLQl2dRdQ3R0dLSHaEOeseIOHTo4HTt2/NGazfuNGjXyJETt2rU9yq1QoYKnhhtyjUOYJLLqvQSC81RXnUtp+tJl0e8oi17lxaL1sGkYArMWbSdB4rDofLtpf96syEH1OCmOi9zIRQe6bNqOfa2KfdXhDxj871Ek50Ly2Ysh2dsEhoEhw5JtCDJEmebJkGZqq/nd/jSJYH43SjXHGZs3dmwcwVzHJI615MtArq6/tpP+UHXSbvUucA2XxtFk3amarBRXk9WooCbL3UnXQvKxTJN1ZrmrN3PNQ9QEx0SXVVuSX0LJG5SStzMm/By7Oop9nfbVcBUmsN7GtdbK7ZDIdMa6fluFehsL+xomXYQtn1UTHwdJandztUlNeqxUHXR+Y+FU11i4FeU0yjXh4XNWK8hFcrQiuZNSsq3H91CPs1x2vdDHLNa7PKBV837mdY+quvydnuwoqFv11uX6mrXKL0HcyeLumAu4xnn6iTMQm+sa/+qaa6cu1yKC57Dl+TSstu6Ocw2PUimV3sitUZiJDr16VIJ229p1U5queLVylMqN7QKDnod+jKHTIuryC/lMV+6m8fhKz0FbsiW45wTnCyLY1/Sjngyxdm5Va89zn2+PL2DmKk+Reso1e7VfLUJscxG7jhK2QlnyHNfiwxg1LLpFNVVdWJa1Y986auEh9GIWHvzU2m84S1UNXWpOVuPjwiw4LFXTl+t42M1qFcmSvY9mxCj7iAQ71yzvCU5jfXaO+jyLAPnOermTwRthBSj0glpl8rbQcIjRwX4vK0tvk9Dr2TzwolKsnZr0tao0SE1q3MCIJk6NeW3HXJom+bKtBXtbMuyhFJ2u6vMDTLk9jP08qdaBV5LJa5nN2URA9Bqwe9nwGxqWYyjmJI3MGcj/ngQ4p5YQ81xLiefV0mCelyXC77jeaYg8geVaMr92LRXupLf4QK0ebaC+vqLWhpeohYVH2fCQTZ0dTbkbohYX3MTqdeFwxBdyuTYA+KvZrqrcpAE3bc18dYLanjOAudMMxm+a7BlY+Fzsya4RP692caz3svBv14p3QPwegryfgB9QGwAOkQhHIOYoSaFh3z/CsYdIoK9Jpi9oBvcxxNtJ0m1TZLoX+1+hrq4giZ9BqXNYLXLv7hhOiRuME/aime1Ch9yK8hh9qcuDl/IKVEOqGmqDXXO1wyMRsnupvVjp1JXRNBATsKYZXrbuLIH0lQRsDUpfTzA3Qf7bNG5b1BaebVjkdrWVZwfWqbGDzz/m2I9wjq1cawvXfot7bWTrkN2vtRp1rlD7tOzujdmuPVpZlK5RKHUoFtzftT/L7uKIJaZ1iPFlVeulKLs09aAOtdoq+zq1T6s7zcIACB/qZfPdRLWL8hFsfa7aPak34C1H9S9i9atRkN2I9ypkrAevu7Cez1/j2HWcazfareLaK9VmuyV8h4UQOZfv+IiPDXcjeUa7y/JmtS0nidhYpTYjdhHsrizxc2rrf/IVxFRZRTaM2fF0a9f22W40aX0V6UOw9WFk+xjUnoW1PYjNzSCoj6lttPMI+nxscQGKehpX8IanIWsB58yn+5/HNWfhLjNd22UnUXLG8R0z+c4ZXrbM9uRZE3l2vU+6PjEqjysGFLlCX3Z/VxmUHkFdaa3+k6ELWX0TQenj2gR/O6q/C5sbQWDvJchjCfh4gp9FGZgIJrlg35/AsQ+oje5juea93GME99Qb3tP4bv35rj357sk8i970Hk0pC1NbYf+vXqFK9fYfy2IYErTEyhJIgK5YXA9qfB+GE6lY4EACfyt1Lg0MdsG+P4hjb+HcmyGtH9fuxb1SuHcS36UziXkNEw71+e5VSeQSv0TN/DW8SoMyoBpjwto4QwTDuTo0ftcUgObYZWyRf/0jWW2ueTXJVl7dt9SVZKX/AEpIefufXCk1AAAAAElFTkSuQmCC"/>
+      </pattern>
+      <path d="M134.15 53.4 L14.15 53.4 14.15 21.4 134.15 21.4 134.15 53.4" style="fill:url(#PatternID_12_1)"/>
+      <path d="M130.15 41.65 Q130.4 44.75 128.1 47.05 125.85 49.4 121.2 50.75 105.6 55.2 75.9 55.1 50.0 55.0 36.45 53.2 32.75 52.7 24.9 50.75 19.4 49.4 16.95 46.3 15.0 43.9 15.3 41.25 16.0 35.15 22.15 31.55 35.75 23.55 73.35 23.65 107.55 23.8 121.7 31.45 129.6 35.75 130.15 41.65" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0784, 6.0E-4, -2.0E-4, 0.0176, 73.95, 41.35)" gradientUnits="userSpaceOnUse" id="gradient2" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#9c9c9c"/>
+      <stop offset="0.08235294117647059" stop-color="#aaaaaa"/>
+      <stop offset="0.21176470588235294" stop-color="#b9b9b9"/>
+      <stop offset="0.36470588235294116" stop-color="#c2c2c2"/>
+      <stop offset="0.596078431372549" stop-color="#c4c4c4"/>
+      <stop offset="0.7568627450980392" stop-color="#b9b9b9"/>
+      <stop offset="1.0" stop-color="#a1a1a1"/>
+    </radialGradient>
+    <g id="sprite5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <use height="21.7" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)" width="114.9" xlink:href="#shape7"/>
+    </g>
+    <g id="shape7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <path d="M114.1 21.7 Q114.4 12.55 97.4 7.5 82.3 3.0 57.9 2.75 33.95 2.5 18.0 6.6 -0.4 11.35 0.35 20.3 -0.15 18.85 0.0 17.6 0.7 11.5 6.85 7.9 20.45 -0.1 58.05 0.0 92.25 0.15 106.4 7.8 114.3 12.1 114.85 18.0 115.0 19.95 114.1 21.7" fill="#aeb0b2" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite6" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.15, 0.0)">
+      <use height="18.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.15, 0.0)" width="113.7" xlink:href="#shape8"/>
+    </g>
+    <g id="shape8" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.15, 0.0)">
+      <path d="M114.85 18.0 Q113.75 9.8 97.05 5.15 81.5 0.8 57.9 0.8 33.05 0.8 17.6 4.75 4.45 8.1 1.15 13.7 2.8 10.25 6.85 7.9 20.45 -0.1 58.05 0.0 92.25 0.15 106.4 7.8 114.3 12.1 114.85 18.0" fill="#c0c2c4" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape9" transform="matrix(1.0, 0.0, 0.0, 1.0, -16.6, -27.2)">
+      <path d="M104.65 31.95 Q116.15 36.15 116.25 41.95 116.35 47.45 103.4 50.15 90.75 52.75 66.4 52.6 45.4 52.5 32.05 49.6 18.2 46.6 18.2 41.65 18.2 36.05 30.3 32.0 44.05 27.4 67.7 27.2 91.1 26.95 104.65 31.95" fill="url(#gradient3)" fill-rule="evenodd" stroke="none"/>
+      <path d="M113.1 41.2 Q117.0 127.25 117.5 172.8 118.4 258.05 114.4 416.9 L113.95 419.0 Q112.8 421.6 109.25 423.7 97.95 430.45 66.9 430.45 38.15 430.45 25.9 423.75 22.05 421.65 20.35 419.15 L19.4 417.05 Q17.55 342.0 16.85 257.55 15.5 88.65 21.55 41.35 23.5 37.3 29.75 34.9 41.35 30.4 67.9 29.7 91.1 29.15 103.85 34.25 112.45 37.65 113.1 41.2" fill="url(#gradient4)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0602, -1.0E-4, 0.0, 0.0163, 67.4, 40.7)" gradientUnits="userSpaceOnUse" id="gradient3" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#000000"/>
+      <stop offset="1.0" stop-color="#000000" stop-opacity="0.0"/>
+    </radialGradient>
+    <linearGradient gradientTransform="matrix(0.0, 0.2577, 0.2549, 0.0, 67.15, 229.85)" gradientUnits="userSpaceOnUse" id="gradient4" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#000000" stop-opacity="0.24705882"/>
+      <stop offset="0.07058823529411765" stop-color="#000000" stop-opacity="0.14901961"/>
+      <stop offset="0.49019607843137253" stop-color="#000000" stop-opacity="0.0"/>
+      <stop offset="0.9294117647058824" stop-color="#000000" stop-opacity="0.14901961"/>
+      <stop offset="1.0" stop-color="#000000" stop-opacity="0.24705882"/>
+    </linearGradient>
+    <g id="sprite7" transform="matrix(1.0, 0.0, 0.0, 1.0, 5.55, 16.45)">
+      <use height="66.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -5.55, -16.45)" width="146.25" xlink:href="#shape1"/>
+      <use height="51.85" transform="matrix(0.9225, 0.0, 0.0, 0.6774, 3.7, 8.5227)" width="140.95" xlink:href="#sprite8"/>
+      <use height="32.7" transform="matrix(0.9752, 0.0, 0.0, 0.8732, 3.7028, 9.8367)" width="131.9" xlink:href="#sprite9"/>
+      <use height="23.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 3.6, 17.75)" width="128.85" xlink:href="#shape12"/>
+      <use height="23.35" transform="matrix(0.9752, 0.0, 0.0, 0.9189, 11.15, 9.7)" width="117.95" xlink:href="#sprite10"/>
+      <use height="33.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 8.75, 0.0)" width="119.95" xlink:href="#shape14"/>
+      <use height="19.35" transform="matrix(0.9752, 0.0, 0.0, 0.9189, 11.5413, 13.4)" width="117.55" xlink:href="#sprite11"/>
+    </g>
+    <g id="sprite8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 18.05)">
+      <use height="51.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -18.05)" width="140.95" xlink:href="#shape10"/>
+    </g>
+    <g id="shape10" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 18.05)">
+      <path d="M22.0 -18.05 L122.7 -14.1 129.85 -5.05 133.0 -4.05 Q136.55 -2.65 138.6 -0.5 145.05 6.35 133.7 18.2 125.6 26.7 111.35 30.0 96.0 33.55 63.2 33.8 35.75 33.95 18.2 25.35 6.7 19.75 1.85 12.05 -2.35 5.5 3.1 -1.65 4.5 -3.45 22.0 -18.05" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite9" transform="matrix(1.0, 0.0, 0.0, 1.0, -9.95, -7.2)">
+      <use height="32.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 9.95, 7.2)" width="131.9" xlink:href="#shape11"/>
+    </g>
+    <g id="shape11" transform="matrix(1.0, 0.0, 0.0, 1.0, -9.95, -7.2)">
+      <path d="M141.85 18.9 L141.85 19.0 Q140.9 25.2 133.15 30.05 117.4 39.9 77.8 39.9 35.1 39.9 18.8 30.55 10.65 25.9 9.95 19.15 10.6 11.3 21.95 7.2 25.75 7.65 31.8 9.75 L33.05 11.6 Q35.05 13.8 39.05 15.7 51.85 21.6 79.45 21.6 101.7 21.6 113.85 15.5 119.95 12.45 121.55 9.4 L125.15 8.25 130.0 7.25 Q142.4 13.8 141.85 18.9" fill="url(#gradient5)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0879, 0.0, 0.0, -0.023, 76.05, 16.8)" gradientUnits="userSpaceOnUse" id="gradient5" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#d8dadb"/>
+      <stop offset="0.1803921568627451" stop-color="#dcdedf"/>
+      <stop offset="0.596078431372549" stop-color="#dfe0e1"/>
+      <stop offset="0.6745098039215687" stop-color="#d6d7d9"/>
+      <stop offset="0.8196078431372549" stop-color="#bec0c2"/>
+      <stop offset="1.0" stop-color="#9a9c9f"/>
+    </radialGradient>
+    <g id="shape12" transform="matrix(1.0, 0.0, 0.0, 1.0, -3.6, -17.75)">
+      <path d="M3.6 21.6 L3.6 21.2 Q3.6 19.45 4.25 17.85 L4.15 18.6 4.1 19.0 Q3.55 27.3 19.5 32.2 36.7 37.5 68.85 37.5 99.15 37.6 116.1 32.4 132.35 27.4 131.95 18.75 L131.85 17.75 Q132.45 19.15 132.45 20.75 L132.45 21.15 Q132.2 27.25 123.85 31.9 108.5 40.5 69.85 40.5 28.25 40.5 12.35 32.35 3.85 28.05 3.6 21.6" fill="#919191" fill-rule="evenodd" stroke="none"/>
+      <path d="M132.45 21.15 L132.45 21.5 132.45 21.6 132.45 21.8 132.45 21.95 Q132.45 28.3 123.85 33.1 108.5 41.7 69.85 41.7 28.25 41.7 12.35 33.55 3.6 29.1 3.6 22.4 L3.6 22.25 3.6 22.05 3.6 21.95 3.6 21.6 Q3.85 28.05 12.35 32.35 28.25 40.5 69.85 40.5 108.5 40.5 123.85 31.9 132.2 27.25 132.45 21.15" fill="#000000" fill-opacity="0.22352941" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite10" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="23.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="117.95" xlink:href="#shape13"/>
+    </g>
+    <g id="shape13" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M117.15 0.0 Q118.1 1.75 117.95 4.0 117.4 10.3 109.3 14.95 94.75 23.2 59.65 23.35 21.1 23.5 7.05 14.85 0.75 10.95 0.05 4.4 -0.1 3.05 0.4 1.5 -0.4 11.1 18.5 16.2 34.9 20.65 59.5 20.4 84.45 20.15 100.05 15.3 117.5 9.8 117.15 0.0" fill="#aeb0b2" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape14" transform="matrix(1.0, 0.0, 0.0, 1.0, -8.75, 0.0)">
+      <pattern height="35" id="PatternID_27_1" overflow="visible" patternTransform="matrix(0.9752, 0.0, 0.0, 0.9189, 8.75, 1.75)" patternUnits="userSpaceOnUse" viewBox="0 0 123 35" width="123">
+        <image height="35" width="123" xlink:href="data:image/PNG;base64,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"/>
+      </pattern>
+      <path d="M128.7 33.9 L8.75 33.9 8.75 1.75 128.7 1.75 128.7 33.9" style="fill:url(#PatternID_27_1)"/>
+      <path d="M126.15 13.35 Q125.6 19.15 117.7 23.4 103.5 31.0 69.3 31.15 31.7 31.3 18.0 23.35 11.85 19.75 11.15 13.75 10.85 11.1 12.8 8.75 15.25 5.7 20.75 4.3 29.0 2.35 32.35 1.9 45.95 0.1 71.8 0.0 102.2 -0.1 117.15 4.3 121.8 5.65 124.1 8.0 126.4 10.3 126.15 13.35" fill="url(#gradient6)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0748, -6.0E-4, -2.0E-4, -0.0196, 68.25, 11.8)" gradientUnits="userSpaceOnUse" id="gradient6" r="819.2" spreadMethod="pad">
+      <stop offset="0.2196078431372549" stop-color="#9c9c9c"/>
+      <stop offset="0.3607843137254902" stop-color="#aeaeae"/>
+      <stop offset="0.5254901960784314" stop-color="#bdbdbd"/>
+      <stop offset="0.6627450980392157" stop-color="#c2c2c2"/>
+      <stop offset="0.8705882352941177" stop-color="#a8a8a8"/>
+      <stop offset="1.0" stop-color="#9e9e9e"/>
+    </radialGradient>
+    <g id="sprite11" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.35, 0.0)">
+      <use height="19.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.35, 0.0)" width="117.55" xlink:href="#shape15"/>
+    </g>
+    <g id="shape15" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.35, 0.0)">
+      <path d="M117.9 0.0 Q117.35 6.3 109.25 10.95 94.7 19.2 59.6 19.35 21.05 19.5 7.0 10.85 2.4 8.0 0.85 4.4 L0.35 2.75 Q2.55 10.1 18.05 14.25 33.9 18.45 59.45 18.45 83.65 18.45 99.6 13.8 116.75 8.8 117.9 0.0" fill="#c8cacc" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape16" transform="matrix(1.0, 0.0, 0.0, 1.0, -16.6, -29.65)">
+      <path d="M113.1 41.2 Q117.0 127.25 117.5 172.8 118.4 258.05 114.4 416.9 L113.95 419.0 Q112.8 421.6 109.25 423.7 97.95 430.45 66.9 430.45 38.15 430.45 25.9 423.75 22.05 421.65 20.35 419.15 L19.4 417.05 Q17.55 342.0 16.85 257.55 15.5 88.65 21.55 41.35 23.5 37.3 29.75 34.9 41.35 30.4 67.9 29.7 91.1 29.15 103.85 34.25 112.45 37.65 113.1 41.2" fill="url(#gradient7)" fill-rule="evenodd" stroke="none"/>
+      <path d="M25.3 44.2 Q24.0 60.5 22.7 91.05 20.1 152.1 20.1 223.05 20.1 264.3 22.1 344.8 23.85 414.2 23.65 415.35 23.25 417.55 22.35 417.2 21.4 416.85 21.4 414.3 18.2 283.85 17.75 222.75 17.35 170.6 19.7 107.15 21.6 54.25 22.8 46.95 L23.3 44.05 Q23.7 42.5 24.4 42.05 25.3 41.5 25.4 42.75 L25.3 44.2" fill="#ebebeb" fill-rule="evenodd" stroke="none"/>
+      <path d="M25.3 44.2 Q23.95 61.2 22.65 91.55 20.1 151.8 20.1 223.05 20.1 264.3 22.1 344.8 23.85 414.2 23.65 415.35 23.45 416.4 23.1 415.8 22.7 415.1 22.75 412.6 L20.95 339.7 Q19.1 260.45 18.8 222.7 18.45 170.9 20.7 107.8 22.5 56.15 23.6 48.25 L23.95 45.25 Q24.15 43.55 24.55 42.9 25.0 42.05 25.25 42.3 25.45 42.6 25.3 44.2" fill="#dedede" fill-rule="evenodd" stroke="none"/>
+      <path d="M32.0 40.85 Q30.75 57.55 29.5 88.8 26.95 151.3 26.95 223.8 26.95 260.8 29.1 345.95 30.9 418.3 30.45 419.85 29.7 422.55 28.3 421.85 26.9 421.1 26.9 418.4 25.9 385.25 24.95 344.3 23.05 262.4 23.25 223.4 23.45 180.25 25.45 112.2 27.3 47.1 28.25 42.05 28.45 40.95 29.0 40.1 29.6 39.1 30.4 38.9 31.45 38.6 31.8 39.75 L32.0 40.85" fill="#ebebeb" fill-rule="evenodd" stroke="none"/>
+      <path d="M32.0 40.85 Q30.75 57.55 29.5 88.8 26.95 151.3 26.95 223.8 26.95 261.05 29.05 345.95 30.85 418.35 30.45 419.85 30.05 421.8 29.2 421.05 28.4 420.35 28.4 417.8 27.4 384.9 26.45 344.2 24.5 262.8 24.7 223.8 24.95 180.25 26.85 112.55 28.7 47.35 29.6 42.35 L30.05 40.3 Q30.45 39.15 31.05 39.05 32.15 38.9 32.0 40.85" fill="#e0e0e0" fill-rule="evenodd" stroke="none"/>
+      <path d="M38.85 39.15 Q37.95 45.6 36.35 87.85 34.05 149.15 34.05 222.8 34.05 259.45 35.95 346.5 37.55 419.95 37.1 421.65 36.35 424.3 34.75 423.9 33.1 423.45 33.1 420.7 L31.4 345.3 Q29.7 262.0 29.9 222.75 30.15 179.3 32.0 110.85 33.8 45.35 34.65 40.2 34.9 38.65 35.35 37.95 35.85 37.0 36.9 36.9 37.7 36.8 38.35 37.6 38.95 38.35 38.85 39.15" fill="#e5e5e5" fill-rule="evenodd" stroke="none"/>
+      <path d="M37.7 37.25 Q39.0 37.35 38.85 39.15 37.9 47.6 36.4 87.85 34.05 149.35 34.05 222.8 34.05 259.45 35.95 346.5 37.55 419.95 37.1 421.65 36.4 424.25 35.4 423.05 34.45 421.9 34.45 419.05 L32.95 344.55 Q31.45 262.2 31.65 222.95 31.9 182.25 33.75 111.75 35.4 48.35 35.95 41.8 36.35 37.15 37.7 37.25" fill="#d9d9d9" fill-rule="evenodd" stroke="none"/>
+      <path d="M46.85 37.95 Q45.9 55.45 45.0 86.55 43.1 148.75 43.1 221.75 43.1 259.85 44.5 347.05 45.65 422.1 45.45 423.6 45.1 426.25 43.05 425.7 41.0 425.15 41.0 422.5 L39.35 345.6 Q37.7 260.85 37.9 221.5 38.15 177.6 39.95 109.4 41.65 43.75 42.5 38.65 42.9 36.05 45.0 35.7 45.8 35.6 46.35 36.45 46.85 37.2 46.85 37.95" fill="#e5e5e5" fill-rule="evenodd" stroke="none"/>
+      <path d="M46.85 37.95 Q45.9 55.45 45.0 86.55 43.1 148.75 43.1 221.75 43.1 259.85 44.5 347.05 45.65 422.1 45.45 423.6 45.05 426.5 43.65 424.55 42.25 422.6 42.6 418.65 L41.2 343.9 Q39.85 261.3 40.05 221.95 40.25 179.0 41.75 111.75 43.1 48.3 43.75 42.8 L44.15 38.9 Q44.6 36.5 45.55 36.4 46.35 36.35 46.65 36.8 L46.85 37.95" fill="#d9d9d9" fill-rule="evenodd" stroke="none"/>
+      <path d="M56.15 37.4 Q55.3 54.55 54.45 86.35 52.75 149.95 52.75 223.55 52.75 262.65 53.8 348.15 L54.6 423.8 Q54.3 427.25 52.1 426.95 49.95 426.7 49.95 423.85 L48.35 346.9 Q46.85 262.0 47.05 222.45 47.35 166.2 48.5 109.1 49.8 41.8 51.25 37.65 51.8 36.05 52.15 35.55 52.7 34.8 53.9 34.6 55.45 34.4 55.95 35.9 L56.15 37.4" fill="#e5e5e5" fill-rule="evenodd" stroke="none"/>
+      <path d="M56.15 37.4 Q55.3 54.55 54.45 86.35 52.75 149.95 52.75 223.55 52.75 263.65 53.75 348.15 L54.6 423.8 Q54.4 426.3 52.75 425.65 51.1 425.1 51.15 422.95 L49.65 346.4 Q48.2 262.0 48.4 222.45 48.65 174.65 49.95 110.55 51.2 44.85 52.05 40.1 L52.5 37.05 Q52.95 35.4 54.05 35.25 55.6 35.05 56.05 36.2 L56.15 37.4" fill="#d9d9d9" fill-rule="evenodd" stroke="none"/>
+      <path d="M109.15 44.45 L109.15 43.2 Q109.3 42.0 110.15 42.2 110.8 42.35 111.2 43.85 L111.65 47.25 Q113.05 60.9 114.4 111.4 115.95 167.65 115.95 222.25 115.95 260.45 114.05 341.45 L112.15 414.85 Q112.2 417.15 111.3 418.45 110.35 419.75 109.9 417.7 109.6 416.35 111.5 345.5 113.65 262.8 113.65 222.3 113.65 157.75 111.4 94.6 110.3 63.1 109.15 44.45" fill="#ebebeb" fill-rule="evenodd" stroke="none"/>
+      <path d="M109.15 44.45 L109.15 43.4 Q109.2 42.4 109.6 42.35 110.05 42.3 110.35 43.8 L110.8 47.15 Q112.2 60.65 113.5 111.4 115.0 167.5 115.0 222.3 115.0 260.5 113.2 340.8 L111.35 413.5 Q111.4 415.55 110.7 416.95 110.05 418.3 109.85 416.85 109.75 416.05 111.6 345.05 113.65 264.45 113.65 222.3 113.65 157.75 111.4 94.6 110.3 63.1 109.15 44.45" fill="#dedede" fill-rule="evenodd" stroke="none"/>
+      <path d="M102.1 41.2 L102.2 39.85 Q102.45 38.5 103.4 38.65 104.9 38.9 105.65 42.4 106.75 47.45 108.9 112.2 111.2 179.95 111.4 223.05 111.6 262.05 109.25 344.3 L106.85 418.7 Q106.85 421.4 105.6 422.2 104.3 422.95 103.65 420.55 103.25 419.1 105.35 345.75 107.75 260.55 107.75 222.75 107.75 150.2 104.95 88.45 103.5 57.55 102.1 41.2" fill="#ebebeb" fill-rule="evenodd" stroke="none"/>
+      <path d="M102.1 41.2 Q102.05 40.65 102.15 40.15 102.3 39.0 102.9 39.05 103.7 39.1 104.1 40.2 L104.7 42.95 Q105.55 48.55 107.6 112.45 109.8 181.3 110.05 222.95 110.25 261.95 108.1 343.3 L105.95 416.85 Q105.95 419.6 105.1 420.8 104.2 422.1 103.6 419.75 103.2 418.3 105.3 345.35 107.75 260.45 107.75 222.75 107.75 150.2 104.95 88.45 103.5 57.55 102.1 41.2" fill="#e0e0e0" fill-rule="evenodd" stroke="none"/>
+      <path d="M94.25 38.7 Q94.15 37.9 94.6 37.05 95.1 36.1 95.85 36.05 96.55 36.0 97.35 36.85 98.2 37.75 98.5 39.2 99.5 44.75 101.85 110.2 104.35 180.2 104.6 222.4 104.8 261.65 102.4 345.3 L99.95 421.05 Q99.95 423.8 98.35 424.45 96.7 425.1 95.95 422.4 95.55 420.85 97.55 346.85 99.9 260.4 99.9 222.65 99.9 149.15 97.15 87.55 95.35 46.8 94.25 38.7" fill="#e5e5e5" fill-rule="evenodd" stroke="none"/>
+      <path d="M94.35 39.95 Q94.15 38.4 94.45 37.5 94.8 36.6 95.55 36.55 96.4 36.5 96.9 37.7 L97.6 40.55 Q98.55 46.15 100.55 111.2 102.7 179.9 102.9 222.8 103.1 262.05 101.15 344.6 L99.15 419.25 Q99.15 422.0 97.8 423.15 96.45 424.35 95.95 422.0 95.7 420.7 97.65 346.6 99.9 261.65 99.9 222.65 99.9 149.15 97.2 88.15 95.45 47.6 94.35 39.95" fill="#d9d9d9" fill-rule="evenodd" stroke="none"/>
+      <path d="M86.25 37.65 Q86.15 36.65 86.55 35.8 87.0 34.85 87.75 34.7 88.9 34.45 89.7 35.5 90.55 36.5 90.75 38.3 91.5 46.2 93.7 108.95 96.2 181.0 96.4 221.05 96.6 260.4 94.5 345.5 L92.3 422.7 Q92.1 425.45 90.05 425.85 88.0 426.25 87.85 423.4 L89.55 346.8 Q91.4 262.8 91.4 221.55 91.4 148.25 88.85 86.25 87.6 55.1 86.25 37.65" fill="#e5e5e5" fill-rule="evenodd" stroke="none"/>
+      <path d="M86.25 37.65 Q86.15 36.65 86.5 35.95 86.85 35.15 87.6 35.1 88.25 35.05 88.85 36.2 89.4 37.35 89.6 39.15 90.3 46.9 92.45 109.65 94.85 181.3 95.05 221.45 95.25 260.8 93.4 345.4 L91.5 422.2 Q91.35 424.2 89.7 424.75 88.05 425.25 87.9 422.6 L89.6 346.35 Q91.4 262.8 91.4 221.55 91.4 148.25 88.85 86.25 87.6 55.1 86.25 37.65" fill="#d9d9d9" fill-rule="evenodd" stroke="none"/>
+      <path d="M79.4 34.25 Q80.8 34.3 81.35 35.6 L82.1 38.65 Q83.1 43.4 84.8 109.9 86.5 176.5 86.75 222.7 86.95 262.25 85.45 347.05 L83.85 423.85 Q83.55 426.9 81.35 426.8 79.2 426.65 79.1 424.2 L79.75 348.5 Q80.55 264.55 80.55 223.9 80.55 150.3 79.15 86.8 78.45 55.0 77.75 37.9 L77.85 36.1 Q78.2 34.2 79.4 34.25" fill="#e0e0e0" fill-rule="evenodd" stroke="none"/>
+      <path d="M79.3 34.75 Q80.9 34.55 81.4 39.1 82.0 44.9 83.6 110.25 85.3 180.55 85.55 222.85 85.75 262.4 84.3 346.35 L82.75 422.45 Q82.45 425.45 80.8 425.4 79.2 425.35 79.1 422.95 L79.75 347.9 Q80.55 263.95 80.55 223.9 80.55 150.3 79.2 87.45 78.5 55.95 77.8 39.2 77.6 38.15 77.7 37.05 77.9 34.85 79.3 34.75" fill="#d9d9d9" fill-rule="evenodd" stroke="none"/>
+      <path d="M65.0 37.15 Q64.25 106.55 64.25 224.25 L64.7 348.55 Q65.1 422.0 64.9 423.9 64.65 427.25 61.9 427.3 59.15 427.4 59.1 423.8 57.25 286.9 57.6 223.55 57.8 177.75 58.75 109.75 59.7 42.3 60.15 37.4 60.35 35.8 60.6 35.3 61.25 34.05 63.0 34.1 64.25 34.1 64.75 35.65 L65.0 37.15" fill="#e5e5e5" fill-rule="evenodd" stroke="none"/>
+      <path d="M64.85 37.4 Q63.9 106.4 63.9 224.1 63.9 259.8 64.45 348.25 64.9 421.65 64.75 423.45 64.45 426.3 62.1 426.3 59.65 426.3 59.6 422.8 58.95 287.05 59.3 223.75 L60.0 110.0 Q60.55 42.1 60.95 37.85 61.1 36.6 61.45 36.0 61.95 35.1 63.1 35.1 64.15 35.1 64.6 36.25 L64.85 37.4" fill="#d9d9d9" fill-rule="evenodd" stroke="none"/>
+      <path d="M68.8 37.3 L69.05 35.75 Q69.6 34.1 71.05 34.05 73.4 33.9 73.8 37.0 74.4 41.35 75.05 109.05 L75.9 222.7 Q76.25 286.0 74.85 424.2 74.65 427.4 72.05 427.35 69.45 427.3 69.15 423.9 68.95 421.6 69.0 348.35 L69.1 223.9 68.8 37.3" fill="#e5e5e5" fill-rule="evenodd" stroke="none"/>
+      <path d="M69.1 38.0 L69.25 36.4 Q69.65 34.8 70.95 34.85 72.1 34.9 72.45 35.85 L72.8 37.95 Q73.35 41.95 73.7 109.8 L74.15 223.2 Q74.5 286.55 73.85 423.25 73.65 426.35 71.6 426.15 69.55 425.9 69.45 423.2 L69.35 223.85 69.1 38.0" fill="#d9d9d9" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0617, 0.0, 0.0, -0.0623, 67.15, 230.05)" gradientUnits="userSpaceOnUse" id="gradient7" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d9d9d9"/>
+      <stop offset="0.10196078431372549" stop-color="#cecece"/>
+      <stop offset="0.2549019607843137" stop-color="#c6c6c6"/>
+      <stop offset="0.596078431372549" stop-color="#c4c4c4"/>
+      <stop offset="0.8745098039215686" stop-color="#cfcfcf"/>
+      <stop offset="1.0" stop-color="#d6d6d6"/>
+    </linearGradient>
+  </defs>
+</svg>

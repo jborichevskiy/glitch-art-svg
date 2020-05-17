@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="190.0px" width="122.4px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="188.85" id="shrine_uralia_humbaba" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.6, 1.6)" width="124.8" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 62.8, 85.05)">
+      <use height="25.6" transform="matrix(1.0, 0.0, 0.0, 1.0, -50.9, 77.05)" width="98.65" xlink:href="#sprite1"/>
+      <use height="20.95" transform="matrix(1.0, 0.0, 0.0, 1.0, -47.25, 79.9)" width="91.25" xlink:href="#sprite2"/>
+      <use height="13.35" transform="matrix(1.0, 0.0, 0.0, 1.0, -7.35, -2.25)" width="8.55" xlink:href="#sprite3"/>
+      <use height="118.25" transform="matrix(1.0, 0.0, 0.0, 1.0, -46.85, -14.6)" width="89.5" xlink:href="#sprite4"/>
+      <use height="29.8" transform="matrix(1.0, 0.0, 0.0, 1.0, -36.7, 5.35)" width="7.2" xlink:href="#sprite24"/>
+      <use height="21.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 31.75, 39.85)" width="3.15" xlink:href="#sprite25"/>
+      <use height="54.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -44.25, 33.2)" width="18.2" xlink:href="#sprite26"/>
+      <use height="49.55" transform="matrix(1.0, 0.0, 0.0, 1.0, -47.75, 36.0)" width="20.95" xlink:href="#shape27"/>
+      <use height="36.55" transform="matrix(1.0, 0.0, 0.0, 1.0, -45.3, 42.05)" width="14.95" xlink:href="#sprite27"/>
+      <use height="31.9" transform="matrix(1.0, 0.0, 0.0, 1.0, -51.55, 34.65)" width="15.3" xlink:href="#shape29"/>
+      <use height="18.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 34.2, 67.55)" width="12.7" xlink:href="#shape30"/>
+      <use height="47.9" transform="matrix(1.0, 0.0, 0.0, 1.0, -26.3, 27.4)" width="48.95" xlink:href="#sprite28"/>
+      <use height="45.9" transform="matrix(1.0, 0.0, 0.0, 1.0, -24.05, 24.4)" width="44.25" xlink:href="#shape32"/>
+      <use height="43.05" transform="matrix(1.0, 0.0, 0.0, 1.0, -23.5, 27.25)" width="43.4" xlink:href="#sprite29"/>
+      <use height="37.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -23.45, 26.3)" width="43.3" xlink:href="#shape34"/>
+      <use height="61.3" transform="matrix(1.0, 0.0, 0.0, 1.0, -61.2, -57.95)" width="121.1" xlink:href="#shape35"/>
+      <use height="61.3" transform="matrix(1.0, 0.0, 0.0, 1.0, -60.7, -57.95)" width="121.1" xlink:href="#sprite30"/>
+      <use height="39.5" transform="matrix(1.0, 0.0, 0.0, 1.0, -34.15, -36.3)" width="92.75" xlink:href="#sprite31"/>
+      <use height="39.2" transform="matrix(1.0, 0.0, 0.0, 1.0, -25.3, -35.45)" width="77.7" xlink:href="#sprite32"/>
+      <use height="38.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -60.9, -58.95)" width="120.7" xlink:href="#shape39"/>
+      <use height="28.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -54.15, -56.25)" width="108.4" xlink:href="#sprite33"/>
+      <use height="6.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 14.55, -54.2)" width="19.45" xlink:href="#sprite34"/>
+      <use height="40.2" transform="matrix(1.0, 0.0, 0.0, 1.0, -56.15, -56.25)" width="110.65" xlink:href="#sprite35"/>
+      <use height="26.6" transform="matrix(1.0, 0.0, 0.0, 1.0, -59.75, -32.5)" width="21.75" xlink:href="#sprite37"/>
+      <use height="35.75" transform="matrix(1.0, 0.0, 0.0, 1.0, -48.05, -54.4)" width="103.6" xlink:href="#shape46"/>
+      <use height="5.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -41.95, -42.95)" width="9.55" xlink:href="#sprite38"/>
+      <use height="7.4" transform="matrix(1.0, 0.0, 0.0, 1.0, -40.8, -27.35)" width="4.35" xlink:href="#shape48"/>
+      <use height="2.25" transform="matrix(1.0, 0.0, 0.0, 1.0, -40.85, -48.85)" width="3.45" xlink:href="#sprite39"/>
+      <use height="2.7" transform="matrix(1.0, 0.0, 0.0, 1.0, -23.8, -53.35)" width="6.0" xlink:href="#sprite40"/>
+      <use height="5.75" transform="matrix(1.0, 0.0, 0.0, 1.0, 21.45, -46.15)" width="13.35" xlink:href="#sprite41"/>
+      <use height="17.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 41.1, -27.3)" width="15.65" xlink:href="#sprite42"/>
+      <use height="24.3" transform="matrix(1.0, 0.0, 0.0, 1.0, -37.6, -6.2)" width="22.85" xlink:href="#sprite43"/>
+      <use height="22.55" transform="matrix(1.0, 0.0, 0.0, 1.0, -37.45, -5.65)" width="21.05" xlink:href="#shape54"/>
+      <use height="43.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.3, -10.4)" width="30.9" xlink:href="#sprite44"/>
+      <use height="41.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 5.6, -9.15)" width="27.45" xlink:href="#shape56"/>
+      <use height="30.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 10.85, -4.5)" width="18.25" xlink:href="#sprite45"/>
+      <use height="19.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 21.2, -1.2)" width="17.4" xlink:href="#shape58"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <use height="25.6" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)" width="98.65" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <path d="M96.5 11.8 Q97.25 12.1 97.85 12.95 98.5 13.8 98.6 14.8 L98.4 15.95 Q97.9 17.05 96.15 18.05 L93.9 19.15 90.75 20.75 87.7 21.6 84.5 22.1 78.1 23.35 75.25 23.55 72.35 23.55 70.05 23.95 67.75 24.3 62.4 24.75 57.0 25.2 51.4 25.1 45.8 25.3 41.2 25.6 36.6 25.4 28.6 25.5 20.7 24.95 14.45 23.55 11.1 22.3 Q9.1 21.45 7.65 21.3 L4.0 20.55 Q2.2 19.95 0.95 18.6 -1.0 16.55 0.95 13.9 2.2 12.15 4.95 10.4 L8.8 7.95 Q10.95 6.6 14.95 5.1 L21.3 2.55 Q23.85 1.3 27.85 0.85 L34.65 0.4 Q42.15 -0.2 50.15 0.05 L54.95 0.25 Q67.15 0.95 73.4 3.0 L77.35 3.95 81.3 4.75 Q82.65 5.1 85.0 6.2 L88.7 7.65 Q90.45 8.1 92.85 9.55 L96.5 11.8" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(-0.0031, 0.0337, 0.0337, 0.0031, 49.5, 13.25)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0196078431372549" stop-color="#033b41"/>
+      <stop offset="0.3568627450980392" stop-color="#04454c" stop-opacity="0.90588236"/>
+      <stop offset="0.9450980392156862" stop-color="#086069" stop-opacity="0.6627451"/>
+      <stop offset="1.0" stop-color="#09626c" stop-opacity="0.6392157"/>
+    </linearGradient>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <use height="20.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)" width="91.25" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <path d="M91.0 12.5 L89.45 13.6 87.75 14.4 Q85.8 15.4 82.55 16.1 L79.8 17.1 77.1 18.1 70.85 18.85 63.95 18.9 57.05 19.4 53.45 20.15 49.85 20.65 45.95 20.2 42.05 19.7 35.2 19.95 30.9 20.8 Q29.95 21.0 28.65 20.8 L26.4 20.45 24.5 20.7 22.55 20.95 Q16.1 21.15 12.1 19.25 7.9 17.35 6.2 16.9 2.8 15.9 0.85 14.0 -0.1 13.05 0.05 12.15 0.2 11.4 1.2 10.25 3.75 7.35 7.2 5.8 L8.95 4.85 10.8 4.05 Q14.2 2.9 20.8 1.8 32.3 -0.15 46.65 0.0 L53.8 0.3 Q68.2 1.25 78.95 4.55 84.0 6.05 87.2 7.9 L89.4 9.2 Q90.8 10.1 91.15 10.9 91.55 11.7 91.0 12.5" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(-0.0023, 0.0281, 0.0281, 0.0023, 45.75, 11.0)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0196078431372549" stop-color="#033541"/>
+      <stop offset="1.0" stop-color="#033541" stop-opacity="0.6392157"/>
+    </linearGradient>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="13.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="8.55" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M0.65 0.3 Q1.75 -0.6 4.65 1.25 7.25 2.85 8.1 5.8 8.55 7.35 8.55 10.0 8.55 12.6 8.35 12.95 7.75 14.05 5.05 12.05 2.3 10.0 1.4 8.2 1.0 7.45 0.3 4.35 -0.45 1.15 0.65 0.3" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.1016, -4.0E-4, -4.0E-4, -0.1016, -19.65, 6.75)" gradientUnits="userSpaceOnUse" id="gradient2" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite4" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)">
+      <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)">
+        <use height="105.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 8.8)" width="89.5" xlink:href="#shape3"/>
+      </clipPath>
+      <g clip-path="url(#clipPath0)">
+        <use height="107.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 3.25, 10.3)" width="82.15" xlink:href="#shape4"/>
+        <use height="107.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 3.75, 10.3)" width="82.15" xlink:href="#sprite5"/>
+        <use height="89.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 40.55, 28.6)" width="45.35" xlink:href="#sprite6"/>
+        <use height="103.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 3.35, 10.55)" width="22.65" xlink:href="#sprite7"/>
+        <use height="18.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 3.25, 98.5)" width="81.95" xlink:href="#sprite8"/>
+        <use height="31.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 40.5, 86.15)" width="18.8" xlink:href="#sprite9"/>
+        <use height="35.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 57.6, 62.75)" width="15.1" xlink:href="#sprite10"/>
+        <use height="27.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 21.65, 3.7)" width="52.7" xlink:href="#sprite11"/>
+        <use height="27.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 21.95, 0.05)" width="52.7" xlink:href="#sprite12"/>
+        <use height="11.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 60.5, 93.4)" width="5.5" xlink:href="#sprite13"/>
+        <use height="42.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 55.2, 7.45)" width="20.65" xlink:href="#sprite14"/>
+        <use height="8.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 30.25, 31.4)" width="4.1" xlink:href="#sprite15"/>
+        <use height="51.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 5.6, 44.75)" width="23.9" xlink:href="#sprite16"/>
+        <use height="16.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 26.15, 73.85)" width="7.3" xlink:href="#sprite17"/>
+        <use height="12.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 27.65, 39.0)" width="5.85" xlink:href="#sprite18"/>
+        <use height="19.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.0, 64.55)" width="12.05" xlink:href="#sprite19"/>
+        <use height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 69.7, 52.85)" width="9.85" xlink:href="#sprite20"/>
+        <use height="37.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 5.75, 29.5)" width="13.0" xlink:href="#sprite21"/>
+        <use height="20.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 78.45, 76.75)" width="6.85" xlink:href="#sprite22"/>
+        <use height="13.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 69.4, 28.0)" width="6.8" xlink:href="#sprite23"/>
+      </g>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -8.8)">
+      <path d="M89.05 98.05 Q89.6 101.15 89.5 102.8 L88.85 105.0 Q87.0 104.6 86.15 101.95 L83.3 106.65 Q82.7 105.45 81.8 105.4 80.95 105.35 80.05 106.35 L77.8 109.25 Q77.7 108.35 78.25 106.8 78.8 105.15 78.75 104.35 L78.1 105.45 76.65 107.7 75.1 109.9 Q73.55 111.8 68.95 112.0 61.7 112.4 61.75 111.25 60.5 112.45 58.2 112.6 55.6 112.75 55.65 110.65 L54.6 111.4 Q54.1 111.35 54.3 110.2 53.35 112.2 51.0 113.4 48.7 114.55 46.45 114.2 45.1 114.0 43.45 113.0 L40.75 111.25 38.15 110.55 Q36.65 110.2 36.55 108.9 L36.05 110.5 Q35.1 109.65 34.3 107.3 L33.15 103.65 33.55 107.15 33.95 110.7 Q32.95 109.95 32.55 108.8 33.25 110.95 30.5 112.1 L25.85 113.5 Q20.4 115.4 15.5 113.3 L12.55 111.9 Q10.25 110.65 10.3 109.8 L10.15 110.55 8.15 108.4 Q8.75 109.4 8.8 110.35 8.75 110.1 6.55 108.7 L3.9 106.9 Q1.5 104.15 0.45 98.85 0.05 96.8 0.0 93.8 L0.05 88.55 Q0.05 78.15 1.8 70.0 3.4 62.55 5.9 52.7 L10.3 35.8 12.7 27.2 15.05 18.75 15.8 14.95 Q16.3 12.6 17.15 11.3 18.45 9.3 20.8 8.9 L25.45 8.8 Q28.9 8.8 36.55 10.7 43.55 12.45 47.8 12.05 L57.75 10.95 67.7 10.1 71.8 9.75 Q74.5 9.6 75.45 10.35 76.85 11.45 77.1 14.4 L77.05 19.0 Q77.05 28.2 80.05 39.45 L84.8 58.5 Q87.15 69.0 88.15 77.8 88.45 80.7 88.35 85.7 L88.3 93.5 89.05 98.05" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape4" transform="matrix(1.0, 0.0, 0.0, 1.0, -3.25, -10.3)">
+      <path d="M73.4 10.3 Q72.45 12.0 72.05 15.15 71.15 21.5 73.65 28.85 78.65 43.6 81.9 61.55 86.4 86.2 85.15 106.25 85.0 109.25 79.65 112.15 68.95 117.9 43.15 117.3 17.45 116.7 7.8 110.15 4.75 108.1 3.7 105.7 L3.25 103.7 Q3.1 80.1 7.3 58.1 9.2 48.3 14.75 28.35 17.4 18.8 15.85 13.6 15.35 11.95 14.55 11.0 L13.8 10.3 73.4 10.3" fill="url(#gradient3)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0809, 0.0, 0.0, -0.1946, 46.0, 106.15)" gradientUnits="userSpaceOnUse" id="gradient3" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#1e4361"/>
+      <stop offset="0.18823529411764706" stop-color="#1c405c"/>
+      <stop offset="0.4196078431372549" stop-color="#15374e"/>
+      <stop offset="0.6666666666666666" stop-color="#0b2936"/>
+      <stop offset="0.7803921568627451" stop-color="#042128"/>
+      <stop offset="0.8980392156862745" stop-color="#162f43"/>
+      <stop offset="1.0" stop-color="#223956"/>
+    </radialGradient>
+    <g id="sprite5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="107.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="82.15" xlink:href="#shape5"/>
+    </g>
+    <g id="shape5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <pattern height="119" id="PatternID_10_1" overflow="visible" patternTransform="matrix(1.0012, 0.0069, -0.0069, 1.001, -4023.4, 2103.25)" patternUnits="userSpaceOnUse" viewBox="0 0 143 119" width="143">
+        <image height="119" width="143" xlink:href="data:image/PNG;base64,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"/>
+      </pattern>
+      <path d="M70.15 0.0 Q69.2 1.7 68.8 4.85 67.9 11.2 70.4 18.55 75.4 33.3 78.65 51.25 83.15 75.9 81.9 95.95 81.75 98.95 76.4 101.85 65.7 107.6 39.9 107.0 14.2 106.4 4.55 99.85 1.5 97.8 0.45 95.4 L0.0 93.4 Q-0.15 69.8 4.05 47.8 5.95 38.0 11.5 18.05 14.15 8.5 12.6 3.3 11.85 0.7 10.55 0.0 L70.15 0.0" style="fill:url(#PatternID_10_1)"/>
+    </g>
+    <g id="sprite6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="89.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="45.35" xlink:href="#shape6"/>
+    </g>
+    <g id="shape6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M29.7 0.25 Q31.6 -0.35 33.15 0.55 34.9 1.5 35.3 4.6 L35.85 9.5 40.3 27.3 Q42.6 37.65 43.55 45.4 L44.85 55.9 Q45.7 66.4 45.1 77.65 44.9 80.7 41.5 82.6 39.35 83.75 35.45 84.65 32.95 85.2 28.45 86.65 L21.45 88.7 Q17.35 89.75 11.3 89.7 L1.0 89.35 Q0.8 86.85 1.95 84.35 L4.45 79.9 Q6.3 76.5 7.25 72.6 8.35 68.35 8.1 64.8 7.95 62.45 6.45 60.05 L3.4 55.9 0.8 52.3 Q-0.4 50.15 0.25 48.15 0.75 46.6 3.3 44.2 5.8 41.8 6.35 40.15 7.1 37.95 6.1 35.95 4.65 33.75 4.05 32.2 3.2 30.05 4.05 28.3 4.4 27.55 6.5 25.0 8.55 22.45 9.4 20.7 10.45 18.45 10.45 15.7 L10.1 11.35 Q10.05 8.75 11.5 7.4 12.8 6.15 15.4 6.1 L19.6 6.1 Q21.15 5.9 24.45 3.4 28.0 0.75 29.7 0.25" fill="url(#gradient4)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0277, 0.0, 0.0, -0.0277, 22.7, 44.85)" gradientUnits="userSpaceOnUse" id="gradient4" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="103.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.65" xlink:href="#shape7"/>
+    </g>
+    <g id="shape7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M22.6 11.85 Q22.9 16.3 21.55 19.25 L19.35 23.6 16.95 27.8 Q14.35 32.45 13.65 35.8 12.8 40.05 14.4 44.3 16.65 50.2 16.9 55.55 17.2 61.2 15.45 67.2 14.6 70.0 11.1 74.7 7.75 79.2 7.1 82.0 5.15 90.4 12.95 103.05 L7.4 100.85 Q3.65 99.55 2.3 98.1 -0.2 95.35 0.0 93.4 -0.15 69.85 4.1 47.8 5.9 38.3 11.5 18.05 14.15 8.6 12.6 3.35 11.85 0.75 10.55 0.0 11.9 0.75 16.7 0.95 19.95 1.1 21.05 4.4 22.35 8.3 22.6 11.85" fill="url(#gradient5)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0138, 0.0, 0.0, -0.0138, 11.35, 51.5)" gradientUnits="userSpaceOnUse" id="gradient5" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.45)">
+      <use height="18.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.45)" width="81.95" xlink:href="#shape8"/>
+    </g>
+    <g id="shape8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.45)">
+      <path d="M81.1 5.0 Q82.8 8.5 81.15 10.35 78.35 13.45 73.95 15.2 70.75 16.5 65.35 17.5 54.0 19.6 39.9 19.25 14.3 18.65 4.6 12.15 -0.25 8.85 0.0 5.65 0.05 3.05 0.3 2.2 0.75 0.75 2.3 2.5 L4.2 5.85 Q5.25 7.85 7.2 8.25 L8.65 8.1 10.2 8.15 11.65 9.4 12.85 10.95 Q15.6 13.5 19.8 13.05 24.05 12.55 25.85 9.2 26.3 10.65 28.2 11.3 30.0 11.9 31.45 11.3 34.25 10.1 32.85 4.7 33.65 7.4 34.2 8.45 35.2 10.55 36.75 11.25 L39.6 11.9 Q41.3 12.15 42.4 12.95 L45.0 14.65 Q46.2 15.1 47.9 14.05 49.65 13.0 52.55 9.4 54.65 12.55 58.3 12.45 L65.2 11.5 68.65 11.15 Q70.35 10.8 71.5 9.4 72.65 8.0 73.75 5.35 L75.55 0.95 Q75.55 2.3 76.1 3.25 76.8 4.35 77.95 3.85 78.5 3.65 79.2 2.1 L79.95 0.45 Q79.55 1.9 81.1 5.0" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="31.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.8" xlink:href="#shape9"/>
+    </g>
+    <g id="shape9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M16.05 0.7 L17.25 3.75 Q18.5 7.7 18.7 12.05 18.95 17.1 18.45 21.8 17.95 26.2 17.05 28.05 16.1 30.0 9.1 30.85 1.9 31.7 0.4 29.4 -1.05 27.2 2.9 17.95 6.0 10.65 8.7 6.4 12.45 0.55 14.65 0.05 15.7 -0.2 16.05 0.7" fill="url(#gradient6)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.1304, -5.0E-4, -5.0E-4, -0.1304, -5.7, 15.6)" gradientUnits="userSpaceOnUse" id="gradient6" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite10" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="35.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="15.1" xlink:href="#shape10"/>
+    </g>
+    <g id="shape10" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1.4 4.3 Q2.2 2.65 3.4 1.5 6.1 -1.05 8.95 0.8 11.2 2.25 12.8 5.8 15.05 10.8 15.1 15.55 15.15 20.0 13.2 25.5 12.65 27.0 12.25 30.35 11.85 33.55 11.25 35.15 9.8 34.45 8.6 32.75 L6.65 29.75 3.9 26.8 Q2.05 24.95 1.4 23.65 0.75 22.4 0.65 20.35 L0.45 16.85 Q-0.8 8.85 1.4 4.3" fill="url(#gradient7)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0748, -3.0E-4, -3.0E-4, -0.0748, -14.35, 17.7)" gradientUnits="userSpaceOnUse" id="gradient7" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite11" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="27.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="52.7" xlink:href="#shape11"/>
+    </g>
+    <g id="shape11" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M46.05 6.35 L49.25 9.15 Q51.1 10.8 52.7 11.45 48.45 18.6 42.55 22.4 35.0 27.15 26.9 27.8 18.4 28.5 10.8 24.5 0.1 18.8 0.0 13.55 -0.1 10.35 5.35 6.8 7.9 5.1 13.7 2.4 L15.8 1.55 Q20.85 -0.2 27.05 0.0 33.1 0.25 37.9 2.2 43.8 4.65 46.05 6.35" fill="url(#gradient8)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0379, 0.0, 0.0, -0.0267, 25.0, 13.95)" gradientUnits="userSpaceOnUse" id="gradient8" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#121726"/>
+      <stop offset="0.9882352941176471" stop-color="#121726" stop-opacity="0.0"/>
+    </radialGradient>
+    <g id="sprite12" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)">
+      <use height="27.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)" width="52.7" xlink:href="#shape12"/>
+    </g>
+    <g id="shape12" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)">
+      <path d="M46.1 6.35 L49.25 9.15 Q51.1 10.85 52.7 11.5 48.55 18.55 42.55 22.4 35.05 27.2 26.95 27.85 18.45 28.55 10.85 24.5 0.15 19.0 0.0 13.6 -0.05 10.4 5.4 6.8 8.0 5.1 13.75 2.4 L15.85 1.55 Q20.9 -0.15 27.1 0.05 33.2 0.25 37.95 2.25 44.0 4.8 46.1 6.35" fill="url(#gradient9)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0379, 0.0, 0.0, -0.0267, 25.05, 14.0)" gradientUnits="userSpaceOnUse" id="gradient9" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#121726"/>
+      <stop offset="0.9882352941176471" stop-color="#121726" stop-opacity="0.0"/>
+    </radialGradient>
+    <g id="sprite13" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, -0.05)">
+      <use height="11.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.05)" width="5.5" xlink:href="#shape13"/>
+    </g>
+    <g id="shape13" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, -0.05)">
+      <path d="M0.0 3.75 Q0.4 0.45 1.15 0.1 2.05 -0.35 3.95 2.6 5.65 5.25 5.45 7.15 L4.55 10.95 Q4.1 13.3 1.9 9.9 -0.35 6.5 0.0 3.75" fill="url(#gradient10)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0557, -0.0132, -0.0139, -0.059, -6.25, 8.0)" gradientUnits="userSpaceOnUse" id="gradient10" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite14" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.2)">
+      <use height="42.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.2)" width="20.65" xlink:href="#shape14"/>
+    </g>
+    <g id="shape14" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.2)">
+      <path d="M10.5 2.8 Q16.3 9.0 19.05 18.9 21.1 26.3 20.5 31.4 20.15 34.35 18.7 39.85 18.0 43.95 13.85 40.4 L4.4 30.8 Q-0.35 26.15 0.05 17.95 0.15 14.8 2.45 4.45 4.2 -3.9 10.5 2.8" fill="url(#gradient11)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.111, -0.0217, -0.0219, -0.112, 4.9, 22.35)" gradientUnits="userSpaceOnUse" id="gradient11" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.15)">
+      <use height="8.25" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, -0.15)" width="4.1" xlink:href="#shape15"/>
+    </g>
+    <g id="shape15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.15)">
+      <path d="M2.4 0.75 Q4.35 3.0 4.0 6.45 3.65 9.65 1.7 6.6 -0.25 3.55 0.0 1.6 0.4 -1.45 2.4 0.75" fill="url(#gradient12)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0748, -3.0E-4, -3.0E-4, -0.0748, 3.1, 4.0)" gradientUnits="userSpaceOnUse" id="gradient12" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite16" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <use height="51.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)" width="23.9" xlink:href="#shape16"/>
+    </g>
+    <g id="shape16" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <path d="M23.7 13.25 Q24.35 19.7 23.3 23.55 L21.35 31.15 Q20.15 35.5 18.7 38.45 17.3 41.25 14.5 44.3 12.8 46.2 9.5 49.1 6.6 51.65 5.05 51.85 2.85 52.1 2.15 48.2 0.55 39.65 0.05 32.05 -0.25 26.55 3.05 19.9 L5.3 14.65 Q6.7 11.55 8.15 9.95 L14.15 2.95 Q17.85 -1.75 20.05 1.05 L21.05 2.65 Q23.0 6.6 23.7 13.25" fill="url(#gradient13)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0667, 4.0E-4, 4.0E-4, -0.0667, 30.65, 26.05)" gradientUnits="userSpaceOnUse" id="gradient13" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite17" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="16.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="7.3" xlink:href="#shape17"/>
+    </g>
+    <g id="shape17" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M2.25 3.5 Q3.95 0.5 4.95 0.1 6.05 -0.4 6.75 2.0 7.55 4.6 7.2 6.6 6.85 8.8 5.05 11.35 L2.15 15.8 Q1.05 17.4 0.4 16.0 -0.35 14.4 0.3 10.15 0.9 5.85 2.25 3.5" fill="url(#gradient14)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0748, -3.0E-4, -3.0E-4, -0.0748, 13.15, 8.3)" gradientUnits="userSpaceOnUse" id="gradient14" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite18" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="12.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="5.85" xlink:href="#shape18"/>
+    </g>
+    <g id="shape18" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M2.7 0.6 Q4.4 1.85 5.05 3.0 6.8 8.35 4.7 11.8 3.25 14.15 1.4 8.95 -0.35 3.95 0.05 1.5 0.45 -0.95 2.7 0.6" fill="url(#gradient15)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0533, -2.0E-4, -2.0E-4, -0.0533, 4.8, 6.25)" gradientUnits="userSpaceOnUse" id="gradient15" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite19" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <use height="19.65" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)" width="12.05" xlink:href="#shape19"/>
+    </g>
+    <g id="shape19" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <path d="M11.0 0.05 Q12.6 0.45 11.75 1.95 L7.0 11.2 Q5.6 13.9 3.7 16.15 L1.0 19.2 Q0.0 20.4 0.0 17.9 0.05 16.4 0.65 11.1 1.05 7.25 3.05 4.6 4.55 2.65 7.25 0.95 9.4 -0.35 11.0 0.05" fill="url(#gradient16)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0748, -3.0E-4, -3.0E-4, -0.0748, 39.35, 9.65)" gradientUnits="userSpaceOnUse" id="gradient16" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite20" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <use height="16.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)" width="9.85" xlink:href="#shape20"/>
+    </g>
+    <g id="shape20" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <path d="M5.35 1.5 Q8.35 3.5 9.35 7.05 9.85 8.95 9.85 12.15 9.85 15.25 9.65 15.7 8.9 17.05 5.8 14.6 2.6 12.1 1.55 9.95 1.15 9.1 0.3 5.25 -0.5 1.35 0.7 0.3 2.0 -0.75 5.35 1.5" fill="url(#gradient17)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.1174, -5.0E-4, -5.0E-4, -0.1174, -22.75, 8.2)" gradientUnits="userSpaceOnUse" id="gradient17" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite21" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <use height="37.95" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)" width="13.0" xlink:href="#shape21"/>
+    </g>
+    <g id="shape21" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <path d="M3.0 22.25 L7.25 4.75 Q8.35 2.85 9.6 1.45 12.1 -1.35 12.9 1.15 13.7 3.65 6.9 21.05 L0.0 37.9 3.0 22.25" fill="url(#gradient18)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0689, -3.0E-4, -3.0E-4, -0.0689, 37.75, 18.8)" gradientUnits="userSpaceOnUse" id="gradient18" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite22" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)">
+      <use height="20.15" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)" width="6.85" xlink:href="#shape22"/>
+    </g>
+    <g id="shape22" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)">
+      <path d="M6.85 20.2 L3.35 12.4 Q-0.15 4.05 0.0 1.55 0.15 -1.0 2.3 0.75 L6.1 4.7 6.85 20.2" fill="url(#gradient19)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0641, -3.0E-4, -3.0E-4, -0.0641, -22.85, 10.2)" gradientUnits="userSpaceOnUse" id="gradient19" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite23" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.15)">
+      <use height="13.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, -0.15)" width="6.8" xlink:href="#shape23"/>
+    </g>
+    <g id="shape23" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.15)">
+      <path d="M3.35 3.45 Q6.45 8.4 6.8 12.05 7.15 15.85 3.45 9.2 -0.25 2.5 0.05 0.3 0.25 -1.4 3.35 3.45" fill="url(#gradient20)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0639, -3.0E-4, -3.0E-4, -0.0639, -22.75, 6.7)" gradientUnits="userSpaceOnUse" id="gradient20" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121726" stop-opacity="0.46666667"/>
+      <stop offset="0.5019607843137255" stop-color="#121726"/>
+      <stop offset="1.0" stop-color="#121726" stop-opacity="0.46666667"/>
+    </linearGradient>
+    <g id="sprite24" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="29.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="7.2" xlink:href="#shape24"/>
+    </g>
+    <g id="shape24" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M7.15 0.0 L7.05 5.0 Q6.6 10.8 5.15 15.0 L0.0 29.8 Q2.5 20.0 4.35 13.8 6.15 7.65 7.15 0.0" fill="#66b5b4" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="21.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="3.15" xlink:href="#shape25"/>
+    </g>
+    <g id="shape25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M1.95 10.45 L3.15 21.25 1.15 9.7 Q-0.4 0.4 0.15 0.0 0.6 -0.3 1.95 10.45" fill="#66b5b4" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite26" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <use height="54.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)" width="18.2" xlink:href="#shape26"/>
+    </g>
+    <g id="shape26" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)">
+      <path d="M10.35 9.5 L10.7 11.15 11.1 12.75 12.0 14.05 Q12.6 14.85 12.5 15.4 12.7 14.2 12.95 13.75 12.75 14.15 12.95 15.0 L13.4 16.15 14.2 17.1 15.0 18.05 15.25 18.85 15.45 19.6 16.05 20.0 16.65 20.35 16.8 21.4 17.35 21.5 16.6 22.25 17.55 22.45 16.9 22.95 16.25 23.45 Q17.65 23.9 18.15 25.35 L16.95 25.45 Q16.15 25.5 15.95 25.8 15.75 26.15 16.05 26.8 L16.6 27.8 15.6 27.55 15.85 28.3 16.1 29.0 14.4 28.35 14.45 30.9 Q14.4 32.15 13.95 33.5 L13.4 34.7 Q13.05 35.55 13.2 35.8 L12.65 35.2 12.85 36.55 12.25 36.15 Q12.25 37.75 11.85 38.6 L11.0 40.3 Q10.45 41.35 10.4 42.1 L9.7 40.85 9.5 43.3 8.75 42.55 Q8.9 44.15 7.9 45.8 L6.75 47.5 Q6.15 48.55 6.2 49.4 5.95 48.85 5.85 47.5 5.5 48.45 5.45 50.05 L5.35 52.6 4.9 50.3 Q5.0 48.2 4.7 47.6 L4.6 50.6 4.8 52.75 4.8 54.85 Q4.1 53.05 3.7 50.0 3.6 49.25 2.75 47.8 1.8 46.1 1.3 43.6 0.8 41.15 1.0 39.2 1.4 34.2 0.7 30.5 -1.2 21.55 1.75 15.05 L1.9 14.7 3.7 11.95 Q4.9 10.25 5.2 9.05 L5.3 7.5 Q5.3 6.65 5.65 5.95 L7.55 3.0 9.2 0.0 8.55 5.3 9.3 4.4 9.9 3.45 9.85 5.3 9.7 7.15 9.9 8.35 10.35 9.5" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape27" transform="matrix(1.0, 0.0, 0.0, 1.0, 8.95, 24.6)">
+      <path d="M1.35 -21.4 L3.4 -24.6 Q2.95 -22.5 2.4 -21.45 1.5 -19.85 2.05 -18.9 2.2 -19.5 3.1 -21.35 3.25 -19.2 3.5 -18.65 3.55 -19.25 3.9 -19.9 4.45 -18.45 5.55 -16.8 L5.95 -15.65 6.35 -14.5 Q6.55 -15.7 6.8 -16.15 6.6 -15.75 6.8 -14.9 7.0 -14.15 7.25 -13.75 L8.05 -12.8 8.85 -11.85 9.1 -11.05 9.3 -10.3 9.9 -9.9 10.5 -9.55 10.65 -8.5 11.2 -8.4 10.45 -7.65 11.4 -7.45 10.75 -6.95 10.1 -6.45 Q11.5 -6.0 12.0 -4.55 L10.8 -4.45 Q10.0 -4.4 9.8 -4.1 9.6 -3.75 9.9 -3.1 L10.45 -2.1 9.45 -2.35 9.7 -1.6 9.95 -0.9 8.25 -1.55 8.3 1.0 Q8.25 2.25 7.8 3.6 L7.25 4.8 Q6.9 5.65 7.05 5.9 L6.5 5.3 6.7 6.65 6.1 6.25 Q6.1 7.85 5.7 8.7 L4.85 10.4 Q4.3 11.45 4.25 12.2 L3.55 10.95 3.35 13.4 2.6 12.65 Q2.75 14.25 1.75 15.9 L0.6 17.6 Q0.0 18.65 0.05 19.5 L-0.3 17.6 Q-0.65 18.55 -0.7 20.15 L-0.8 22.7 -1.25 20.4 Q-1.15 18.3 -1.45 17.7 L-1.55 20.7 -1.35 22.85 Q-1.2 24.25 -1.35 24.95 -2.05 23.15 -2.45 20.1 -2.55 19.35 -3.4 17.9 L-3.9 16.5 -4.5 15.2 -5.4 13.25 -6.05 13.7 -5.75 12.55 Q-5.4 11.85 -5.4 11.45 -5.35 11.15 -5.6 10.55 L-5.9 9.65 -6.6 7.95 -6.9 7.2 -7.8 7.25 Q-8.1 6.5 -8.0 5.65 -7.95 4.7 -7.45 4.15 -8.05 4.1 -8.95 4.75 L-7.4 3.2 -8.1 2.95 -7.3 2.8 -8.3 2.2 -7.0 2.25 -6.85 0.9 -6.65 -0.35 -7.15 -0.25 Q-7.3 -0.6 -6.65 -1.25 L-7.3 -1.1 Q-6.75 -1.3 -6.55 -2.45 L-6.4 -4.35 Q-6.35 -5.3 -6.85 -6.7 L-7.5 -9.0 -7.5 -11.4 -7.3 -13.85 Q-7.05 -10.85 -6.55 -9.9 -6.4 -10.8 -6.4 -11.85 -6.4 -11.0 -5.95 -10.7 -5.5 -11.05 -6.0 -12.95 L-5.55 -12.7 Q-5.75 -12.85 -4.35 -15.25 L-3.45 -17.0 -3.05 -20.0 Q-2.95 -17.85 -1.8 -17.55 L-1.75 -18.4 Q-1.5 -17.8 -1.1 -17.8 -0.75 -17.85 -0.5 -18.45 L-0.2 -18.0 Q-0.05 -19.4 1.35 -21.4" fill="url(#gradient21)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0235, -0.002, -0.0031, -0.0356, -7.85, -2.55)" gradientUnits="userSpaceOnUse" id="gradient21" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#d2e6da"/>
+      <stop offset="1.0" stop-color="#427b9a"/>
+    </radialGradient>
+    <g id="sprite27" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.1)">
+      <use height="36.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.1)" width="14.95" xlink:href="#shape28"/>
+    </g>
+    <g id="shape28" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.1)">
+      <path d="M11.7 5.8 L12.65 5.05 12.85 7.9 Q13.0 8.7 13.4 8.9 L14.5 9.45 Q15.2 9.95 14.85 10.4 L14.0 11.3 Q13.8 11.65 13.9 12.3 14.0 13.0 13.75 13.4 L14.15 13.6 13.8 13.95 Q14.5 14.2 14.7 14.4 L13.9 15.3 13.1 16.2 12.9 17.3 13.0 18.45 12.55 18.35 Q13.0 19.7 12.85 20.35 L12.75 20.1 Q10.8 22.75 11.05 26.65 10.6 26.35 10.0 25.05 9.35 26.25 8.95 28.6 L8.35 28.35 8.75 29.4 Q8.25 29.35 7.7 28.95 8.0 29.4 7.8 30.25 L7.35 31.55 Q6.7 33.7 6.75 34.8 6.5 34.5 6.4 33.75 L6.1 32.65 Q5.55 33.25 5.15 34.65 L4.7 33.2 4.65 34.95 4.55 36.65 Q3.2 33.6 3.15 32.1 L3.2 30.15 2.6 30.8 2.8 29.7 3.0 28.65 1.95 28.6 Q1.5 28.45 1.25 27.9 0.95 27.35 0.95 26.35 L0.95 24.75 0.55 25.05 Q0.5 24.15 1.5 22.15 L0.6 22.85 0.0 23.85 0.5 21.15 Q1.0 19.45 1.9 18.85 L1.1 18.9 2.05 17.35 1.3 17.65 Q1.6 16.85 2.3 16.2 3.05 15.45 3.85 15.35 3.2 14.9 2.25 14.75 L0.55 14.5 Q0.8 14.05 1.5 13.7 L2.7 13.25 1.1 13.0 Q2.0 12.3 3.55 12.8 2.85 12.2 0.3 10.55 L1.85 10.3 1.55 9.5 Q1.25 9.05 1.3 8.7 1.65 8.7 2.3 9.05 L1.4 7.75 Q1.9 7.65 2.7 8.5 L3.55 9.75 Q2.8 7.55 2.75 6.35 L2.75 4.45 Q2.85 3.5 3.3 2.65 L3.95 3.5 Q4.7 4.2 5.3 4.25 L4.95 2.8 5.6 3.3 Q5.25 2.95 5.65 2.2 L6.3 1.3 7.2 0.85 7.7 0.1 Q7.45 1.4 8.0 2.0 L8.5 1.15 Q8.5 2.85 8.95 3.2 L9.4 2.35 9.85 1.45 Q9.45 2.8 10.35 4.05 L11.2 4.85 Q11.75 5.3 11.7 5.8" fill="url(#gradient22)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0299, -0.0026, -0.0036, -0.0415, -1.55, 16.65)" gradientUnits="userSpaceOnUse" id="gradient22" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#d2e6da"/>
+      <stop offset="1.0" stop-color="#427b9a"/>
+    </radialGradient>
+    <g id="shape29" transform="matrix(1.0, 0.0, 0.0, 1.0, 12.75, 25.95)">
+      <path d="M-2.45 4.8 Q-2.35 5.85 -3.05 5.95 -3.75 5.95 -3.85 4.9 L-3.7 4.1 -3.25 3.75 Q-2.55 3.75 -2.45 4.8" fill="url(#gradient23)" fill-rule="evenodd" stroke="none"/>
+      <path d="M2.5 -6.75 L2.15 -5.8 Q1.85 -5.45 1.5 -5.5 L0.95 -6.0 Q0.75 -6.4 0.8 -6.95 L1.2 -7.85 Q1.5 -8.25 1.85 -8.2 2.2 -8.15 2.4 -7.75 L2.5 -6.75" fill="url(#gradient24)" fill-rule="evenodd" stroke="none"/>
+      <path d="M0.8 2.1 Q0.65 3.2 0.15 3.9 -0.35 4.65 -0.9 4.55 -1.45 4.5 -1.75 3.65 -2.05 2.85 -1.9 1.75 -1.75 0.65 -1.25 -0.05 -0.75 -0.75 -0.2 -0.7 0.35 -0.6 0.65 0.2 0.95 1.0 0.8 2.1" fill="url(#gradient25)" fill-rule="evenodd" stroke="none"/>
+      <path d="M-12.15 -7.35 Q-11.85 -8.3 -10.95 -7.0 -10.15 -5.95 -10.4 -5.4 -10.55 -4.85 -10.1 -4.1 L-9.2 -3.15 Q-8.3 -2.45 -7.3 -2.35 L-6.2 -2.3 Q-5.7 -2.25 -5.6 0.05 L-6.0 -0.3 -7.15 -0.85 -8.75 -1.8 Q-9.45 -2.35 -10.15 -3.45 L-10.6 -4.25 -11.25 -4.85 Q-11.7 -4.95 -11.85 -5.15 L-12.05 -5.8 -12.15 -7.35" fill="url(#gradient26)" fill-rule="evenodd" stroke="none"/>
+      <path d="M-7.9 -22.0 Q-7.2 -20.95 -7.5 -20.25 -7.7 -19.7 -8.75 -18.8 -9.35 -18.3 -7.9 -16.45 -6.3 -14.4 -3.8 -14.3 L-1.9 -14.35 Q-0.95 -14.25 -0.5 -13.2 -0.1 -12.3 -0.05 -10.75 -0.05 -8.9 -0.7 -8.2 -1.2 -7.75 -1.85 -7.9 -2.5 -8.05 -2.95 -8.65 L-3.7 -9.85 -5.95 -12.25 -8.25 -14.7 -10.1 -18.25 Q-11.2 -18.35 -11.95 -18.9 -12.8 -19.55 -12.75 -20.6 -12.75 -21.9 -12.35 -23.45 -11.85 -25.55 -11.0 -25.9 -10.2 -26.25 -9.15 -24.45 L-7.9 -22.0" fill="url(#gradient27)" fill-rule="evenodd" stroke="none"/>
+      <path d="M-5.85 -3.3 Q-5.5 -3.25 -5.45 -1.85 L-5.7 -2.05 -6.55 -2.4 -7.65 -2.95 -8.6 -4.0 -8.9 -4.5 -9.4 -4.85 -9.95 -5.45 -10.0 -6.4 Q-9.8 -6.85 -9.15 -6.2 -8.65 -5.55 -8.8 -5.2 -9.1 -4.5 -7.95 -3.8 -7.35 -3.35 -6.65 -3.3 L-5.85 -3.3" fill="url(#gradient28)" fill-rule="evenodd" stroke="none"/>
+      <path d="M-12.35 1.25 L-12.45 -0.15 -11.4 -0.2 Q-10.25 0.75 -10.3 1.0 L-10.4 1.5 Q-10.45 1.8 -10.1 2.1 -9.5 2.6 -8.75 2.75 L-7.35 2.6 -6.75 1.75 -6.75 1.2 -6.0 1.45 -5.1 2.25 Q-5.25 2.8 -5.95 3.2 L-7.55 3.65 -9.55 3.1 -10.85 2.35 -11.3 2.15 -11.8 2.15 Q-12.1 2.1 -12.35 1.25" fill="url(#gradient29)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(-9.0E-4, -1.0E-4, -1.0E-4, 9.0E-4, -3.2, 4.85)" gradientUnits="userSpaceOnUse" id="gradient23" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#12242d"/>
+      <stop offset="1.0" stop-color="#39492d"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0011, -4.0E-4, -4.0E-4, 0.0011, 1.6, -6.85)" gradientUnits="userSpaceOnUse" id="gradient24" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#12242d"/>
+      <stop offset="1.0" stop-color="#39492d"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0017, -5.0E-4, -7.0E-4, 0.0021, -0.6, 1.9)" gradientUnits="userSpaceOnUse" id="gradient25" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#12242d"/>
+      <stop offset="1.0" stop-color="#39492d"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0027, -9.0E-4, -9.0E-4, 0.0027, -7.7, -3.5)" gradientUnits="userSpaceOnUse" id="gradient26" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d4d4d4"/>
+      <stop offset="0.16470588235294117" stop-color="#b5b5a2"/>
+      <stop offset="0.9921568627450981" stop-color="#47757d"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0081, -0.0027, -0.0027, 0.0081, -4.2, -16.25)" gradientUnits="userSpaceOnUse" id="gradient27" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d4d4d4"/>
+      <stop offset="0.16470588235294117" stop-color="#b5b5a2"/>
+      <stop offset="1.0" stop-color="#562c3f"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0018, -6.0E-4, -6.0E-4, 0.0018, -6.95, -4.0)" gradientUnits="userSpaceOnUse" id="gradient28" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d4d4d4"/>
+      <stop offset="0.16470588235294117" stop-color="#b5b5a2"/>
+      <stop offset="0.9921568627450981" stop-color="#47757d"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0033, 9.0E-4, 9.0E-4, 0.0033, -8.8, 1.3)" gradientUnits="userSpaceOnUse" id="gradient29" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d4d4d4"/>
+      <stop offset="0.16470588235294117" stop-color="#b5b5a2"/>
+      <stop offset="0.9921568627450981" stop-color="#47757d"/>
+    </linearGradient>
+    <g id="shape30" transform="matrix(1.0, 0.0, 0.0, 1.0, 6.35, 9.3)">
+      <path d="M-5.75 8.9 Q-6.4 8.2 -6.35 6.3 -6.35 4.7 -5.95 3.8 -5.5 2.7 -4.55 2.6 L-2.65 2.65 Q-0.15 2.55 1.45 0.45 2.9 -1.45 2.3 -1.95 L1.05 -3.45 Q0.75 -4.2 1.45 -5.25 L2.7 -7.8 Q3.75 -9.6 4.55 -9.25 5.4 -8.85 5.9 -6.75 L6.35 -3.8 Q6.4 -2.7 5.5 -2.05 4.75 -1.5 3.65 -1.4 L1.8 2.25 -0.45 4.75 -2.75 7.25 -3.5 8.5 Q-3.95 9.1 -4.6 9.25 -5.25 9.4 -5.75 8.9" fill="url(#gradient30)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0047, -0.007, -0.0072, -0.0048, -0.85, 1.9)" gradientUnits="userSpaceOnUse" id="gradient30" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d4d4d4"/>
+      <stop offset="0.16470588235294117" stop-color="#b5b5a2"/>
+      <stop offset="1.0" stop-color="#3e4d84"/>
+    </linearGradient>
+    <g id="sprite28" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <use height="47.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)" width="48.95" xlink:href="#shape31"/>
+    </g>
+    <g id="shape31" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <path d="M47.2 1.55 Q48.6 2.05 48.75 5.0 L48.85 15.65 48.85 26.3 48.85 33.65 Q49.1 39.6 48.75 42.65 48.2 47.55 46.0 47.55 L9.65 47.85 Q4.55 47.85 2.8 46.9 L0.75 44.85 Q-0.3 44.0 0.1 31.0 L0.75 14.25 Q1.15 2.0 5.4 0.5 7.8 -0.3 25.85 0.05 44.1 0.45 47.2 1.55" fill="url(#gradient31)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0669, 0.0, 0.0, -0.063, 24.2, 32.8)" gradientUnits="userSpaceOnUse" id="gradient31" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#121726"/>
+      <stop offset="0.9882352941176471" stop-color="#121726" stop-opacity="0.0"/>
+    </radialGradient>
+    <g id="shape32" transform="matrix(1.0, 0.0, 0.0, 1.0, 22.25, 25.45)">
+      <path d="M20.35 -23.9 Q21.65 -23.4 21.75 -20.6 L21.85 -10.4 21.85 -0.2 21.85 6.85 Q22.1 12.5 21.95 14.05 21.6 17.35 19.6 17.35 L4.15 18.9 -13.55 20.45 Q-18.15 20.45 -19.7 19.55 L-21.55 17.6 Q-22.5 16.75 -22.15 4.3 L-21.55 -11.75 Q-21.2 -23.5 -17.4 -24.9 -15.25 -25.7 1.05 -25.3 17.55 -24.95 20.35 -23.9" fill="url(#gradient32)" fill-rule="evenodd" stroke="none"/>
+      <path d="M-17.7 -22.05 Q-15.55 -22.85 0.75 -22.45 17.25 -22.1 20.05 -21.05 21.35 -20.55 21.45 -17.75 L21.55 -7.55 21.55 2.65 21.55 9.7 Q21.8 15.35 21.65 16.9 21.3 20.2 19.3 20.2 L-13.2 20.45 Q-18.25 20.45 -20.25 19.45 -21.9 18.65 -21.7 16.95 -21.55 15.75 -21.3 4.95 L-20.95 -9.3 Q-20.75 -16.0 -20.05 -18.75 -19.35 -21.5 -17.7 -22.05" fill="url(#gradient33)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(-0.0227, -0.0612, -0.0612, 0.0227, 6.9, 16.3)" gradientUnits="userSpaceOnUse" id="gradient32" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#34b797"/>
+      <stop offset="0.28627450980392155" stop-color="#0e7692"/>
+      <stop offset="0.3803921568627451" stop-color="#10637d"/>
+      <stop offset="0.5529411764705883" stop-color="#15475b"/>
+      <stop offset="0.6941176470588235" stop-color="#1a3547"/>
+      <stop offset="0.788235294117647" stop-color="#1c2e3f"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0023, -0.065, -0.065, -0.0023, 0.95, -13.15)" gradientUnits="userSpaceOnUse" id="gradient33" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#34b797"/>
+      <stop offset="0.28627450980392155" stop-color="#0e7692"/>
+      <stop offset="0.3607843137254902" stop-color="#116882"/>
+      <stop offset="0.5411764705882353" stop-color="#184b60"/>
+      <stop offset="0.6901960784313725" stop-color="#1f3a4c"/>
+      <stop offset="0.788235294117647" stop-color="#223344"/>
+    </linearGradient>
+    <g id="sprite29" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <use height="43.05" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)" width="43.4" xlink:href="#shape33"/>
+    </g>
+    <g id="shape33" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <pattern height="119" id="PatternID_63_1" overflow="visible" patternTransform="matrix(1.0012, 0.0069, -0.0069, 1.001, -4197.85, 2069.25)" patternUnits="userSpaceOnUse" viewBox="0 0 143 119" width="143">
+        <image height="119" width="143" xlink:href="data:image/PNG;base64,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"/>
+      </pattern>
+      <path d="M41.8 1.55 Q43.1 2.05 43.2 4.85 L43.3 15.05 43.3 25.25 43.3 32.3 Q43.55 37.95 43.4 39.5 43.05 42.8 41.05 42.8 L8.55 43.05 Q3.5 43.05 1.5 42.05 -0.15 41.25 0.05 39.55 L0.45 27.55 0.8 13.3 Q1.0 6.6 1.7 3.85 2.4 1.1 4.05 0.55 6.2 -0.25 22.5 0.15 39.0 0.5 41.8 1.55" style="fill:url(#PatternID_63_1)"/>
+    </g>
+    <g id="shape34" transform="matrix(1.0, 0.0, 0.0, 1.0, 21.65, 23.55)">
+      <path d="M-18.35 -23.55 L-17.95 -23.4 -17.5 -23.15 -15.45 -23.1 -13.45 -23.25 Q-6.0 -23.35 0.05 -23.0 L9.05 -22.15 0.35 -22.3 -11.9 -22.3 -16.0 -22.1 Q-17.95 -21.85 -18.8 -20.75 -20.05 -19.05 -20.95 -9.3 L-20.8 -14.65 Q-20.65 -17.75 -20.1 -20.2 L-19.15 -22.6 Q-18.65 -23.55 -18.35 -23.55" fill="#66b5b4" fill-rule="evenodd" stroke="none"/>
+      <path d="M19.75 -21.85 L20.85 -22.85 21.4 -21.55 21.55 -20.1 21.6 -17.2 21.5 -14.05 Q21.55 -18.25 21.2 -19.75 20.95 -20.8 19.65 -21.25 L18.35 -21.5 Q19.2 -21.45 19.75 -21.85" fill="#66b5b4" fill-rule="evenodd" stroke="none"/>
+      <path d="M-21.2 0.95 Q-20.7 8.45 -21.65 13.1 L-21.2 0.95" fill="#66b5b4" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.4 3.55 L4.4 6.4 4.4 10.05 Q4.75 10.5 6.0 10.45 L8.0 10.4 8.0 13.0 5.3 13.25 2.45 13.35 2.45 4.55 Q1.35 4.1 -0.4 3.95 -1.65 3.85 -3.75 3.9 -4.35 4.9 -4.4 7.15 L-4.4 11.05 Q-4.1 11.6 -3.4 11.3 L-2.1 11.05 -1.85 12.45 Q-1.65 13.25 -1.75 13.95 L-6.35 14.3 -6.35 4.2 Q-6.85 3.9 -8.0 3.75 L-9.9 3.55 Q-10.6 4.45 -11.25 6.75 -12.0 9.2 -12.5 10.05 -12.1 10.45 -10.95 10.75 L-9.25 11.35 -9.6 12.65 -9.9 13.95 -12.85 13.3 -15.45 12.35 -13.6 6.35 Q-12.55 2.6 -11.55 0.6 L11.25 0.6 Q11.2 2.35 11.55 5.2 L11.9 9.75 Q12.05 10.15 13.0 10.25 14.0 10.4 14.2 10.7 L14.2 12.65 11.95 12.6 9.95 12.35 9.5 8.25 8.95 4.2 Q8.45 3.6 7.0 3.55 L4.4 3.55" fill="#97dbd3" fill-rule="evenodd" stroke="none"/>
+      <path d="M8.15 0.9 L-0.5 1.3 -9.15 1.8 Q-10.05 1.85 -11.5 3.8 L-12.85 5.75 -13.0 11.85 -15.55 11.95 -13.7 3.75 -12.8 1.2 -12.2 0.15 5.05 0.2 10.95 0.4 10.05 0.7 8.15 0.9" fill="#97dbd3" fill-rule="evenodd" stroke="none"/>
+      <path d="M10.25 -10.8 L10.35 -14.75 10.95 -11.05 Q11.55 -7.05 11.4 -5.15 11.2 -2.7 10.7 -1.65 10.1 -0.45 8.65 -0.2 L6.7 -0.35 6.2 -0.8 9.9 -6.55 10.25 -10.8" fill="#97dbd3" fill-rule="evenodd" stroke="none"/>
+      <path d="M10.3 -14.9 L10.05 -11.1 9.5 -8.45 8.95 -5.85 4.55 -4.55 Q3.95 -6.05 3.65 -7.3 3.35 -8.95 3.35 -10.95 3.4 -12.75 4.05 -15.5 L4.7 -17.9 5.0 -17.2 Q5.25 -16.25 5.15 -14.8 5.05 -13.3 5.25 -11.75 L5.5 -10.45 7.85 -10.6 8.15 -10.6 9.65 -13.95 10.15 -14.85 10.3 -14.9" fill="#97dbd3" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.75 -17.5 Q5.45 -16.45 5.6 -14.25 L5.75 -10.35 8.35 -10.35 Q8.9 -11.0 9.4 -12.55 L10.3 -14.9 Q11.3 -9.95 11.2 -6.3 11.1 -0.75 8.35 -0.25 6.2 0.15 5.0 -1.75 3.9 -3.4 3.65 -6.55 3.4 -9.3 3.75 -12.5 4.1 -15.5 4.75 -17.5" fill="url(#gradient34)" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.1 3.35 L4.1 6.2 4.1 9.85 Q4.45 10.3 5.7 10.2 L7.7 10.2 7.7 12.8 5.0 13.05 2.15 13.1 2.15 4.3 Q1.05 3.85 -0.65 3.75 L-4.0 3.65 Q-4.6 4.7 -4.7 6.9 L-4.65 10.85 Q-4.4 11.4 -3.65 11.1 L-2.4 10.85 -2.15 12.2 Q-1.95 13.0 -2.05 13.75 L-6.65 14.1 -6.65 4.0 -8.3 3.55 -10.2 3.35 Q-10.9 4.25 -11.55 6.55 -12.3 8.95 -12.8 9.85 -12.4 10.25 -11.25 10.55 L-9.55 11.15 -9.9 12.45 -10.2 13.75 -13.15 13.1 -15.75 12.15 Q-15.2 10.75 -13.9 6.15 -12.8 2.35 -11.85 0.4 L10.95 0.4 Q10.95 2.1 11.25 5.0 L11.6 9.55 Q11.8 9.95 12.75 10.05 13.7 10.2 13.9 10.5 L13.9 12.45 11.65 12.4 9.65 12.15 9.2 8.05 8.7 4.0 Q8.2 3.4 6.7 3.35 L4.1 3.35" fill="url(#gradient35)" fill-rule="evenodd" stroke="none"/>
+      <path d="M9.4 -12.55 L10.3 -14.9 10.75 -12.35 Q10.2 -11.5 9.9 -10.2 L9.65 -9.05 7.2 -9.05 Q5.7 -9.05 4.95 -10.5 L4.6 -11.5 4.55 -11.95 4.75 -8.15 5.0 -1.75 Q3.4 -4.2 3.55 -9.55 3.65 -14.2 4.75 -17.5 5.45 -16.45 5.6 -14.25 L5.75 -10.35 8.35 -10.35 Q8.9 -11.0 9.4 -12.55" fill="#467c83" fill-rule="evenodd" stroke="none"/>
+      <path d="M10.95 0.4 L10.95 1.2 6.75 1.2 -3.55 1.65 -11.05 2.1 -11.5 2.75 Q-11.9 3.35 -14.9 12.45 L-15.75 12.15 Q-15.2 10.75 -13.9 6.15 -12.8 2.35 -11.85 0.4 L10.95 0.4" fill="#467c83" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(-2.0E-4, 0.0113, 0.0081, 2.0E-4, 7.2, -8.4)" gradientUnits="userSpaceOnUse" id="gradient34" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#72c9c3"/>
+      <stop offset="1.0" stop-color="#5b9aa5"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0135, 0.0298, 0.0298, -0.0135, -2.15, -0.6)" gradientUnits="userSpaceOnUse" id="gradient35" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#72c9c3"/>
+      <stop offset="1.0" stop-color="#5b9aa5"/>
+    </radialGradient>
+    <g id="shape35" transform="matrix(1.0, 0.0, 0.0, 1.0, 60.8, 30.35)">
+      <path d="M42.2 -24.0 Q49.35 -21.45 54.35 -18.3 58.45 -15.75 59.3 -14.1 60.55 -11.75 60.25 -7.85 59.85 -3.4 57.45 1.15 51.45 12.4 40.0 19.95 23.1 31.1 -1.9 30.95 -22.45 30.8 -36.15 23.5 -44.4 19.1 -52.55 10.0 -57.8 4.15 -59.8 -2.75 -61.55 -8.75 -60.25 -12.5 -59.65 -14.0 -53.05 -17.65 -48.35 -20.3 -45.95 -21.35 -37.1 -24.95 -28.85 -27.0 -16.9 -29.9 -3.8 -30.3 22.35 -31.05 42.2 -24.0" fill="url(#gradient36)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.1182, 0.0, 0.0, -0.0782, -2.2, -11.6)" gradientUnits="userSpaceOnUse" id="gradient36" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#34b797"/>
+      <stop offset="0.28627450980392155" stop-color="#0e7692"/>
+      <stop offset="0.3607843137254902" stop-color="#116882"/>
+      <stop offset="0.5411764705882353" stop-color="#184b60"/>
+      <stop offset="0.6901960784313725" stop-color="#1f3a4c"/>
+      <stop offset="0.788235294117647" stop-color="#223344"/>
+    </radialGradient>
+    <g id="sprite30" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="61.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="121.1" xlink:href="#shape36"/>
+    </g>
+    <g id="shape36" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <pattern height="119" id="PatternID_67_1" overflow="visible" patternTransform="matrix(1.0012, 0.0069, -0.0069, 1.001, -4004.95, 2037.7)" patternUnits="userSpaceOnUse" viewBox="0 0 143 119" width="143">
+        <image height="119" width="143" xlink:href="data:image/PNG;base64,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"/>
+      </pattern>
+      <path d="M103.0 6.35 Q110.15 8.9 115.15 12.05 119.25 14.6 120.1 16.25 121.35 18.6 121.05 22.5 120.65 26.95 118.25 31.5 112.25 42.75 100.8 50.3 83.9 61.45 58.9 61.3 38.35 61.15 24.65 53.85 16.4 49.45 8.25 40.35 3.0 34.5 1.0 27.6 -0.75 21.6 0.55 17.85 1.15 16.35 7.75 12.7 12.45 10.05 14.85 9.0 23.7 5.4 31.95 3.35 43.9 0.45 57.0 0.05 83.15 -0.7 103.0 6.35" style="fill:url(#PatternID_67_1)"/>
+    </g>
+    <g id="sprite31" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="39.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="92.75" xlink:href="#shape37"/>
+    </g>
+    <g id="shape37" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M92.75 0.0 Q92.25 4.4 89.15 10.2 82.9 21.9 69.75 29.25 63.7 32.6 59.65 34.45 53.9 37.0 48.9 38.1 44.05 39.15 37.65 39.4 L27.75 39.5 19.35 38.6 11.1 36.7 7.4 35.8 Q5.25 35.15 4.0 34.25 L1.2 32.0 Q-0.65 30.15 0.4 29.3 0.9 28.95 1.7 29.3 L2.85 30.05 Q5.8 31.65 8.3 31.8 L10.8 32.05 13.1 31.65 Q13.55 31.3 13.65 30.55 L13.95 29.3 Q14.75 27.95 16.9 28.1 L20.4 28.6 Q22.3 28.65 24.3 27.85 26.85 26.8 26.8 25.15 26.8 24.6 26.1 23.85 25.45 23.1 25.4 22.65 25.35 21.9 26.05 21.35 L27.25 20.4 28.2 19.25 Q28.25 18.85 27.4 18.1 25.5 16.3 21.55 15.2 L17.75 14.05 Q14.8 13.2 14.15 13.55 18.9 11.15 29.0 12.4 L34.1 13.15 39.15 12.95 Q42.55 12.05 47.0 12.2 52.2 12.45 58.35 11.05 62.8 10.05 69.3 7.8 73.05 6.5 78.3 4.9 L87.35 2.25 Q92.7 0.3 92.75 0.0" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite32" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="39.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="77.7" xlink:href="#shape38"/>
+    </g>
+    <g id="shape38" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M77.7 0.0 Q77.2 4.55 74.1 10.6 67.85 22.65 54.7 30.0 L48.75 33.85 Q45.8 35.7 42.35 36.65 L38.2 37.5 34.05 38.2 16.8 38.95 Q7.65 38.2 0.0 35.25 L9.5 35.0 Q10.9 35.1 13.65 36.1 16.3 37.0 17.85 37.05 20.75 37.15 25.1 35.9 L32.25 33.85 Q35.55 33.2 37.3 32.05 39.65 30.45 39.9 27.5 40.1 25.4 40.95 24.3 41.75 23.35 43.8 22.25 L46.85 20.5 Q48.35 19.15 47.5 17.5 46.85 16.35 45.0 15.25 L41.95 13.7 Q42.6 14.05 45.4 12.65 L48.7 10.65 50.75 8.35 Q51.75 7.45 53.75 7.4 L56.55 7.0 59.3 6.15 72.3 2.25 Q77.7 0.3 77.7 0.0" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape39" transform="matrix(1.0, 0.0, 0.0, 1.0, 60.5, 31.35)">
+      <path d="M29.3 -28.65 Q44.1 -25.35 52.75 -20.05 59.3 -16.05 60.05 -12.8 61.0 -8.4 54.75 -4.15 47.85 0.55 33.75 3.7 20.1 6.75 0.15 6.65 -19.0 6.55 -33.35 3.7 -45.55 1.25 -53.5 -3.6 -59.5 -7.25 -60.35 -9.9 -60.95 -11.9 -59.35 -14.35 -58.2 -16.1 -56.7 -17.15 -54.0 -19.2 -50.75 -20.9 L-48.6 -21.05 Q-47.5 -21.6 -47.2 -22.75 -30.8 -29.9 -7.2 -31.1 13.2 -32.15 29.3 -28.65" fill="#66b5b4" fill-rule="evenodd" stroke="none"/>
+      <path d="M40.95 -22.25 Q47.1 -19.8 50.85 -16.9 54.15 -14.45 54.15 -12.95 54.15 -9.6 43.55 -5.9 33.7 -2.5 21.55 -0.95 L-7.25 0.1 Q-25.2 -0.45 -36.2 -3.1 -46.75 -5.6 -50.95 -8.25 -54.25 -10.3 -54.25 -12.95 -54.25 -14.5 -50.75 -16.9 -46.8 -19.65 -40.35 -22.05 -23.25 -28.35 0.65 -28.65 24.3 -28.95 40.95 -22.25" fill="url(#gradient37)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0961, 0.0, 0.0, -0.0636, -1.5, 4.0)" gradientUnits="userSpaceOnUse" id="gradient37" r="819.2" spreadMethod="pad">
+      <stop offset="0.21176470588235294" stop-color="#223344"/>
+      <stop offset="0.30980392156862746" stop-color="#1f3b4c"/>
+      <stop offset="0.4588235294117647" stop-color="#185060"/>
+      <stop offset="0.6392156862745098" stop-color="#117282"/>
+      <stop offset="0.7137254901960784" stop-color="#0f8393"/>
+      <stop offset="1.0" stop-color="#34b797"/>
+    </radialGradient>
+    <g id="sprite33" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="28.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="108.4" xlink:href="#shape40"/>
+    </g>
+    <g id="shape40" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <pattern height="119" id="PatternID_74_1" overflow="visible" patternTransform="matrix(1.0012, 0.0069, -0.0069, 1.001, -4011.5, 2036.0)" patternUnits="userSpaceOnUse" viewBox="0 0 143 119" width="143">
+        <image height="119" width="143" xlink:href="data:image/PNG;base64,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"/>
+      </pattern>
+      <path d="M95.2 6.4 Q101.35 8.85 105.1 11.75 108.4 14.2 108.4 15.7 108.4 19.05 97.8 22.75 87.95 26.15 75.8 27.7 L47.0 28.75 Q29.05 28.2 18.05 25.55 7.5 23.05 3.3 20.4 0.0 18.35 0.0 15.7 0.0 14.15 3.5 11.75 7.45 9.0 13.9 6.6 31.05 0.3 54.9 0.0 78.55 -0.3 95.2 6.4" style="fill:url(#PatternID_74_1)"/>
+    </g>
+    <g id="sprite34" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <use height="6.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)" width="19.45" xlink:href="#shape41"/>
+    </g>
+    <g id="shape41" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <path d="M11.95 0.15 Q14.45 0.45 19.45 1.9 16.1 4.75 13.8 5.9 12.2 6.75 9.95 6.75 L5.1 6.2 2.2 5.8 Q0.15 5.35 0.0 4.25 -0.1 3.25 1.15 2.45 L3.2 1.45 4.4 0.85 Q7.55 -0.45 11.95 0.15" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <clipPath id="clipPath1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <use height="28.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.5, 0.0)" width="108.4" xlink:href="#shape42"/>
+      </clipPath>
+      <g clip-path="url(#clipPath1)">
+        <use height="33.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.5)" width="110.65" xlink:href="#sprite36"/>
+        <use height="23.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 9.65, 16.4)" width="89.25" xlink:href="#shape44"/>
+      </g>
+    </g>
+    <g id="shape42" transform="matrix(1.0, 0.0, 0.0, 1.0, -1.5, 0.0)">
+      <path d="M96.7 6.4 Q102.85 8.85 106.6 11.75 109.9 14.2 109.9 15.7 109.9 19.05 99.3 22.75 89.45 26.15 77.3 27.7 L48.5 28.75 Q30.55 28.2 19.55 25.55 9.0 23.05 4.8 20.4 1.5 18.35 1.5 15.7 1.5 14.15 5.0 11.75 8.95 9.0 15.4 6.6 32.55 0.3 56.4 0.0 80.05 -0.3 96.7 6.4" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite36" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)">
+      <use height="33.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)" width="110.65" xlink:href="#shape43"/>
+    </g>
+    <g id="shape43" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.05)">
+      <path d="M103.05 15.7 Q106.05 14.1 107.0 11.6 L107.4 10.3 Q109.75 12.3 110.4 13.95 111.15 16.05 109.45 18.35 105.9 23.15 97.2 26.0 91.75 27.8 84.6 29.0 L71.75 30.75 46.05 31.8 35.75 32.4 33.25 33.1 30.75 33.3 26.45 32.6 Q19.75 31.8 15.05 30.55 7.55 28.45 5.15 27.2 -0.5 24.2 0.05 19.25 0.25 17.45 1.05 15.4 1.95 13.05 3.05 12.0 5.55 9.65 9.0 7.65 12.35 5.7 15.65 4.65 L28.1 2.3 40.4 0.05 Q32.4 2.05 23.9 6.15 21.6 7.3 21.1 7.8 19.8 9.0 21.55 10.2 22.65 11.0 25.4 11.85 L25.9 12.05 Q26.6 12.3 28.15 13.9 29.55 15.3 30.35 15.25 L40.45 14.35 49.0 13.6 70.7 14.6 Q78.3 15.55 85.0 17.6 89.0 18.8 91.25 19.0 94.5 19.25 97.6 18.0 L103.05 15.7" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape44" transform="matrix(1.0, 0.0, 0.0, 1.0, -9.65, -16.4)">
+      <path d="M87.3 20.75 Q98.9 24.6 98.9 27.9 98.9 31.05 90.15 34.45 82.1 37.6 72.05 39.1 L48.35 40.05 Q33.6 39.55 24.55 37.1 15.85 34.7 12.4 32.25 9.65 30.35 9.65 27.9 9.65 24.55 20.35 21.0 33.4 16.65 53.35 16.4 73.1 16.1 87.3 20.75" fill="url(#gradient38)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.1268, 0.0, 0.0, -0.0867, 53.9, 34.45)" gradientUnits="userSpaceOnUse" id="gradient38" r="819.2" spreadMethod="pad">
+      <stop offset="0.21176470588235294" stop-color="#12242d"/>
+      <stop offset="0.3411764705882353" stop-color="#112b35"/>
+      <stop offset="0.5372549019607843" stop-color="#0f3f4a"/>
+      <stop offset="0.7725490196078432" stop-color="#0e5e6b"/>
+      <stop offset="1.0" stop-color="#0f8393"/>
+    </radialGradient>
+    <g id="sprite37" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.15, 0.0)">
+      <use height="26.6" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.15, 0.0)" width="21.75" xlink:href="#shape45"/>
+    </g>
+    <g id="shape45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.15, 0.0)">
+      <path d="M0.25 0.1 Q0.65 -0.55 2.8 3.6 L7.75 12.35 Q10.15 16.0 16.1 21.65 L21.6 26.6 Q11.3 20.75 4.55 11.1 -1.45 2.6 0.25 0.1" fill="#66b5b4" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape46" transform="matrix(1.0, 0.0, 0.0, 1.0, 47.65, 26.8)">
+      <path d="M-42.25 1.5 L-40.75 0.75 Q-39.05 0.05 -38.0 0.3 -36.95 0.6 -36.5 1.95 -36.25 2.65 -36.25 3.25 L-36.25 5.2 Q-36.55 7.2 -37.85 7.55 -39.15 7.95 -40.85 4.75 L-42.25 1.5" fill="url(#gradient39)" fill-rule="evenodd" stroke="none"/>
+      <path d="M-31.6 4.05 L-30.7 2.95 Q-29.65 1.9 -28.7 2.25 -27.75 2.6 -27.8 3.7 L-28.0 4.75 Q-28.95 6.25 -29.75 6.5 -30.6 6.75 -31.6 4.05" fill="url(#gradient40)" fill-rule="evenodd" stroke="none"/>
+      <path d="M8.75 6.55 Q8.35 6.25 9.9 4.95 11.6 3.5 13.55 3.25 16.0 2.95 18.15 4.35 L19.8 5.8 Q19.4 7.3 17.35 8.25 15.25 9.15 12.9 8.75 10.85 8.4 9.6 7.45 L8.75 6.55" fill="url(#gradient41)" fill-rule="evenodd" stroke="none"/>
+      <path d="M12.8 3.4 L16.5 3.6 18.25 4.3 15.3 4.55 Q14.1 4.95 13.75 6.0 L13.65 7.0 Q13.5 8.4 14.15 8.9 11.6 9.1 9.9 7.85 L8.75 6.55 9.4 5.3 Q10.5 3.95 12.8 3.4" fill="url(#gradient42)" fill-rule="evenodd" stroke="none"/>
+      <path d="M26.9 0.4 Q29.1 0.0 29.4 1.5 29.75 3.0 27.0 3.25 24.3 3.45 24.65 2.1 25.0 0.75 26.9 0.4" fill="url(#gradient43)" fill-rule="evenodd" stroke="none"/>
+      <path d="M-34.25 -26.75 Q-32.9 -26.95 -32.7 -26.15 -32.5 -25.4 -34.2 -25.25 -35.8 -25.1 -35.6 -25.85 -35.4 -26.6 -34.25 -26.75" fill="url(#gradient44)" fill-rule="evenodd" stroke="none"/>
+      <path d="M31.75 0.9 Q33.15 0.8 33.1 1.4 33.0 2.0 32.05 2.15 31.25 2.25 31.0 1.6 30.75 0.95 31.75 0.9" fill="url(#gradient45)" fill-rule="evenodd" stroke="none"/>
+      <path d="M-46.35 -4.95 Q-44.3 -4.35 -44.7 -3.65 -45.1 -2.95 -46.45 -3.25 -47.65 -3.5 -47.65 -4.45 -47.7 -5.35 -46.35 -4.95" fill="url(#gradient46)" fill-rule="evenodd" stroke="none"/>
+      <path d="M53.5 -14.5 L54.55 -14.5 Q55.7 -14.35 55.9 -13.7 56.25 -12.6 54.0 -12.35 53.55 -12.0 53.25 -12.1 52.65 -12.3 53.5 -14.5" fill="url(#gradient47)" fill-rule="evenodd" stroke="none"/>
+      <path d="M28.6 -26.0 L29.4 -26.35 31.3 -26.45 Q32.85 -26.2 33.3 -24.85 L32.6 -24.1 Q31.65 -23.35 30.55 -23.5 29.45 -23.6 28.9 -24.8 L28.6 -26.0" fill="url(#gradient48)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0021, 0.0114, 0.0091, -0.0016, -36.85, 2.0)" gradientUnits="userSpaceOnUse" id="gradient39" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0012, 0.0068, 0.0054, -0.001, -28.0, 3.05)" gradientUnits="userSpaceOnUse" id="gradient40" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0022, 0.0119, 0.0117, -0.0021, 9.05, 6.25)" gradientUnits="userSpaceOnUse" id="gradient41" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0025, 0.0137, 0.0136, -0.0025, 9.05, 6.3)" gradientUnits="userSpaceOnUse" id="gradient42" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0011, 0.0061, 0.0061, -0.0011, 24.8, 1.9)" gradientUnits="userSpaceOnUse" id="gradient43" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(7.0E-4, 0.0032, 0.0037, -6.0E-4, -35.5, -25.95)" gradientUnits="userSpaceOnUse" id="gradient44" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(6.0E-4, 0.0032, 0.0031, -6.0E-4, 31.05, 1.6)" gradientUnits="userSpaceOnUse" id="gradient45" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(-6.0E-4, 0.0042, 0.0046, 9.0E-4, -47.85, -3.35)" gradientUnits="userSpaceOnUse" id="gradient46" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(7.0E-4, 0.0039, 0.0038, -7.0E-4, 53.1, -13.2)" gradientUnits="userSpaceOnUse" id="gradient47" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0011, 0.006, 0.006, -0.0011, 28.75, -24.9)" gradientUnits="userSpaceOnUse" id="gradient48" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <g id="sprite38" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.05)">
+      <use height="5.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, -0.05)" width="9.55" xlink:href="#shape47"/>
+    </g>
+    <g id="shape47" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.05)">
+      <path d="M9.3 2.0 Q8.3 4.65 3.4 5.6 -1.15 6.5 0.3 3.55 1.7 0.6 5.3 0.1 10.35 -0.65 9.3 2.0" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape48" transform="matrix(1.0, 0.0, 0.0, 1.0, 40.4, -0.25)">
+      <path d="M-40.4 0.7 L-39.7 0.4 -38.0 0.3 Q-36.8 0.6 -36.3 1.85 -35.8 3.2 -36.3 5.45 -36.75 7.6 -37.9 7.65 L-38.9 7.25 Q-37.85 5.45 -38.65 3.5 -39.15 2.3 -39.8 1.35 L-40.4 0.7" fill="url(#gradient49)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0026, 0.014, 0.0139, -0.0025, -35.75, 3.5)" gradientUnits="userSpaceOnUse" id="gradient49" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#223344"/>
+      <stop offset="0.13725490196078433" stop-color="#263b4b"/>
+      <stop offset="0.34509803921568627" stop-color="#31505d"/>
+      <stop offset="0.6" stop-color="#43727a"/>
+      <stop offset="0.8862745098039215" stop-color="#5ca1a3"/>
+      <stop offset="1.0" stop-color="#66b5b4"/>
+    </radialGradient>
+    <g id="sprite39" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.05)">
+      <use height="3.35" transform="matrix(1.0298, 0.0, 0.0, 0.6716, 0.0, -0.05)" width="3.35" xlink:href="#shape49"/>
+    </g>
+    <g id="shape49" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M3.35 0.65 Q3.3 1.9 1.9 2.9 0.55 3.9 0.1 2.7 -0.35 1.55 1.5 0.5 3.45 -0.6 3.35 0.65" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite40" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <use height="2.7" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.05, 0.0)" width="6.0" xlink:href="#shape50"/>
+    </g>
+    <g id="shape50" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <path d="M4.5 0.1 L6.05 0.6 Q5.5 1.9 4.7 2.35 L0.85 2.45 Q-0.1 2.3 0.05 1.7 0.15 1.1 1.15 0.55 2.7 -0.25 4.5 0.1" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite41" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="5.75" transform="matrix(1.0038, 0.0, 0.0, 1.0, 2.0E-4, 0.0)" width="13.3" xlink:href="#shape51"/>
+    </g>
+    <g id="shape51" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.05, 0.0)">
+      <path d="M7.35 0.0 L9.7 0.8 Q12.25 1.95 13.1 3.75 14.0 5.65 11.95 5.75 L7.1 5.0 Q4.8 4.45 2.5 2.9 L0.1 1.0 Q-0.7 0.3 7.35 0.0" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite42" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="17.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="15.65" xlink:href="#shape52"/>
+    </g>
+    <g id="shape52" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M15.65 0.0 Q12.85 6.45 6.15 12.55 2.8 15.6 0.0 17.35 4.7 13.5 10.65 6.35 L15.65 0.0" fill="#66b5b4" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite43" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="24.3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="22.85" xlink:href="#shape53"/>
+    </g>
+    <g id="shape53" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M20.55 7.55 L20.95 8.05 22.85 8.75 Q19.15 9.5 20.15 10.35 L19.0 10.95 Q18.25 11.3 17.9 11.6 17.4 12.05 17.2 13.2 L16.95 14.15 16.7 15.1 16.7 16.1 16.05 16.8 Q15.55 17.1 15.45 17.35 L15.3 18.25 Q14.85 18.05 14.7 18.7 L14.55 19.7 14.3 20.55 13.6 22.15 Q13.05 23.0 13.1 24.3 12.35 22.1 12.2 20.7 L11.95 19.25 11.5 19.0 11.4 18.4 10.85 18.75 11.35 15.8 11.05 14.95 10.55 14.2 Q10.2 14.2 10.2 13.85 L10.2 13.2 9.95 12.75 9.55 12.4 Q9.1 11.95 8.9 11.15 L8.5 9.8 7.75 10.05 8.25 9.15 Q8.5 8.7 8.15 8.3 L7.7 8.0 Q6.6 7.2 6.9 6.8 L6.0 6.65 6.3 6.35 6.1 6.25 2.8 2.75 2.2 1.75 2.2 1.8 Q0.4 0.8 0.0 0.0 1.05 0.15 2.9 1.2 L5.25 1.75 Q5.9 1.9 7.0 2.5 8.65 3.15 10.1 3.3 L11.8 3.4 11.75 3.0 12.4 3.75 Q12.5 3.5 13.65 3.4 L14.9 3.2 Q14.75 3.5 15.0 3.6 L15.55 3.7 16.35 4.45 17.1 4.6 17.85 4.7 19.55 6.15 20.2 7.0 20.55 7.55" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape54" transform="matrix(1.0, 0.0, 0.0, 1.0, 11.3, 11.6)">
+      <path d="M-1.6 -9.15 L-0.9 -8.35 0.65 -8.65 2.6 -9.3 2.25 -8.35 2.9 -8.3 3.5 -8.15 Q2.85 -7.75 4.2 -7.5 4.55 -6.5 6.95 -7.0 6.5 -6.55 6.55 -6.3 L7.15 -5.95 8.45 -4.4 8.9 -3.75 9.75 -3.15 9.1 -3.2 8.45 -3.15 Q8.75 -2.75 9.55 -2.45 L8.55 -2.6 7.5 -2.7 7.95 -2.15 7.4 -2.05 8.05 -1.65 7.45 -1.45 6.8 -1.25 Q5.55 -0.25 5.35 0.5 L5.5 1.2 5.8 1.5 6.05 1.7 4.7 1.9 5.1 2.3 4.4 2.15 Q4.95 2.85 4.2 3.95 L3.35 6.05 3.3 5.8 Q3.05 6.35 2.95 7.1 L2.7 5.7 Q2.15 7.25 2.1 8.2 L1.95 10.95 Q1.6 9.05 1.6 7.7 L1.4 10.05 0.9 7.7 1.2 5.1 0.3 5.95 0.65 3.55 0.85 2.9 0.5 2.45 0.55 1.45 0.15 1.65 -0.15 -0.25 Q-1.25 -0.05 -1.75 0.35 L-1.15 -0.9 -2.05 -0.85 -1.6 -1.25 Q-1.35 -1.45 -1.4 -1.65 L-1.75 -2.3 -2.25 -2.8 -2.95 -3.7 -3.5 -4.25 Q-3.9 -4.65 -3.55 -4.65 L-5.0 -4.5 -4.55 -4.95 -4.05 -5.3 -4.9 -5.35 Q-4.3 -5.45 -4.15 -5.6 L-4.65 -5.85 -5.65 -6.2 -6.3 -6.55 -7.0 -6.65 -6.7 -6.85 -7.7 -6.9 -7.5 -7.3 -8.95 -7.0 -8.65 -7.45 -8.25 -7.8 -8.95 -7.8 -8.1 -8.05 -9.0 -8.15 -9.9 -7.95 Q-9.6 -8.3 -9.05 -8.45 L-8.1 -8.3 -11.3 -11.6 -10.1 -10.7 -9.65 -10.45 -9.85 -10.7 -10.45 -11.6 Q-9.8 -10.95 -8.55 -10.4 L-6.55 -9.5 -7.4 -10.55 -6.5 -9.8 -6.65 -10.4 Q-6.45 -10.0 -5.5 -9.55 L-3.25 -8.8 -2.4 -8.65 -1.55 -8.7 -1.6 -9.15" fill="url(#gradient50)" fill-rule="evenodd" stroke="none"/>
+      <path d="M1.2 -2.9 Q1.3 -2.1 0.75 -2.0 0.2 -2.0 0.1 -2.8 0.0 -3.65 0.55 -3.65 1.0 -3.75 1.2 -2.9" fill="url(#gradient51)" fill-rule="evenodd" stroke="none"/>
+      <path d="M3.45 -0.4 Q3.45 0.35 3.1 0.85 2.8 1.35 2.3 1.35 1.85 1.35 1.55 0.85 1.2 0.35 1.2 -0.4 1.2 -1.1 1.55 -1.65 L2.35 -2.15 Q2.8 -2.15 3.15 -1.65 L3.45 -0.4" fill="url(#gradient52)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0134, 0.0, 0.0, -0.0134, -2.8, 0.35)" gradientUnits="userSpaceOnUse" id="gradient50" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#d2e6da"/>
+      <stop offset="1.0" stop-color="#427b9a"/>
+    </radialGradient>
+    <linearGradient gradientTransform="matrix(-7.0E-4, 0.0, 0.0, 7.0E-4, 0.6, -2.85)" gradientUnits="userSpaceOnUse" id="gradient51" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#12242d"/>
+      <stop offset="1.0" stop-color="#39492d"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0014, -3.0E-4, -3.0E-4, 0.0014, 2.25, -0.4)" gradientUnits="userSpaceOnUse" id="gradient52" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#12242d"/>
+      <stop offset="1.0" stop-color="#39492d"/>
+    </linearGradient>
+    <g id="sprite44" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="43.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="30.9" xlink:href="#shape55"/>
+    </g>
+    <g id="shape55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M26.85 3.25 L27.85 2.6 Q28.45 2.2 28.9 2.1 L27.65 3.7 Q26.7 4.95 27.0 5.4 27.3 5.9 29.05 5.7 L28.4 6.25 27.9 6.85 30.9 6.85 30.2 7.5 29.75 8.3 28.8 9.15 Q27.95 9.6 27.7 9.85 L26.3 11.65 25.6 12.55 Q24.9 13.0 24.75 13.35 L24.8 14.35 24.6 15.95 24.95 15.95 24.4 16.9 24.45 17.75 25.15 19.9 24.85 19.55 Q25.0 20.05 25.85 20.95 25.25 20.6 25.05 20.6 L25.75 21.6 25.0 21.15 Q26.6 23.7 27.0 27.2 L27.25 28.95 26.9 29.9 26.3 30.8 Q25.9 31.5 25.95 32.65 L26.15 34.6 26.2 35.5 25.9 36.35 Q25.6 36.85 25.45 37.55 L25.3 38.9 Q24.95 41.6 24.95 43.45 L23.85 42.0 22.65 38.85 22.0 37.15 Q21.45 35.9 21.0 36.25 L20.9 35.2 20.95 34.15 20.35 33.1 18.4 30.45 Q18.05 30.8 17.65 30.0 L17.2 28.9 Q16.85 29.15 15.95 28.3 L14.7 27.15 14.0 28.05 12.95 25.5 12.4 24.1 Q12.1 23.4 11.3 23.6 L11.25 23.8 11.45 20.1 Q11.55 19.3 11.3 18.95 L10.35 18.05 Q9.6 17.3 8.85 16.95 L7.95 16.6 Q7.55 16.3 7.6 15.75 L6.45 15.55 Q6.1 15.15 7.0 14.85 L4.85 14.55 2.65 14.4 0.0 14.4 2.1 13.5 4.3 12.35 5.5 11.9 6.65 11.4 6.25 11.15 6.9 11.25 7.55 11.2 7.85 11.0 8.15 10.75 8.7 10.75 9.25 10.65 9.45 10.25 9.65 9.8 10.15 9.8 10.55 9.95 10.5 9.45 11.35 9.55 10.95 8.15 10.45 6.9 11.25 7.8 12.3 8.35 12.0 7.5 Q12.25 8.25 13.95 8.15 15.55 8.05 16.15 7.5 L16.9 6.6 17.65 5.65 17.7 6.3 20.5 3.15 Q22.8 0.75 24.15 0.0 L23.2 1.6 Q22.6 2.55 22.5 3.3 23.4 2.8 23.8 2.7 L23.65 3.3 23.55 3.85 Q25.7 4.0 26.85 3.25" fill="#12242d" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape56" transform="matrix(1.0, 0.0, 0.0, 1.0, 14.85, 20.5)">
+      <path d="M9.95 -13.6 L12.6 -13.8 Q10.9 -13.65 10.45 -13.2 L11.35 -13.25 12.2 -13.15 11.3 -12.95 Q10.85 -12.75 10.7 -12.35 L10.6 -11.7 9.8 -11.0 9.15 -10.55 10.25 -10.6 9.45 -10.15 8.05 -8.95 Q7.15 -7.9 8.0 -7.55 L7.75 -7.1 8.15 -7.1 7.55 -6.2 7.65 -5.35 Q7.8 -4.35 8.35 -3.2 L8.0 -3.5 9.05 -2.15 8.25 -2.5 Q8.35 -2.1 8.95 -1.45 8.3 -1.6 8.1 -2.0 L8.65 -0.55 9.05 0.95 9.15 2.0 9.45 2.85 8.85 2.55 Q8.8 3.15 9.4 4.05 L10.3 5.4 9.45 4.9 Q8.95 4.45 8.6 4.35 8.95 4.45 8.3 6.6 L8.15 8.1 7.85 9.05 7.8 10.0 7.55 9.65 Q7.5 10.45 7.9 11.45 L8.55 13.15 7.45 11.8 Q7.4 12.35 7.7 13.35 L7.2 12.45 Q7.35 13.6 7.0 14.6 6.45 16.1 6.4 17.6 L6.1 16.55 Q5.85 17.3 6.05 18.65 L6.4 20.7 Q5.8 19.65 5.55 18.0 L5.25 15.15 Q5.1 15.5 5.1 16.2 L4.95 17.3 4.75 16.2 4.7 15.05 4.55 13.25 4.05 14.2 3.6 12.45 3.6 11.8 3.3 11.3 2.05 10.05 0.85 8.8 Q0.45 8.5 0.3 7.6 L0.4 7.65 -0.65 6.65 -1.6 5.55 -2.35 4.75 -3.15 3.95 Q-3.8 3.0 -3.5 2.75 -4.15 3.3 -4.35 4.4 L-4.55 2.4 -4.25 0.9 -5.2 0.95 -4.7 0.2 Q-4.95 0.25 -5.7 0.65 L-5.4 -0.8 Q-5.2 -1.7 -5.4 -3.5 L-5.8 -4.5 Q-6.55 -5.0 -6.75 -4.75 -6.5 -5.2 -7.55 -5.95 L-9.0 -6.85 -9.15 -6.75 -9.55 -7.2 -10.05 -6.75 -10.4 -7.8 -12.45 -7.75 -12.3 -8.05 -13.1 -8.0 -12.65 -8.35 -14.15 -8.35 -14.85 -8.3 -13.15 -8.85 -12.35 -8.95 -11.65 -9.2 -12.55 -9.35 -10.25 -9.9 Q-9.85 -10.05 -9.15 -10.55 L-8.05 -11.25 Q-7.6 -11.55 -7.4 -12.3 -7.15 -13.05 -7.35 -13.5 -6.65 -13.05 -6.25 -13.15 L-6.3 -13.65 -5.45 -13.5 -5.55 -14.2 -5.85 -14.9 -6.4 -16.2 Q-5.3 -14.75 -4.5 -14.7 L-4.85 -15.7 Q-4.75 -15.4 -3.9 -15.15 L-2.8 -15.0 -1.8 -15.25 -0.7 -15.2 Q-0.35 -15.1 0.05 -15.4 L1.1 -15.35 1.05 -15.3 1.1 -15.35 1.5 -16.35 2.0 -17.4 2.1 -16.7 3.45 -18.75 Q4.75 -20.3 5.2 -20.5 3.7 -18.4 3.6 -16.9 L5.0 -18.4 Q4.25 -17.0 4.7 -15.8 5.15 -16.65 6.25 -17.4 L6.0 -16.65 6.65 -16.7 Q7.55 -16.8 8.2 -17.45 L9.7 -18.85 Q9.0 -18.1 8.05 -16.1 L7.0 -13.9 7.75 -14.7 8.55 -15.35 Q8.05 -15.05 7.9 -14.2 7.7 -13.3 8.35 -13.15 8.8 -13.05 9.95 -13.6" fill="url(#gradient53)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0214, 0.0, 0.0, -0.0389, 15.7, -0.4)" gradientUnits="userSpaceOnUse" id="gradient53" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#d2e6da"/>
+      <stop offset="1.0" stop-color="#427b9a"/>
+    </radialGradient>
+    <g id="sprite45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="30.55" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="18.25" xlink:href="#shape57"/>
+    </g>
+    <g id="shape57" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M17.45 0.95 Q16.65 1.3 15.8 2.45 15.1 3.4 14.75 4.35 L15.6 4.05 16.45 3.85 15.8 4.35 17.05 4.35 18.2 4.6 16.45 5.65 17.25 5.5 Q16.65 5.95 16.3 6.8 15.95 7.7 16.25 8.3 15.8 8.65 15.75 9.3 L15.95 11.55 17.05 13.4 16.75 13.75 16.7 14.2 17.35 14.25 Q16.75 14.9 17.4 15.25 L18.25 15.95 17.9 16.35 17.45 16.75 17.35 17.65 17.1 20.5 Q16.9 21.0 16.8 22.15 L17.65 21.95 Q17.05 22.7 17.25 23.0 L17.7 23.35 17.45 23.65 17.25 24.0 17.35 24.25 17.35 24.55 16.95 24.85 16.55 25.25 Q16.1 26.6 16.1 27.9 L16.2 28.7 16.25 30.55 15.75 29.05 15.15 28.0 15.05 28.1 Q14.85 27.95 14.85 27.3 L14.45 28.05 14.45 26.55 14.3 25.0 13.75 26.1 13.55 24.7 13.15 24.95 13.3 24.3 12.85 23.8 Q12.0 23.15 12.05 22.65 L11.7 23.1 11.35 21.55 11.25 22.35 11.15 23.15 10.85 22.3 10.5 21.5 9.85 20.95 9.15 20.15 8.15 19.6 7.55 19.35 7.45 19.0 7.05 18.2 Q6.7 17.7 6.35 17.8 L6.55 16.85 6.05 16.1 6.0 15.2 Q5.9 14.75 5.3 14.8 5.5 14.1 5.35 12.75 5.15 11.4 5.85 10.95 L4.8 9.9 4.75 9.7 4.55 9.55 3.9 9.35 4.25 9.3 2.75 8.65 Q1.85 8.25 2.4 7.55 2.2 7.85 0.0 6.45 L1.7 6.65 1.05 5.95 2.05 6.2 1.65 5.55 1.35 5.25 2.4 5.6 Q3.25 5.65 3.8 5.15 L3.5 4.45 4.3 4.65 4.25 4.25 Q4.8 4.55 5.0 3.6 L5.25 2.15 Q5.55 1.15 7.3 1.6 L9.9 1.55 10.75 1.4 11.6 1.7 Q12.9 2.15 13.4 0.0 L13.35 1.25 13.45 2.2 14.3 1.0 13.95 2.0 13.9 2.65 Q14.6 1.45 17.45 0.95" fill="url(#gradient54)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.021, 0.0, 0.0, -0.0349, 22.2, 12.1)" gradientUnits="userSpaceOnUse" id="gradient54" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#d2e6da"/>
+      <stop offset="1.0" stop-color="#427b9a"/>
+    </radialGradient>
+    <g id="shape58" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.75, 12.55)">
+      <path d="M3.4 2.85 Q3.65 3.65 3.45 4.35 3.3 5.0 2.75 5.2 2.25 5.35 1.7 4.9 1.15 4.5 0.9 3.7 0.65 2.9 0.8 2.25 1.0 1.55 1.5 1.4 2.05 1.2 2.6 1.65 L3.4 2.85" fill="url(#gradient55)" fill-rule="evenodd" stroke="none"/>
+      <path d="M7.05 -5.35 L7.05 -4.15 Q6.9 -3.6 6.5 -3.55 6.15 -3.45 5.8 -3.9 5.45 -4.35 5.35 -5.0 5.2 -5.65 5.35 -6.2 5.55 -6.7 5.9 -6.8 6.25 -6.85 6.6 -6.45 L7.05 -5.35" fill="url(#gradient56)" fill-rule="evenodd" stroke="none"/>
+      <path d="M5.05 -8.3 Q5.35 -7.2 4.7 -7.0 4.4 -6.9 4.1 -7.15 3.75 -7.4 3.65 -7.8 3.5 -8.25 3.6 -8.65 L4.0 -9.1 4.6 -8.95 5.05 -8.3" fill="url(#gradient57)" fill-rule="evenodd" stroke="none"/>
+      <path d="M9.75 3.0 Q11.05 2.85 12.25 2.15 L13.5 1.1 Q14.15 0.35 13.9 -0.2 13.65 -0.75 14.65 -1.9 15.95 -3.15 16.25 -2.25 L16.1 -0.7 15.8 0.0 15.0 0.35 Q14.55 0.45 14.1 0.95 L13.5 1.8 Q12.55 2.95 11.6 3.55 L9.4 4.5 7.85 5.1 7.35 5.5 7.55 4.3 Q7.8 3.1 8.2 3.05 L9.75 3.0" fill="url(#gradient58)" fill-rule="evenodd" stroke="none"/>
+      <path d="M8.95 3.45 Q8.75 3.7 8.9 4.3 9.1 5.1 9.9 5.6 L12.05 5.85 Q13.2 5.6 14.15 4.8 14.7 4.35 14.6 3.9 L14.45 3.1 Q14.4 2.8 14.95 2.3 L16.15 1.25 17.85 1.3 Q17.95 2.25 17.65 3.5 17.3 4.85 16.8 4.9 L16.05 4.9 Q15.7 4.9 15.35 5.2 L13.3 6.4 Q11.45 7.25 10.2 7.25 8.75 7.25 7.65 6.55 6.6 5.9 6.35 5.05 L7.75 3.8 Q8.2 3.45 8.95 3.45" fill="url(#gradient59)" fill-rule="evenodd" stroke="none"/>
+      <path d="M16.4 -12.5 Q17.25 -12.15 17.75 -10.05 18.15 -8.5 18.15 -7.2 18.2 -6.15 17.35 -5.5 16.6 -4.95 15.5 -4.85 L13.65 -1.3 11.4 1.15 9.1 3.55 8.35 4.75 7.25 5.5 Q6.6 5.65 6.1 5.2 5.45 4.5 5.5 2.65 5.5 1.1 5.9 0.2 6.35 -0.85 7.3 -0.95 L9.2 -0.9 Q11.7 -1.0 13.3 -3.05 14.75 -4.9 14.15 -5.4 13.1 -6.3 12.9 -6.85 12.6 -7.55 13.3 -8.6 L14.55 -11.05 Q15.6 -12.85 16.4 -12.5" fill="url(#gradient60)" fill-rule="evenodd" stroke="none"/>
+      <path d="M9.25 -3.6 L8.25 -2.6 Q8.0 -2.4 7.15 -2.05 L6.1 -1.5 6.15 -2.2 Q6.25 -2.9 6.45 -2.95 L7.3 -2.95 Q7.95 -3.0 8.6 -3.45 L9.25 -4.05 9.4 -4.8 Q9.25 -5.3 9.8 -5.85 10.4 -6.65 10.6 -6.05 L10.55 -5.1 Q10.5 -4.55 10.0 -4.5 9.75 -4.45 9.55 -4.1 L9.25 -3.6" fill="url(#gradient61)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0017, 0.0, 0.0, -0.0017, 2.15, 3.3)" gradientUnits="userSpaceOnUse" id="gradient55" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#12242d"/>
+      <stop offset="1.0" stop-color="#39492d"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0011, 2.0E-4, 1.0E-4, -0.0014, 6.2, -5.2)" gradientUnits="userSpaceOnUse" id="gradient56" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#12242d"/>
+      <stop offset="1.0" stop-color="#39492d"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(9.0E-4, 0.0, 0.0, -9.0E-4, 4.35, -8.05)" gradientUnits="userSpaceOnUse" id="gradient57" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#12242d"/>
+      <stop offset="1.0" stop-color="#39492d"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0034, 0.0016, -0.0015, 0.0025, 10.25, 1.8)" gradientUnits="userSpaceOnUse" id="gradient58" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d4d4d4"/>
+      <stop offset="0.16470588235294117" stop-color="#b5b5a2"/>
+      <stop offset="1.0" stop-color="#272c3f"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0053, -6.0E-4, 6.0E-4, 0.0053, 12.1, 3.55)" gradientUnits="userSpaceOnUse" id="gradient59" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d4d4d4"/>
+      <stop offset="0.16470588235294117" stop-color="#b5b5a2"/>
+      <stop offset="1.0" stop-color="#2f5c58"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0047, -0.007, -0.007, -0.0047, 11.0, -1.65)" gradientUnits="userSpaceOnUse" id="gradient60" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d4d4d4"/>
+      <stop offset="0.16470588235294117" stop-color="#b5b5a2"/>
+      <stop offset="1.0" stop-color="#524d84"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0017, 9.0E-4, -9.0E-4, 0.0017, 7.55, -3.65)" gradientUnits="userSpaceOnUse" id="gradient61" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#d4d4d4"/>
+      <stop offset="0.16470588235294117" stop-color="#b5b5a2"/>
+      <stop offset="1.0" stop-color="#272c3f"/>
+    </linearGradient>
+  </defs>
+</svg>
