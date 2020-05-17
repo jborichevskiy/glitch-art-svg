@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="50.0px" width="50.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape0"/>
+    </clipPath>
+    <g clip-path="url(#clipPath0)">
+      <use height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape1"/>
+    </g>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M0.0 50.0 L0.0 0.0 50.0 0.0 50.0 50.0 0.0 50.0" fill="#cb3d2a" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <pattern height="50" id="PatternID_3_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 50 50" width="50">
+        <image height="50" width="50" xlink:href="data:image/JPEG;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAA8AAD/4QMpaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjAtYzA2MCA2MS4xMzQ3NzcsIDIwMTAvMDIvMTItMTc6MzI6MDAgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzUgV2luZG93cyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3NzcwRkE1NzdFRTQxMUUxODcyNzk0REI1NTM0RERDOSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3NzcwRkE1ODdFRTQxMUUxODcyNzk0REI1NTM0RERDOSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc3NzBGQTU1N0VFNDExRTE4NzI3OTREQjU1MzREREM5IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc3NzBGQTU2N0VFNDExRTE4NzI3OTREQjU1MzREREM5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoKDBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgAMgAyAwERAAIRAQMRAf/EAJgAAAMAAwEAAAAAAAAAAAAAAAQFBgECBwMBAAMBAQEBAAAAAAAAAAAAAAMEBQIBAAYQAAIBAwIDBAMKDwAAAAAAAAECAwARBBIFITETUWEiBkGxtXEyQnKyM7MUNDWhwWIjc4NEdIQV1RYmNgcRAAIBAgMHBAIDAQAAAAAAAAABAhEDIUEEMXHREiLSBfBhMjNRE4GRsRT/2gAMAwEAAhEDEQA/AOieYW/yfcPiwfR1CvfNlCPxQFqoZ4GOZA244mOrgzJkwMydgMgrlcVvCKD5a5FPMxPmTeAOJMkHD+HSmqNzdPWACTpFVDk2/OddSxG3fYes0wtLceQq9VbWYs3jUu1Zl7fZ5DwIPAobcqFfsThF8yC2b8JyXK6jbX7Jr3aF4nNv+o5WZBvmW8LMkYWNiy3HjWNdIJFLahPnrkP6FQaddpJr5oyvf5K6G5lizcOy/OlnCpSTSVKJIdeWWM+5LlSD86MnGRTwFwZAWPaeQ51u2sVvE9a6UWR0eKZh5w3ZLeBhGSe8QxW9Heat6FL9smfN+Q+uJpjbxmnKRWuEnkUISOKqWsQpterTSoQlJ1Nt9zJcjYnkWNlx3xJGHV1RyR3jBRDEygjhfVexBFrdkzyP1MqeO+0O1eyqm9pX4kZ53w/r287hBa9zjEi9uSClr66n/AzprihRv3JeLycBkMTMQikFZLAlgRxFr8LdpoPIOf8Aakk6YjrF23CwsnCMEdn+sQK0hN2I6gPGtKKTW8UnelPaVOUA+/7wpJF5IOI4H5hKdt3HC45L1gJXrSnBRfrEwsUi5UUhcskJUqG/JN7VSXkOjFdRLfjuvB9JnesmSTa8zUeHQksBy94an6m/K4nXYUdNYjbeG0Za/ZVZ7Q3EnN7DyeZ85UF2IhsP1dLaiSjJtmk+lG67LnFbkopPwSTf8AIqdLyVtOmP9HOdAObjS42VhCQqT9ah4KQSPGOdMWdRG48PY1GVajXMy8eDf92aeVIlMkIBdgoJ6CdtqoqDlN09YA5NKKCIZYZk1xSrIvapDeqmVpXmwTuC7etwxIsHJhaUGaSKRRGvEglTztyoV7TtRb9jdu4m0PNXsus9pviRXnZpf7jybfM6Y9Zv8PQujh7mqk9e48jWfMv8MSTovwKcLObFlEjSukEd3lC6j4VBJ8K3J4d1Rmm1RGB3kyyNlYOmMmLrwsZb8j1BYW50Xx9FP3C23t3C3/pxT+aSnjbqprsRz6K/i7a+sstVdNoCdSLxyesjKwFmB52PP0UcGUIfImxxIEOPMwPVjbTIQqgkqdLaeI9IoWo+uW4Jb+SOn6/ZdI9ofiS/mSKObzBnK4uLQkdx6dr0rqIKUmmaSrFC6DBhhnSVSfByXtPfSktHF5meRBEsrNkYdz+0w/LFGt2Ywap7BIqgdve04W6bzucWUGsksLIynSQeggp+M3GcqApKsUJ5PIOD1A8WVKtjchwr+rTR1qX+Af60NZtrwsLbMsxIDIYZS0h5klDegXrrknUJbik0UGr2ZXe07xJ7ff8AYs73Ifo6Bd+bNx+KBKGeNH+0Yn7zD8sV7NbzqHk33/uvx4foEph/J+sgeSPWvHAXc/u3L/QyfINZnsZ2O1DX+mUXtPcT/9k="/>
+      </pattern>
+      <path d="M0.0 0.0 L50.0 0.0 50.0 50.0 0.0 50.0 0.0 0.0" style="fill:url(#PatternID_3_1)"/>
+    </g>
+  </defs>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="50.0px" width="50.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape0"/>
+    </clipPath>
+    <g clip-path="url(#clipPath0)">
+      <use height="115.95" transform="matrix(1.0, 0.0, 0.0, 1.0, -4.05, -27.9)" width="58.0" xlink:href="#shape1"/>
+      <use height="300.0" transform="matrix(0.5, 0.0, 0.0, 0.5, -14.0, -32.5)" width="150.0" xlink:href="#sprite0"/>
+    </g>
+    <use height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.0" xlink:href="#shape3"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M0.0 50.0 L0.0 0.0 50.0 0.0 50.0 50.0 0.0 50.0" fill="#cb3d2a" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 4.05, 27.9)">
+      <path d="M53.95 -27.9 L53.95 88.05 -4.05 88.05 -4.05 -27.9 53.95 -27.9" fill="#909090" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="300.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <pattern height="300" id="PatternID_4_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 150 300" width="150">
+        <image height="300" width="150" xlink:href="data:image/JPEG;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAAKAAD/4QMraHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjAtYzA2MCA2MS4xMzQ3NzcsIDIwMTAvMDIvMTItMTc6MzI6MDAgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzUgTWFjaW50b3NoIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkY2M0Y0NDczNzEyNjExRTFCNDk3ODlDNTJENjdFQzYzIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkY2M0Y0NDc0NzEyNjExRTFCNDk3ODlDNTJENjdFQzYzIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RjYzRjQ0NzE3MTI2MTFFMUI0OTc4OUM1MkQ2N0VDNjMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RjYzRjQ0NzI3MTI2MTFFMUI0OTc4OUM1MkQ2N0VDNjMiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAOQWRvYmUAZMAAAAAB/9sAhAAUEBAZEhknFxcnMiYfJjIuJiYm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"/>
+      </pattern>
+      <path d="M150.0 0.0 L150.0 300.0 0.0 300.0 0.0 0.0 150.0 0.0" style="fill:url(#PatternID_4_1)"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M50.0 50.0 L0.0 50.0 0.0 0.0 50.0 0.0 50.0 50.0" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0305, -0.0305, 0.0, 25.0, 25.0)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#000000" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#000000" stop-opacity="0.13725491"/>
+    </linearGradient>
+  </defs>
+</svg>

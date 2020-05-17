@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="108.0px" width="150.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="108.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape0"/>
+    </clipPath>
+    <g clip-path="url(#clipPath0)">
+      <use height="108.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape1"/>
+    </g>
+    <use height="108.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape2"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M150.0 108.0 L0.0 108.0 0.0 0.0 150.0 0.0 150.0 108.0" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <pattern height="108" id="PatternID_3_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 150 108" width="150">
+        <image height="108" width="150" xlink:href="data:image/JPEG;base64,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"/>
+      </pattern>
+      <path d="M0.0 0.0 L150.0 0.0 150.0 108.0 0.0 108.0 0.0 0.0" style="fill:url(#PatternID_3_1)"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M150.0 108.0 L0.0 108.0 0.0 0.0 150.0 0.0 150.0 108.0" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0655, 0.0655, 0.0, 75.0, 53.9)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#000000" stop-opacity="0.24705882"/>
+      <stop offset="0.09019607843137255" stop-color="#000000" stop-opacity="0.16078432"/>
+      <stop offset="0.7372549019607844" stop-color="#000000" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#000000" stop-opacity="0.13725491"/>
+    </linearGradient>
+  </defs>
+</svg>

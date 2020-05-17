@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="300.0px" width="150.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="322.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -9.0)" width="150.1" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 9.0)">
+      <use height="300.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape0"/>
+      <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 9.0)">
+        <use height="300.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape1"/>
+      </clipPath>
+      <g clip-path="url(#clipPath0)">
+        <use height="322.35" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, -9.0)" width="150.1" xlink:href="#shape2"/>
+      </g>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M150.0 0.0 L150.0 300.0 0.0 300.0 0.0 0.0 150.0 0.0" fill="#dbd3c5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M150.0 0.0 L150.0 300.0 0.0 300.0 0.0 0.0 150.0 0.0" fill="#84aab6" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 9.0)">
+      <path d="M150.0 -9.0 L150.1 -9.0 150.1 310.1 150.0 310.1 150.0 -9.0" fill="#c7c0b0" fill-rule="evenodd" stroke="none"/>
+      <path d="M50.0 -9.0 L50.0 310.1 41.0 310.1 41.0 -9.0 50.0 -9.0 M90.0 -9.0 L98.0 -9.0 98.0 310.1 90.0 310.1 90.0 -9.0 M125.0 -9.0 L150.0 -9.0 150.0 310.1 125.0 310.1 125.0 -9.0" fill="#aeb196" fill-rule="evenodd" stroke="none"/>
+      <path d="M84.0 -9.0 L90.0 -9.0 90.0 310.1 84.0 310.1 84.0 -9.0" fill="#b3a58e" fill-rule="evenodd" stroke="none"/>
+      <path d="M7.0 310.1 L0.0 310.1 0.0 -9.0 7.0 -9.0 7.0 310.1" fill="#cdc6b5" fill-rule="evenodd" stroke="none"/>
+      <path d="M98.0 -9.0 L109.0 -9.0 109.0 310.1 98.0 310.1 98.0 -9.0" fill="#d0c2ad" fill-rule="evenodd" stroke="none"/>
+      <path d="M109.0 -9.0 L125.0 -9.0 125.0 310.1 109.0 310.1 109.0 -9.0 M84.0 310.1 L59.0 310.1 59.0 -9.0 84.0 -9.0 84.0 310.1" fill="#dbd3c5" fill-rule="evenodd" stroke="none"/>
+      <path d="M25.0 -9.0 L30.0 -9.0 30.0 310.1 25.0 310.1 25.0 -9.0" fill="#b8bb9e" fill-rule="evenodd" stroke="none"/>
+      <path d="M7.0 -9.0 L25.0 -9.0 25.0 310.1 7.0 310.1 7.0 -9.0" fill="#acb090" fill-rule="evenodd" stroke="none"/>
+      <path d="M65.0 -9.0 L65.0 310.1 62.15 310.1 62.15 -9.0 65.0 -9.0" fill="#c0b3a0" fill-rule="evenodd" stroke="none"/>
+      <path d="M77.0 -9.0 L77.0 310.1 69.95 310.1 69.95 -9.0 77.0 -9.0" fill="#aeb196" fill-rule="evenodd" stroke="none"/>
+      <path d="M90.0 -9.0 L90.0 310.1 84.5 310.1 84.5 -9.0 90.0 -9.0" fill="#9ca083" fill-rule="evenodd" stroke="none"/>
+      <path d="M139.0 -9.0 L139.0 310.1 133.5 310.1 133.5 -9.0 139.0 -9.0" fill="#9ca083" fill-rule="evenodd" stroke="none"/>
+      <path d="M62.15 -5.75 L62.15 313.35 56.15 313.35 56.15 -5.75 62.15 -5.75" fill="#d0c2ad" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

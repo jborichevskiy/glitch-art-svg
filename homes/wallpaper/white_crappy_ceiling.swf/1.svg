@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="50.0px" width="150.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="50.25" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.1, 0.05)">
+      <use height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.1, -0.05)" width="150.0" xlink:href="#shape0"/>
+      <use height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.1, 0.2)" width="150.0" xlink:href="#sprite1"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, -0.1, 0.05)">
+      <path d="M0.1 -0.05 L150.1 -0.05 150.1 49.95 0.1 49.95 0.1 -0.05" fill="#f6f6f6" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.1 -0.05 L150.1 49.95 0.1 49.95 0.1 -0.05 150.1 -0.05" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, -0.0305, -0.0329, 0.0, 72.1, 24.45)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#000000" stop-opacity="0.2784314"/>
+      <stop offset="1.0" stop-color="#000000" stop-opacity="0.1254902"/>
+    </linearGradient>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="50.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <pattern height="50" id="PatternID_3_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 150 50" width="150">
+        <image height="50" width="150" xlink:href="data:image/JPEG;base64,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"/>
+      </pattern>
+      <path d="M150.0 50.0 L0.0 50.0 0.0 0.0 150.0 0.0 150.0 50.0" style="fill:url(#PatternID_3_1)"/>
+    </g>
+  </defs>
+</svg>

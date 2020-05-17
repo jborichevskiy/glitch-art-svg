@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="108.0px" width="150.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <clipPath id="clipPath0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="108.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape0"/>
+    </clipPath>
+    <g clip-path="url(#clipPath0)">
+      <use height="108.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape1"/>
+    </g>
+    <use height="108.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="150.0" xlink:href="#shape2"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M150.0 108.0 L0.0 108.0 0.0 0.0 150.0 0.0 150.0 108.0" fill="#ff0000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <pattern height="108" id="PatternID_3_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 150 108" width="150">
+        <image height="108" width="150" xlink:href="data:image/JPEG;base64,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"/>
+      </pattern>
+      <path d="M0.0 0.0 L150.0 0.0 150.0 108.0 0.0 108.0 0.0 0.0" style="fill:url(#PatternID_3_1)"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M150.0 108.0 L0.0 108.0 0.0 0.0 150.0 0.0 150.0 108.0" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, 0.0655, 0.0655, 0.0, 75.0, 53.9)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#000000" stop-opacity="0.23921569"/>
+      <stop offset="0.0784313725490196" stop-color="#000000" stop-opacity="0.1764706"/>
+      <stop offset="0.7372549019607844" stop-color="#000000" stop-opacity="0.0"/>
+      <stop offset="1.0" stop-color="#000000" stop-opacity="0.13725491"/>
+    </linearGradient>
+  </defs>
+</svg>
